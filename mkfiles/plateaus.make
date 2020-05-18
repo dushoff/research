@@ -1,4 +1,4 @@
-## This is a linked Makefile for …
+## This is a linked Makefile for plateaus (Weitz covid paper)
 
 current: target
 -include target.mk
@@ -7,6 +7,15 @@ current: target
 
 vim_session:
 	bash -cl "vmt"
+
+######################################################################
+
+Sources += $(wildcard *.tex)
+
+## covidplateaus.pdf: covidplateaus.abs.tex covidplateaus.body.tex
+
+covidplateaus.pdf: $(wildcard *.tex)
+	pdflatex covidplateaus
 
 ######################################################################
 

@@ -1,4 +1,5 @@
 ## New research container 2020 May 17 (Sun)
+## My first "listdir"
 
 current: target
 -include target.mk
@@ -7,23 +8,30 @@ current: target
 
 ######################################################################
 
-screen_session: 
-	$(plvscreens)
+Sources += $(wildcard mkfiles/*.make)
+.PRECIOUS: mkfiles/%.make
+mkfiles/%.make:
+	cp mkfiles/mkfiles.make $@
 
-######################################################################
-
-Sources += $(wildcard makefiles/*.make)
-.PRECIOUS: makefiles/%.make
-makefiles/%.make:
-	cp makefiles/makefiles.make $@
-
-%/Makefile: makefiles/%.make
+%/Makefile: mkfiles/%.make
 	cd $* && $(LN) ../$< Makefile
 
 ######################################################################
 
+## Quickstart 
+
 Ignore += plateaus
 alldirs += plateaus
+
+######################################################################
+
+Sources += $(wildcard *.pl)
+
+## Guide file
+
+######################################################################
+
+### listdir stuff (listdir.mk)
 
 ######################################################################
 
@@ -42,6 +50,8 @@ makestuff/Makefile:
 -include makestuff/os.mk
 
 ## -include makestuff/wrapR.mk
+
+-include makestuff/listdir.mk
 
 -include makestuff/git.mk
 -include makestuff/visual.mk
