@@ -39,6 +39,7 @@ makestuff/Makefile:
 ## -include makestuff/wrapR.mk
 
 -include makestuff/listdir.mk
+-include makestuff/screendir.mk
 -include makestuff/mkfiles.mk
 
 -include makestuff/git.mk
