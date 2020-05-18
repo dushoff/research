@@ -8,16 +8,6 @@ current: target
 
 ######################################################################
 
-Sources += $(wildcard mkfiles/*.make)
-.PRECIOUS: mkfiles/%.make
-mkfiles/%.make:
-	cp mkfiles/mkfiles.make $@
-
-%/Makefile: mkfiles/%.make
-	cd $* && $(LN) ../$< Makefile
-
-######################################################################
-
 ## Quickstart 
 
 Ignore += plateaus
@@ -47,11 +37,14 @@ makestuff/Makefile:
 	git clone $(msrepo)/makestuff
 	ls $@
 
+### Includes
+
 -include makestuff/os.mk
 
 ## -include makestuff/wrapR.mk
 
 -include makestuff/listdir.mk
+-include makestuff/mkfiles.mk
 
 -include makestuff/git.mk
 -include makestuff/visual.mk
