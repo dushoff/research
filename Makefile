@@ -1,17 +1,12 @@
 ## New research container 2020 May 17 (Sun)
 ## My first "listdir"
 
+## WARNING dirnames.mk:
+
 current: target
 -include target.mk
 
 -include makestuff/perl.def
-
-######################################################################
-
-## Quickstart 
-
-Ignore += plateaus
-alldirs += plateaus
 
 ######################################################################
 
