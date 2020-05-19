@@ -1,7 +1,4 @@
-## New research container 2020 May 17 (Sun)
-## My first "listdir"
-
-## WARNING dirnames.mk:
+## This is the screendir research
 
 current: target
 -include target.mk
@@ -10,13 +7,11 @@ current: target
 
 ######################################################################
 
-Sources += $(wildcard *.pl)
-
-## Guide file
-
-######################################################################
-
-### listdir stuff (listdir.mk)
+vim_session: 
+	bash -cl "vmt screens.list"
+	
+screen_session:
+	$(MAKE) $(vscreens)
 
 ######################################################################
 
@@ -27,7 +22,6 @@ Sources += Makefile
 Ignore += makestuff
 msrepo = https://github.com/dushoff
 Makefile: makestuff/Makefile
-## makestuff: makestuff/Makefile
 makestuff/Makefile:
 	git clone $(msrepo)/makestuff
 	ls $@
@@ -44,4 +38,3 @@ makestuff/Makefile:
 
 -include makestuff/git.mk
 -include makestuff/visual.mk
--include makestuff/projdir.mk
