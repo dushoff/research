@@ -62,8 +62,7 @@ Time-varying survival
 
 # Unsorter
 130. name229:  https://github.com/bbolker/stat744.git  ../DataViz/17/
-131. name230:  https://github.com/bbolker/stat744_private.git
-	url = https://github.com/arthurchen2018/STAT744.git  ../DataViz/p17/
+131. name230:  https://github.com/bbolker/stat744_private.git url = https://github.com/arthurchen2018/STAT744.git  ../DataViz/p17/
 132. name231:  https://github.com/mac-theobio/DataViz_private.git  ../DataViz/private/
 133. name232:  https://github.com/mac-theobio/DataViz.git  ../DataViz/public/
 134. qmee:  https://github.com/mac-theobio/QMEE.git  ../DataViz/QMEE/
@@ -90,6 +89,12 @@ Time-varying survival
 155. name253:  https://github.com/parksw3/speedstrength.git  ../park/speed/
 156. name254:  https://github.com/parksw3/contact_trace.git  ../park/trace/
 157. name255:  ../planning/covid19/
+<<<<<<< HEAD
+=======
+158. name256:  ../planning/notebook/
+159. name257:  ../planning/Planning/
+160. name258:  ../planning/theobio_site/
+>>>>>>> 6b7de902200cb1f6a6fdfbdc7d7b6aed55c6ff5d
 161. name259:  https://github.com/bbolker/bbmisc.git  ../projects/bbmisc/
 162. name260:  https://github.com/dushoff/checkPlots.git  ../projects/checkPlots/
 163. name261:  https://github.com/dushoff/diversity_metrics.git  ../projects/diversity_metrics/
@@ -106,7 +111,5 @@ Time-varying survival
 174. name272:  https://github.com/wzmli/rabies_R0.git  ../rabies/R0/
 175. name273:  https://github.com/wzmli/rabies_db_pipeline.git  ../rabies/tz_pipeline/
 176. name274:  https://github.com/fishforwish/aging.git  ../shi/aging/
-177. name275:  https://github.com/dushoff/Circumcision_and_behaviour.git
-	url = https://github.com/dushoff/makestuff  ../shi/behaviour/
-178. name276:  https://github.com/wzmli/mc_recency.git
-	url = https://github.com/dushoff/makestuff.git  ../shi/recency/
+177. name275:  https://github.com/dushoff/Circumcision_and_behaviour.git url = https://github.com/dushoff/makestuff  ../shi/behaviour/
+178. name276:  https://github.com/wzmli/mc_recency.git url = https://github.com/dushoff/makestuff.git  ../shi/recency/
