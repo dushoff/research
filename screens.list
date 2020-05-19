@@ -9,109 +9,104 @@
 
 ## Chyun survey project
 
-221. awareness:  https://github.com/covid19awareness/Survey.git  ../coronavirus/survey/
+4. awareness:  https://github.com/covid19awareness/Survey.git  ../coronavirus/survey/
 
 This was the github.io page, but C. may still be doing stuff here?
-223. websurvey:  ../coronavirus/websurvey/
+5. websurvey:  https://github.com/covid19awareness/covid19awareness.github.io.git  ../coronavirus/websurvey/
 
 ######################################################################
 
 ## SACEMA
 
 ## WHO
-4. afroData: https://github.com/SACEMA/afroData.git ../coronavirus/afroData/
+6. afroData: https://github.com/SACEMA/afroData.git ../coronavirus/afroData/
 
-5. afroFitting: https://github.com/SACEMA/afroFitting.git
+7. afroFitting: https://github.com/SACEMA/afroFitting.git
 
 ######################################################################
 
 Cygu
 
 Time-varying survival
-0. tvsurvive: https://github.com/CYGUBICKO/pcoxtime.git
+8. tvsurvive: https://github.com/CYGUBICKO/pcoxtime.git
 
 ----------------------------------------------------------------------
 
 ## Weitz plateaus, very messy
-106. plateaus: https://github.com/jsweitz/covid19-git-plateaus.git
+109. plateaus: https://github.com/jsweitz/covid19-git-plateaus.git
 
-107. Google_News: https://github.com/covid19awareness/Google_News.git
+110. Google_News: https://github.com/covid19awareness/Google_News.git
 
 # Web
-208. name207:  ../admin/AnnualFlu/
-209. name214:  ../admin/theobio_site/
 
 # org?
-210. name208:  ../admin/coreFaculty/
-211. name209:  ../admin/Correspondence/
-212. name210:  ../admin/cron/
-213. name211:  ../admin/CV/
-214. name212:  ../admin/Lab_meeting/
-215. name213:  ../admin/Planning/
+113. name208:  ../admin/coreFaculty/
+114. name209:  ../admin/Correspondence/
+115. name210:  ../admin/cron/
+116. name211:  ../admin/CV/
+117. name212:  ../admin/Lab_meeting/
+118. name213:  ../admin/Planning/
 
 #research?
-216. name215:  https://github.com/wzmli/corona.git  ../coronavirus/corona/
-217. name216:  https://github.com/wzmli/covid_delay.git  ../coronavirus/delay/
-218. name217:  https://github.com/davidearn/MacTheoBioCOVID19Research.git  ../coronavirus/MacPrivate/
-219. name218:  https://github.com/SACEMA/covidProjections.git  ../coronavirus/SACEMA/
-220. name219:  https://github.com/SACEMA/SMART_testing.git  ../coronavirus/smart_test/
-222. name222:  https://github.com/davidearn/OntarioModellingTable.git  ../coronavirus/table/
-224. name224:  https://github.com/CYGUBICKO/admins.git  ../cygu/admins/
-225. name225:  https://github.com/cygubicko/funs.git  ../cygu/funs/
-226. name226:  https://github.com/CYGUBICKO/hh.git  ../cygu/hh/
-227. name227:  https://github.com/CYGUBICKO/proview.git  ../cygu/proview/
-228. name228:  https://github.com/cygubicko/wash.git  ../cygu/wash/
+119. name215:  https://github.com/wzmli/corona.git  ../coronavirus/corona/
+120. name216:  https://github.com/wzmli/covid_delay.git  ../coronavirus/delay/
+121. name217:  https://github.com/davidearn/MacTheoBioCOVID19Research.git  ../coronavirus/MacPrivate/
+122. name218:  https://github.com/SACEMA/covidProjections.git  ../coronavirus/SACEMA/
+123. name219:  https://github.com/SACEMA/SMART_testing.git  ../coronavirus/smart_test/
+124. name222:  https://github.com/davidearn/OntarioModellingTable.git  ../coronavirus/table/
+125. name224:  https://github.com/CYGUBICKO/admins.git  ../cygu/admins/
+126. name225:  https://github.com/cygubicko/funs.git  ../cygu/funs/
+127. name226:  https://github.com/CYGUBICKO/hh.git  ../cygu/hh/
+128. name227:  https://github.com/CYGUBICKO/proview.git  ../cygu/proview/
+129. name228:  https://github.com/cygubicko/wash.git  ../cygu/wash/
 
 # Unsorter
-229. name229:  https://github.com/bbolker/stat744.git  ../DataViz/17/
-230. name230:  https://github.com/bbolker/stat744_private.git
+130. name229:  https://github.com/bbolker/stat744.git  ../DataViz/17/
+131. name230:  https://github.com/bbolker/stat744_private.git
 	url = https://github.com/arthurchen2018/STAT744.git  ../DataViz/p17/
-231. name231:  https://github.com/mac-theobio/DataViz_private.git  ../DataViz/private/
-232. name232:  https://github.com/mac-theobio/DataViz.git  ../DataViz/public/
-233. qmee:  https://github.com/mac-theobio/QMEE.git  ../DataViz/QMEE/
-234. fate: ../coronavirus/state/
-235. name234:  https://github.com/davidearn/LBoM.git  ../earn/LBoM/
-236. name235:  https://github.com/davidearn/onmort.git  ../earn/onmort/
-237. name236:  https://github.com/ICI3D/DAIDD.git  ../ici3d/DAIDD/
-238. name237:  https://github.com/ICI3D/ICI3D.github.io.git  ../ici3d/io/
-239. name238:  https://github.com/ICI3D/MMED.git  ../ici3d/MMED/
-240. name239:  https://github.com/cfshi/coronavirus.git  ../outbreak/ccall/
-241. name240:  https://github.com/davidchampredon/covid-fcst.git  ../outbreak/fcst/
-242. name241:  https://github.com/parksw3/Korea-analysis.git  ../outbreak/Korea/
-243. name242:  https://github.com/wzmli/curate_coronadata.git  ../outbreak/li_data/
-244. name243:  https://github.com/wzmli/hybridx.git  ../outbreak/lunchbox/
-245. name244:  https://github.com/parksw3/wuhan.git  ../outbreak/park/
-246. name245:  https://github.com/wzmli/rabies_R0.git  ../outbreak/rabies_R0/
-247. name246:  https://github.com/SACEMA/covidProjections.git  ../outbreak/SACEMA/
-248. name247:  https://github.com/dushoff/Ebola_sims.git  ../outbreak/sims/
-249. name248:  https://github.com/Outbreak-analysis/ncov_cihr.git  ../outbreak/special/
-250. name249:  https://github.com/Outbreak-analysis/startingPoints.git  ../outbreak/start/
-251. name250:  https://github.com/parksw3/censor.git  ../park/censor/
-252. name251:  https://github.com/parksw3/bayesantigen2.git  ../park/flumap/
-253. name252:  https://github.com/parksw3/serial.git  ../park/serial/
-254. name253:  https://github.com/parksw3/speedstrength.git  ../park/speed/
-255. name254:  https://github.com/parksw3/contact_trace.git  ../park/trace/
-256. name255:  ../planning/covid19/
-257. name256:  ../planning/notebook/
-258. name257:  ../planning/Planning/
-259. name258:  ../planning/theobio_site/
-260. name259:  https://github.com/bbolker/bbmisc.git  ../projects/bbmisc/
-261. name260:  https://github.com/dushoff/checkPlots.git  ../projects/checkPlots/
-262. name261:  https://github.com/dushoff/diversity_metrics.git  ../projects/diversity_metrics/
-263. name262:  https://github.com/SACEMA/epidemicInsurance.git  ../projects/insurance/
-264. name263:  https://github.com/ElishaBayode/Babies_mummies_growth_rates_MS.git  ../projects/Mummies/
-265. name264:  https://github.com/davidearn/plague.git  ../projects/plague/
-266. name265:  https://github.com/dushoff/polarization.git  ../projects/polarization/
-267. name266:  https://github.com/ICI3D/rubellaSA.git  ../projects/rubella/
-268. name267:  https://github.com/Apeirogons/3BM6-Modelling.git  ../projects/so_lysogeny/
-269. name268:  https://github.com/mac-theobio/coronavirus_asymptomatic.git  ../projects/weitzAsymp/
-270. name269:  https://github.com/wzmli/rabies_correlations.git  ../rabies/correlations/
-271. name270:  https://github.com/wzmli/glasgow.git  ../rabies/glasgow/
-272. name271:  https://github.com/wzmli/rabies_cihr.git  ../rabies/grant/
-273. name272:  https://github.com/wzmli/rabies_R0.git  ../rabies/R0/
-274. name273:  https://github.com/wzmli/rabies_db_pipeline.git  ../rabies/tz_pipeline/
-275. name274:  https://github.com/fishforwish/aging.git  ../shi/aging/
-276. name275:  https://github.com/dushoff/Circumcision_and_behaviour.git
+132. name231:  https://github.com/mac-theobio/DataViz_private.git  ../DataViz/private/
+133. name232:  https://github.com/mac-theobio/DataViz.git  ../DataViz/public/
+134. qmee:  https://github.com/mac-theobio/QMEE.git  ../DataViz/QMEE/
+135. fate: ../coronavirus/state/
+136. name234:  https://github.com/davidearn/LBoM.git  ../earn/LBoM/
+137. name235:  https://github.com/davidearn/onmort.git  ../earn/onmort/
+138. name236:  https://github.com/ICI3D/DAIDD.git  ../ici3d/DAIDD/
+139. name237:  https://github.com/ICI3D/ICI3D.github.io.git  ../ici3d/io/
+140. name238:  https://github.com/ICI3D/MMED.git  ../ici3d/MMED/
+141. name239:  https://github.com/cfshi/coronavirus.git  ../outbreak/ccall/
+142. name240:  https://github.com/davidchampredon/covid-fcst.git  ../outbreak/fcst/
+143. name241:  https://github.com/parksw3/Korea-analysis.git  ../outbreak/Korea/
+144. name242:  https://github.com/wzmli/curate_coronadata.git  ../outbreak/li_data/
+145. name243:  https://github.com/wzmli/hybridx.git  ../outbreak/lunchbox/
+146. name244:  https://github.com/parksw3/wuhan.git  ../outbreak/park/
+147. name245:  https://github.com/wzmli/rabies_R0.git  ../outbreak/rabies_R0/
+148. name246:  https://github.com/SACEMA/covidProjections.git  ../outbreak/SACEMA/
+149. name247:  https://github.com/dushoff/Ebola_sims.git  ../outbreak/sims/
+150. name248:  https://github.com/Outbreak-analysis/ncov_cihr.git  ../outbreak/special/
+151. name249:  https://github.com/Outbreak-analysis/startingPoints.git  ../outbreak/start/
+152. name250:  https://github.com/parksw3/censor.git  ../park/censor/
+153. name251:  https://github.com/parksw3/bayesantigen2.git  ../park/flumap/
+154. name252:  https://github.com/parksw3/serial.git  ../park/serial/
+155. name253:  https://github.com/parksw3/speedstrength.git  ../park/speed/
+156. name254:  https://github.com/parksw3/contact_trace.git  ../park/trace/
+157. name255:  ../planning/covid19/
+161. name259:  https://github.com/bbolker/bbmisc.git  ../projects/bbmisc/
+162. name260:  https://github.com/dushoff/checkPlots.git  ../projects/checkPlots/
+163. name261:  https://github.com/dushoff/diversity_metrics.git  ../projects/diversity_metrics/
+164. name262:  https://github.com/SACEMA/epidemicInsurance.git  ../projects/insurance/
+165. name263:  https://github.com/ElishaBayode/Babies_mummies_growth_rates_MS.git  ../projects/Mummies/
+166. name264:  https://github.com/davidearn/plague.git  ../projects/plague/
+167. name265:  https://github.com/dushoff/polarization.git  ../projects/polarization/
+168. name266:  https://github.com/ICI3D/rubellaSA.git  ../projects/rubella/
+169. name267:  https://github.com/Apeirogons/3BM6-Modelling.git  ../projects/so_lysogeny/
+170. name268:  https://github.com/mac-theobio/coronavirus_asymptomatic.git  ../projects/weitzAsymp/
+171. name269:  https://github.com/wzmli/rabies_correlations.git  ../rabies/correlations/
+172. name270:  https://github.com/wzmli/glasgow.git  ../rabies/glasgow/
+173. name271:  https://github.com/wzmli/rabies_cihr.git  ../rabies/grant/
+174. name272:  https://github.com/wzmli/rabies_R0.git  ../rabies/R0/
+175. name273:  https://github.com/wzmli/rabies_db_pipeline.git  ../rabies/tz_pipeline/
+176. name274:  https://github.com/fishforwish/aging.git  ../shi/aging/
+177. name275:  https://github.com/dushoff/Circumcision_and_behaviour.git
 	url = https://github.com/dushoff/makestuff  ../shi/behaviour/
-277. name276:  https://github.com/wzmli/mc_recency.git
+178. name276:  https://github.com/wzmli/mc_recency.git
 	url = https://github.com/dushoff/makestuff.git  ../shi/recency/
