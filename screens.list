@@ -1,93 +1,103 @@
 
+1. macpan:  https://github.com/bbolker/McMasterPandemic.git
+ ../coronavirus/mac/
+
+2. Canada:  https://github.com/wzmli/COVID19-Canada.git
+ ../coronavirus/Canada/ Mike's Canadian data
+
+3. state:  https://github.com/bbolker/NYScovid19.git
+ ../coronavirus/state/
+
 ######################################################################
 ## SACEMA
 
 ## WHO
-1. afroData: https://github.com/SACEMA/afroData.git ../coronavirus/afroData/
+4. afroData: https://github.com/SACEMA/afroData.git ../coronavirus/afroData/
 
-2. afroFitting: https://github.com/SACEMA/afroFitting.git
-
-3. Canada: ../coronavirus/Canada/ Mike's Canadian data
+5. afroFitting: https://github.com/SACEMA/afroFitting.git
 
 ----------------------------------------------------------------------
 
 ## Weitz plateaus, very messy
-104. plateaus: https://github.com/jsweitz/covid19-git-plateaus.git
+106. plateaus: https://github.com/jsweitz/covid19-git-plateaus.git
 
-105. Google_News: https://github.com/covid19awareness/Google_News.git
+107. Google_News: https://github.com/covid19awareness/Google_News.git
 
 ----------------------------------------------------------------------
 
-206. ../admin/AnnualFlu/
-207. ../admin/coreFaculty/
-208. ../admin/Correspondence/
-209. ../admin/cron/
-210. ../admin/CV/
-211. ../admin/Lab_meeting/
-212. ../admin/Planning/
-213. ../admin/theobio_site/
+# Web
+208. name207:  ../admin/AnnualFlu/
+209. name214:  ../admin/theobio_site/
 
-214. ../coronavirus/corona/
-215. ../coronavirus/delay/
-216. ../coronavirus/mac/
-217. ../coronavirus/MacPrivate/
-218. ../coronavirus/SACEMA/
-219. ../coronavirus/smart_test/
-220. ../coronavirus/state/
-221. ../coronavirus/survey/
-222. ../coronavirus/table/
-223. ../coronavirus/websurvey/
-224. ../cygu/admins/
-225. ../cygu/funs/
-226. ../cygu/hh/
-227. ../cygu/proview/
-228. ../cygu/wash/
-229. ../DataViz/17/
-230. ../DataViz/p17/
-231. ../DataViz/private/
-232. ../DataViz/public/
-233. ../DataViz/QMEE/
-234. ../earn/LBoM/
-235. ../earn/onmort/
-236. ../ici3d/DAIDD/
-237. ../ici3d/io/
-238. ../ici3d/MMED/
-239. ../outbreak/ccall/
-240. ../outbreak/fcst/
-241. ../outbreak/Korea/
-242. ../outbreak/li_data/
-243. ../outbreak/lunchbox/
-244. ../outbreak/park/
-245. ../outbreak/rabies_R0/
-246. ../outbreak/SACEMA/
-247. ../outbreak/sims/
-248. ../outbreak/special/
-249. ../outbreak/start/
-250. ../park/censor/
-251. ../park/flumap/
-252. ../park/serial/
-253. ../park/speed/
-254. ../park/trace/
-255. ../planning/covid19/
-256. ../planning/notebook/
-257. ../planning/Planning/
-258. ../planning/theobio_site/
-259. ../projects/bbmisc/
-260. ../projects/checkPlots/
-261. ../projects/diversity_metrics/
-262. ../projects/insurance/
-263. ../projects/Mummies/
-264. ../projects/plague/
-265. ../projects/polarization/
-266. ../projects/rubella/
-267. ../projects/so_lysogeny/
-268. ../projects/weitzAsymp/
-269. ../rabies/correlations/
-270. ../rabies/glasgow/
-271. ../rabies/grant/
-272. ../rabies/R0/
-273. ../rabies/tz_pipeline/
-274. ../shi/aging/
-275. ../shi/behaviour/
-276. ../shi/recency/
+# org?
+210. name208:  ../admin/coreFaculty/
+211. name209:  ../admin/Correspondence/
+212. name210:  ../admin/cron/
+213. name211:  ../admin/CV/
+214. name212:  ../admin/Lab_meeting/
+215. name213:  ../admin/Planning/
 
+#research?
+216. name215:  ../coronavirus/corona/
+217. name216:  ../coronavirus/delay/
+218. name217:  ../coronavirus/MacPrivate/
+219. name218:  ../coronavirus/SACEMA/
+220. name219:  ../coronavirus/smart_test/
+221. name221:  ../coronavirus/survey/
+222. name222:  ../coronavirus/table/
+223. name223:  ../coronavirus/websurvey/
+224. name224:  ../cygu/admins/
+225. name225:  ../cygu/funs/
+226. name226:  ../cygu/hh/
+227. name227:  ../cygu/proview/
+228. name228:  ../cygu/wash/
+
+# Unsorter
+229. name229:  ../DataViz/17/
+230. name230:  ../DataViz/p17/
+231. name231:  ../DataViz/private/
+232. name232:  ../DataViz/public/
+233. name233:  ../DataViz/QMEE/
+234. name234:  ../earn/LBoM/
+235. name235:  ../earn/onmort/
+236. name236:  ../ici3d/DAIDD/
+237. name237:  ../ici3d/io/
+238. name238:  ../ici3d/MMED/
+239. name239:  ../outbreak/ccall/
+240. name240:  ../outbreak/fcst/
+241. name241:  ../outbreak/Korea/
+242. name242:  ../outbreak/li_data/
+243. name243:  ../outbreak/lunchbox/
+244. name244:  ../outbreak/park/
+245. name245:  ../outbreak/rabies_R0/
+246. name246:  ../outbreak/SACEMA/
+247. name247:  ../outbreak/sims/
+248. name248:  ../outbreak/special/
+249. name249:  ../outbreak/start/
+250. name250:  ../park/censor/
+251. name251:  ../park/flumap/
+252. name252:  ../park/serial/
+253. name253:  ../park/speed/
+254. name254:  ../park/trace/
+255. name255:  ../planning/covid19/
+256. name256:  ../planning/notebook/
+257. name257:  ../planning/Planning/
+258. name258:  ../planning/theobio_site/
+259. name259:  ../projects/bbmisc/
+260. name260:  ../projects/checkPlots/
+261. name261:  ../projects/diversity_metrics/
+262. name262:  ../projects/insurance/
+263. name263:  ../projects/Mummies/
+264. name264:  ../projects/plague/
+265. name265:  ../projects/polarization/
+266. name266:  ../projects/rubella/
+267. name267:  ../projects/so_lysogeny/
+268. name268:  ../projects/weitzAsymp/
+269. name269:  ../rabies/correlations/
+270. name270:  ../rabies/glasgow/
+271. name271:  ../rabies/grant/
+272. name272:  ../rabies/R0/
+273. name273:  ../rabies/tz_pipeline/
+274. name274:  ../shi/aging/
+275. name275:  ../shi/behaviour/
+276. name276:  ../shi/recency/
