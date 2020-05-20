@@ -5,6 +5,10 @@
 
 3. state:  https://github.com/bbolker/NYScovid19.git ../coronavirus/state/
 
+10. macpan/ontario
+* Ontario calibration (McMasterReport) reports are here
+* Currently testing !make ... 11:23#
+
 ######################################################################
 
 ## Chyun survey project
@@ -13,6 +17,8 @@
 
 This was the github.io page, but C. may still be doing stuff here?
 5. websurvey:  https://github.com/covid19awareness/covid19awareness.github.io.git  ../coronavirus/websurvey/
+
+## 111. Google_News: https://github.com/covid19awareness/Google_News.git
 
 ######################################################################
 
@@ -25,17 +31,22 @@ This was the github.io page, but C. may still be doing stuff here?
 
 ######################################################################
 
-Cygu
-
-Time-varying survival
+Cygu Time-varying survival
 8. tvsurvive: https://github.com/CYGUBICKO/pcoxtime.git
+
+Elisha's cycles
+Mummies:  https://github.com/ElishaBayode/Babies_mummies_growth_rates_MS.git  ../projects/Mummies/
+9. Mummies/ms
+
+######################################################################
+
+barcelona:  https://github.com/parksw3/contact_trace.git  ../park/trace/
+11. barcelona/doc
 
 ----------------------------------------------------------------------
 
 ## Weitz plateaus, very messy
-109. plateaus: https://github.com/jsweitz/covid19-git-plateaus.git
-
-110. Google_News: https://github.com/covid19awareness/Google_News.git
+110. plateaus: https://github.com/jsweitz/covid19-git-plateaus.git
 
 # Web
 
@@ -89,12 +100,6 @@ Time-varying survival
 153. name253:  https://github.com/parksw3/speedstrength.git  ../park/speed/
 154. name254:  https://github.com/parksw3/contact_trace.git  ../park/trace/
 155. name255:  ../planning/covid19/
-<<<<<<< HEAD
-=======
-156. name256:  ../planning/notebook/
-157. name257:  ../planning/Planning/
-158. name258:  ../planning/theobio_site/
->>>>>>> 6b7de902200cb1f6a6fdfbdc7d7b6aed55c6ff5d
 159. name259:  https://github.com/bbolker/bbmisc.git  ../projects/bbmisc/
 160. name260:  https://github.com/dushoff/checkPlots.git  ../projects/checkPlots/
 161. name261:  https://github.com/dushoff/diversity_metrics.git  ../projects/diversity_metrics/
