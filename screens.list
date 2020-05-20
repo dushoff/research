@@ -5,6 +5,10 @@
 
 3. state:  https://github.com/bbolker/NYScovid19.git ../coronavirus/state/
 
+10. macpan/ontario
+* Ontario calibration (McMasterReport) reports are here
+* Currently testing !make ... 11:23#
+
 ######################################################################
 
 ## Chyun survey project
@@ -33,6 +37,11 @@ Cygu Time-varying survival
 Elisha's cycles
 Mummies:  https://github.com/ElishaBayode/Babies_mummies_growth_rates_MS.git  ../projects/Mummies/
 9. Mummies/ms
+
+######################################################################
+
+barcelona:  https://github.com/parksw3/contact_trace.git  ../park/trace/
+11. barcelona/doc
 
 ----------------------------------------------------------------------
 
@@ -76,27 +85,17 @@ Mummies:  https://github.com/ElishaBayode/Babies_mummies_growth_rates_MS.git  ..
 139. name238:  https://github.com/ICI3D/MMED.git  ../ici3d/MMED/
 140. name239:  https://github.com/cfshi/coronavirus.git  ../outbreak/ccall/
 141. name240:  https://github.com/davidchampredon/covid-fcst.git  ../outbreak/fcst/
-142. name241:  https://github.com/parksw3/Korea-analysis.git  ../outbreak/Korea/
 143. name242:  https://github.com/wzmli/curate_coronadata.git  ../outbreak/li_data/
 144. name243:  https://github.com/wzmli/hybridx.git  ../outbreak/lunchbox/
-145. name244:  https://github.com/parksw3/wuhan.git  ../outbreak/park/
 146. name245:  https://github.com/wzmli/rabies_R0.git  ../outbreak/rabies_R0/
 147. name246:  https://github.com/SACEMA/covidProjections.git  ../outbreak/SACEMA/
 148. name247:  https://github.com/dushoff/Ebola_sims.git  ../outbreak/sims/
 149. name248:  https://github.com/Outbreak-analysis/ncov_cihr.git  ../outbreak/special/
 150. name249:  https://github.com/Outbreak-analysis/startingPoints.git  ../outbreak/start/
-151. name250:  https://github.com/parksw3/censor.git  ../park/censor/
-152. name251:  https://github.com/parksw3/bayesantigen2.git  ../park/flumap/
-153. name252:  https://github.com/parksw3/serial.git  ../park/serial/
-154. name253:  https://github.com/parksw3/speedstrength.git  ../park/speed/
-155. name254:  https://github.com/parksw3/contact_trace.git  ../park/trace/
 156. name255:  ../planning/covid19/
-<<<<<<< HEAD
-=======
 157. name256:  ../planning/notebook/
 158. name257:  ../planning/Planning/
 159. name258:  ../planning/theobio_site/
->>>>>>> 6b7de902200cb1f6a6fdfbdc7d7b6aed55c6ff5d
 160. name259:  https://github.com/bbolker/bbmisc.git  ../projects/bbmisc/
 161. name260:  https://github.com/dushoff/checkPlots.git  ../projects/checkPlots/
 162. name261:  https://github.com/dushoff/diversity_metrics.git  ../projects/diversity_metrics/
