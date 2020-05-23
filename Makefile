@@ -15,7 +15,7 @@ screens.mk: screens.list makestuff/lmk.pl
 vim_session: 
 	bash -cl "vmt screens.list"
 	
-screen_session: screens_update
+screen_session: screens.update
 	$(MAKE) $(vscreens)
 
 ######################################################################
