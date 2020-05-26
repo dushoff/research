@@ -71,8 +71,7 @@ XX. So_lags: https://github.com/Apeirogons/covid-time-lag ## NOALL
 
 ----------------------------------------------------------------------
 
-## Things below here can work, but aren't screens and won't be cloned automatically
-## I think they're also not alled, so it's bad form to work on them without moving them above the line? 2020 May 21 (Thu)
+## Things below here can work, but aren't screens and not alled, so it's bad form to work on them without moving them above the line? 2020 May 21 (Thu)
 
 ## Weitz plateaus, very messy
 XX. plateaus: https://github.com/jsweitz/covid19-git-plateaus.git
