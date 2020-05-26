@@ -65,7 +65,7 @@ Mummies/GrowthRateMS.vscreen
 
 ## So
 
-XX. So_lags: https://github.com/Apeirogons/covid-time-lag No Dushoff NOALL
+## 15. So_lags: https://github.com/Apeirogons/covid-time-lag No Dushoff NOALL
 
 ## https://github.com/Apeirogons/3BM6-Modelling.git  ../projects/so_lysogeny/
 
