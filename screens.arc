@@ -63,16 +63,16 @@ XX. Mummies/GrowthRateMS/
 Mummies/GrowthRateMS.vscreen
 * Return to Elisha soon
 
+## So
+
+XX. So_lags: https://github.com/Apeirogons/covid-time-lag No Dushoff NOALL
+
+## https://github.com/Apeirogons/3BM6-Modelling.git  ../projects/so_lysogeny/
+
 ----------------------------------------------------------------------
 
 ## Things below here can work, but aren't screens and won't be cloned automatically
 ## I think they're also not alled, so it's bad form to work on them without moving them above the line? 2020 May 21 (Thu)
-
-## So
-
-## 15. So_lags: https://github.com/Apeirogons/covid-time-lag No Dushoff wirte permission 
-
-## https://github.com/Apeirogons/3BM6-Modelling.git  ../projects/so_lysogeny/
 
 ## Weitz plateaus, very messy
 XX. plateaus: https://github.com/jsweitz/covid19-git-plateaus.git

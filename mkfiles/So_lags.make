@@ -1,14 +1,22 @@
-
-## This is a linked Makefile for …
-## 
+## This is a linked Makefile for So's COVID lags repo
+## https://github.com/Apeirogons/covid-time-lag
 
 current: target
 -include target.mk
 
-# -include makestuff/perl.def
+-include makestuff/python.def
 
 vim_session:
 	bash -cl "vmt"
+
+######################################################################
+
+Makefile: requirements.out
+requirements.out: requirements.txt
+	pip3 install -r $< > $@
+
+time-lag-by-country.out: time-lag-by-country.py
+	$(PITH3)
 
 ######################################################################
 
