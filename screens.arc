@@ -30,7 +30,7 @@ XX. smart_testing:  https://github.com/SACEMA/SMART_testing.git  ../coronavirus/
 
 ## SACEMA projections (oldish)
 
-XX. SACEMA_project  https://github.com/SACEMA/covidProjections.git  ../coronavirus/SACEMA
+XX. SACEMA_project:  https://github.com/SACEMA/covidProjections.git  ../coronavirus/SACEMA
 
 ######################################################################
 
