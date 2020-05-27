@@ -28,6 +28,10 @@ Linelist
 
 XX. smart_testing:  https://github.com/SACEMA/SMART_testing.git  ../coronavirus/smart_test/
 
+## SACEMA projections (oldish)
+
+XX. SACEMA_project  https://github.com/SACEMA/covidProjections.git  ../coronavirus/SACEMA
+
 ######################################################################
 
 ## Park-led projects
@@ -91,7 +95,6 @@ XX. name213:  ../admin/Planning/
 XX. name215:  https://github.com/wzmli/corona.git  ../coronavirus/corona/
 XX. name216:  https://github.com/wzmli/covid_delay.git  ../coronavirus/delay/
 
-XX. name218:  https://github.com/SACEMA/covidProjections.git  ../coronavirus/SACEMA/
 XX. name222:  https://github.com/davidearn/OntarioModellingTable.git  ../coronavirus/table/
 XX. name224:  https://github.com/CYGUBICKO/admins.git  ../cygu/admins/
 XX. name225:  https://github.com/cygubicko/funs.git  ../cygu/funs/
