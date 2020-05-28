@@ -40,6 +40,8 @@ XX. barcelona/doc
 barcelona:  https://github.com/parksw3/contact_trace.git  ../park/trace/
 * Revisions due 1 Jun? In my court
 
+XX. serial:  https://github.com/parksw3/serial.git  ../park/serial/
+
 ######################################################################
 
 ## Chyun survey project
@@ -127,7 +129,6 @@ XX. name248:  https://github.com/Outbreak-analysis/ncov_cihr.git  ../outbreak/sp
 XX. name249:  https://github.com/Outbreak-analysis/startingPoints.git  ../outbreak/start/
 XX. name250:  https://github.com/parksw3/censor.git  ../park/censor/
 XX. name251:  https://github.com/parksw3/bayesantigen2.git  ../park/flumap/
-XX. name252:  https://github.com/parksw3/serial.git  ../park/serial/
 XX. name253:  https://github.com/parksw3/speedstrength.git  ../park/speed/
 XX. name254:  https://github.com/parksw3/contact_trace.git  ../park/trace/
 XX. name255:  ../planning/covid19/
