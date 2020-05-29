@@ -11,6 +11,8 @@ XX. macpan/ontario
 * Ontario calibration (McMasterReport) reports are here
 * Currently testing !make ... 11:23#
 
+XX. table:  https://github.com/davidearn/OntarioModellingTable.git  ../coronavirus/table/
+
 ## WHO AFRO
 XX. afroData: https://github.com/SACEMA/afroData.git ../coronavirus/afroData/
 
@@ -97,7 +99,6 @@ XX. name213:  ../admin/Planning/
 XX. name215:  https://github.com/wzmli/corona.git  ../coronavirus/corona/
 XX. name216:  https://github.com/wzmli/covid_delay.git  ../coronavirus/delay/
 
-XX. name222:  https://github.com/davidearn/OntarioModellingTable.git  ../coronavirus/table/
 XX. name224:  https://github.com/CYGUBICKO/admins.git  ../cygu/admins/
 XX. name225:  https://github.com/cygubicko/funs.git  ../cygu/funs/
 XX. name226:  https://github.com/CYGUBICKO/hh.git  ../cygu/hh/
