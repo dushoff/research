@@ -9,7 +9,7 @@ XX. state:  https://github.com/bbolker/NYScovid19.git ../coronavirus/state/
 
 XX. macpan/ontario
 * Ontario calibration (McMasterReport) reports are here
-* Currently testing !make ... 11:23#
+* Now the main PHAC contract directory
 
 XX. table:  https://github.com/davidearn/OntarioModellingTable.git  ../coronavirus/table/
 
