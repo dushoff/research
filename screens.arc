@@ -24,6 +24,8 @@ XX. afroReports: https://github.com/SACEMA/afroReports
 
 XX. afroRegional: https://github.com/SACEMA/afroRegional.git
 
+XX. afroCalib: https://github.com/SACEMA/afroRegionCalib.git
+
 Documentation Google drive
 * https://drive.google.com/drive/folders/14W3suVM4EWzxTRtVoEBobEP3_zzmB74q
 
