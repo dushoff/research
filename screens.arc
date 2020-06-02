@@ -13,12 +13,16 @@ XX. macpan/ontario
 
 XX. table:  https://github.com/davidearn/OntarioModellingTable.git  ../coronavirus/table/
 
+XX. PHAC: https://github.com/mac-theobio/PHAC_covid.git
+
 ## WHO AFRO
 XX. afroData: https://github.com/SACEMA/afroData.git ../coronavirus/afroData/
 
 XX. afroFitting: https://github.com/SACEMA/afroFitting.git
 
 XX. afroReports: https://github.com/SACEMA/afroReports
+
+XX. afroRegional: https://github.com/SACEMA/afroRegional.git
 
 Documentation Google drive
 * https://drive.google.com/drive/folders/14W3suVM4EWzxTRtVoEBobEP3_zzmB74q
