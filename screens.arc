@@ -40,6 +40,8 @@ XX. smart_testing:  https://github.com/SACEMA/SMART_testing.git  ../coronavirus/
 
 XX. SACEMA_project:  https://github.com/SACEMA/covidProjections.git  ../coronavirus/SACEMA
 
+XX. MASHA: https://github.com/jfunction/MASHA.git
+
 ######################################################################
 
 ## Park-led projects
@@ -64,7 +66,9 @@ XX. websurvey:  https://github.com/covid19awareness/covid19awareness.github.io.g
 ######################################################################
 
 Cygu Time-varying survival
+
 XX. tvsurvive: https://github.com/CYGUBICKO/pcoxtime.git
+XX. households:  https://github.com/CYGUBICKO/hh.git  ../cygu/hh/
 
 ######################################################################
 
@@ -107,7 +111,6 @@ XX. name216:  https://github.com/wzmli/covid_delay.git  ../coronavirus/delay/
 
 XX. name224:  https://github.com/CYGUBICKO/admins.git  ../cygu/admins/
 XX. name225:  https://github.com/cygubicko/funs.git  ../cygu/funs/
-XX. name226:  https://github.com/CYGUBICKO/hh.git  ../cygu/hh/
 XX. name227:  https://github.com/CYGUBICKO/proview.git  ../cygu/proview/
 XX. name228:  https://github.com/cygubicko/wash.git  ../cygu/wash/
 

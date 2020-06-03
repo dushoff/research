@@ -1,4 +1,3 @@
-
 ## This is a linked Makefile for …
 ## 
 
@@ -9,6 +8,14 @@ current: target
 
 vim_session:
 	bash -cl "vmt"
+
+######################################################################
+
+## contact/mixpref.Rout: contact/mixpref.R
+covid_MP_age.Rout: contact/mixpref.Rout covid_MP_age.R
+
+Sources += agetest.R contact/mixpref.R 
+agetest.Rout: safety_checks.Rout contact/mixpref.Rout agetest.R
 
 ######################################################################
 
@@ -27,7 +34,7 @@ makestuff/Makefile:
 
 -include makestuff/os.mk
 
-## -include makestuff/wrapR.mk
+-include makestuff/wrapR.mk
 
 -include makestuff/git.mk
 -include makestuff/visual.mk
