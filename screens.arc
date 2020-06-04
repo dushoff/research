@@ -8,12 +8,13 @@ XX. Canada:  https://github.com/wzmli/COVID19-Canada.git ../coronavirus/Canada/ 
 XX. state:  https://github.com/bbolker/NYScovid19.git ../coronavirus/state/
 
 XX. macpan/ontario
-* Ontario calibration (McMasterReport) reports are here
-* Now the main PHAC contract directory
+* Deprecated?
 
 XX. table:  https://github.com/davidearn/OntarioModellingTable.git  ../coronavirus/table/
 
 XX. PHAC: https://github.com/mac-theobio/PHAC_covid.git
+* Ontario calibration (McMasterReport) reports are here
+* Now the main PHAC contract directory
 
 ## WHO AFRO
 XX. afroData: https://github.com/SACEMA/afroData.git ../coronavirus/afroData/
