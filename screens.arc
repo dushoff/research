@@ -1,4 +1,15 @@
 
+## Keywords
+
+## WAIT
+## REVISE
+## RESUBMIT
+## SUBMIT
+## POST
+## DRAFT
+
+----------------------------------------------------------------------
+
 ## Covid forecasts
 
 XX. macpan:  https://github.com/bbolker/McMasterPandemic.git ../coronavirus/mac/
@@ -7,10 +18,8 @@ XX. Canada:  https://github.com/wzmli/COVID19-Canada.git ../coronavirus/Canada/ 
 
 XX. state:  https://github.com/bbolker/NYScovid19.git ../coronavirus/state/
 
-XX. macpan/ontario
-* Deprecated?
-
 XX. table:  https://github.com/davidearn/OntarioModellingTable.git  ../coronavirus/table/
+* ICES Data Dictionary https://ssl.ices.on.ca 
 
 XX. PHAC: https://github.com/mac-theobio/PHAC_covid.git
 * Ontario calibration (McMasterReport) reports are here
@@ -33,24 +42,26 @@ Documentation Google drive
 Linelist
 * https://drive.google.com/drive/folders/1qjnDv7VXgd9sElXz0jiHYG0y1UctKyq1
 
-## SMART
+## Other SACEMA
 
 XX. smart_testing:  https://github.com/SACEMA/SMART_testing.git  ../coronavirus/smart_test/
 
-## SACEMA projections (oldish)
-
-XX. SACEMA_project:  https://github.com/SACEMA/covidProjections.git  ../coronavirus/SACEMA
-
+Sheetal's project
 XX. MASHA: https://github.com/jfunction/MASHA.git
+
+Older RSA
+XX. SACEMA_project:  https://github.com/SACEMA/covidProjections.git  ../coronavirus/SACEMA
 
 ######################################################################
 
 ## Park-led projects
 
+## WAIT
 XX. barcelona/doc
 barcelona:  https://github.com/parksw3/contact_trace.git  ../park/trace/
 * Revisions due 1 Jun? In my court
 
+## WAIT
 XX. serial:  https://github.com/parksw3/serial.git  ../park/serial/
 
 ######################################################################
@@ -89,6 +100,13 @@ Mummies/GrowthRateMS.vscreen
 XX. So_lags: https://github.com/Apeirogons/covid-time-lag ## NOALL
 
 ## https://github.com/Apeirogons/3BM6-Modelling.git  ../projects/so_lysogeny/
+
+
+######################################################################
+
+## Earn
+
+XX. What: https://github.com/davidearn/covidgrowthfit.git
 
 ----------------------------------------------------------------------
 
@@ -162,3 +180,476 @@ XX. name273:  https://github.com/wzmli/rabies_db_pipeline.git  ../rabies/tz_pipe
 XX. name274:  https://github.com/fishforwish/aging.git  ../shi/aging/
 XX. name275:  https://github.com/dushoff/Circumcision_and_behaviour.git url = https://github.com/dushoff/makestuff  ../shi/behaviour/
 XX. name276:  https://github.com/wzmli/mc_recency.git url = https://github.com/dushoff/makestuff.git  ../shi/recency/
+
+######################################################################
+
+## Out
+
+Weitz asymptomatic
+* projects/weitzAsymp (10:6)
+* Submitted Lancet ID before 2020 Mar 19 (Thu)
+* Submitted Epidemics 2020 Mar 23 (Mon)
+	* Accepted
+
+Weitz shields
+* In press Nature Med 2020 Apr 21 (Tue)
+* Publised 2020 May 07 (Thu) tweet!
+
+IBM Calibration (Hazelbag)
+* Lives nowhere in particular
+* Minor revision requested 2020 Mar 11 (Wed)
+* Accepted 2020 Apr 21 (Tue)
+* Accepted again 1 May (??)
+
+----------------------------------------------------------------------
+
+## Off
+
+Plague
+* 15 Mar revisions submitted to PNAS
+
+Diversity Users guide with Roswell
+* Resubmitted 2020 Apr 21 (Tue) Oikos 07202
+
+----------------------------------------------------------------------
+
+## REVISE
+
+Contact-based inference (Park and DC)
+* Back from JRSI 28 Feb 2020
+* Send letter to editor about doing practical version first
+* Park/trace
+
+Exponential framework (Park-led R0 estimate)
+* outbreak/park
+* 2020 Feb 26 (Wed) rejected from where?
+* 2020 Apr 23 Revision requested by JRSI 0144
+
+----------------------------------------------------------------------
+
+## RESUBMIT
+
+----------------------------------------------------------------------
+
+## SUBMIT
+
+Speed and strength
+* Posted 2020 Mar 3
+* Target PNAS
+
+Daihai pandemic age structure
+
+Shoulders
+* Weitz behaviour adjustment
+* https://www.sciencedirect.com/science/article/pii/S1755436518301063 for older try
+* in legacy!!
+
+----------------------------------------------------------------------
+
+## POST
+
+R0 framework
+
+----------------------------------------------------------------------
+
+## DRAFT
+
+Pre-symptomatic transmission
+
+Intervals
+* It's not a serial interval (LSHTM)
+
+Park Exponential biases in time distributions
+
+Mummies
+* projects/Mummies
+* Needs comments on S2-4 and Abstract/Discussion from me 2020 Mar 09 (Mon)
+
+rabies_R0
+* 6/R0
+* With Katie
+
+rabies_correlations
+* rabies/correlations
+* URGENT says Mike
+
+corona forecasts (Li)
+* outbreaks/corona (9:2)
+
+corona communication (Shi, Earn, Li)
+* outbreaks/ccall
+
+rubella with Villyen, Steve and Juliet
+10:3
+
+censoring with Park
+* park/serial
+
+Korean social distancing with Park and Sunky
+* outbreak/Korea (9:?7)
+* 2020 Mar 21 (Sat)
+* korea.pdf
+
+Centering and manipulating linear models
+* Bolker, Li, Cygu
+* wzmli/StrucImpute
+
+Covid Canada
+* wzmli/
+* 9:6 (temp) (outbreaks/Canada)
+
+Covid Korea
+* Park, sunky
+* 9:7 (temp) (outbreaks/canada)
+
+Covid RSA
+* U. Pretoria repo and dashboard
+* Hopkins dashboard
+
+Covid NY
+* Repo from Ben
+* 9:state (?)
+* R/simfuns.R: function determ something
+	* do_hazard
+
+PHAC External Modelling Experts Group
+* Lingohr, Erika 
+
+Ontario
+* corona/table
+
+http://heroza.org/publications/estimating-cases-for-covid-19-in-south-africa-long-term-national-projections-report-update-6-may-2020/
+13:39#
+
+
+######################################################################
+
+
+## projects.mkd 2020 Jun 05 (Fri)
+
+
+Malaria
+-------
+* https://github.com/dushoff/Garki_development
+* https://github.com/ICI3D/Malaria/
+
+Bolker
+======
+
+Discretization repo (statistical dichotomization)
+
+* cd ~/hybrid/academic/ && make sync && make multisim
+* sds ~/hybrid/academic/multisim ##
+
+Daniel Park
+===========
+
+To do 
+* READ Wilfred stuff
+
+Antigenic mapping
+* ~/gitroot/bayes_antigen
+* ~/Downloads/JVI.01023-13.full.pdf
+
+Links paper
+svs ~/gitroot/generation_links  ##
+* rejected PRSB
+* rejected from Epidemics (bad review, sort of appealed)
+* rejected eLife (appealed, rejected again)
+* resubmit to Epidemics
+
+## Speed and strength, submit Oct 20
+
+Strength and speed (help!!)
+	talks
+	little_r
+	sds ~/gitroot/dushoff.github.io/phi_notes.tex
+
+## Lice (submit Nov 15)
+sds ~/hybrid/academic/louseplague/doc
+
+Roswell
+=======
+
+roswell.mkd for notes made while travelling on something specific
+
+Guide, docs maybe this one?
+	* https://docs.google.com/document/d/12hdN9T1CkZb5jBIl5JNCveVfi_7KyjJkQLyK5nIwva4/edit
+
+Rarity
+	* diversity_metrics repo
+		* svs ~/gitroot/diversity_metrics ##
+		There's a library inside this
+	* http://dushoff.github.io/notebook/diversity.html
+		svs ~/git/notebook
+
+Champredon
+==========
+
+forecasting.md
+
+Erlang
+------
+
+* sds ~/gitroot/link-re-erlang ##
+* sds ~/gitroot/link-re-erlang/ms ##
+
+ili-ont
+-------
+## Data from Moore and Belanger
+sds ~/Dropbox/ili-ont ##
+sds ~/gitroot/ILI-ER ##
+
+Harris
+------
+## Data from Marek
+* sdn ~/Dropbox/MarekSmieja-Surveys/ Harris ##
+
+Rabies
+======
+
+## Actively working with Glasgow on analysis and cleaning
+rabies_db_pipeline
+* sds ~/gitroot/rabies_db_pipeline ##
+
+## Mike's big Scotland idea
+sds ~/gitroot/rabies_correlations ##
+
+## Mike's analysis stuff (can we integrate some stuff with pipeline?)
+rabies_R0
+* svs ~/gitroot/rabies_R0 ##
+
+## Rachel's vaccination stuff (hacky?)
+rabies_report
+* sds ~/gitroot/rabies_report ##
+
+Earn
+====
+
+plague
+* sds ~/gitroot/plague/pipe ##
+
+rdc
+* sds ~/gitroot/rdc ##
+
+ls ##
+
+Daihai
+======
+
+## This is an overleaf with an uplink
+## How should it be managed in gitroot?
+* sds ~/gitroot/alberta_age  ##
+* ~/Downloads/Makefile
+
+Lauren Steinbaum
+=============
+
+steinbaum.mkd
+* sds ~/gitroot/madagascar_tb_hiv/ ##
+
+Steve Bicko Cygu
+=====
+
+* cygu.md
+
+* sps ~/gitroot/WDBC-Codes/ ##
+
+* ~/Dropbox/article/MitchellMachine.pdf
+
+* aprhc.md
+
+* TODO ~/Downloads/outline.rmd ⇒ Bolker and Bartek
+
+Chyun Shi
+=========
+
+* sds ~/gitroot/cannabis  ##
+
+* sds ~/gitroot/mc_recency ##
+* In review AIDS and Behaviour
+
+fgc
+	sds ~/gitroot/fgc ##
+
+Lord
+====
+
+Competence in context:
+* sdn ~/gitroot/competenceFramework/Manuscript Lord_MS ##
+
+Wilfred
+=======
+
+* ndifon.txt Some notes about, um, something that he made me read
+
+Marijn Hazelbag
+===============
+
+marijn_search.txt
+
+Bolker
+======
+
+Weitz
+=====
+
+~/Downloads/hill_review_2017.pdf
+
+weitz.mkd
+----------------------------------------------------------------------
+
+Future health status (David and student with name)
+Microsimulation models
+* POHEM (Statistics Canada): 
+http://www.statcan.gc.ca/eng/microsimulation/health/health
+* FEM (US model): http://roybalhealthpolicy.usc.edu/fem/
+
+Male circumcision project; circumcision status project
+* sd ../Circumcision_and_behaviour/
+* https://www.overleaf.com/6654613kpgmzg
+* Resubmitted to PLoS ONE
+
+Recency
+* sd ../mc_recency// ##
+
+DHS pipeline
+ * sd ../DHS_overview # working? Scrapes info from web interface
+ * sd ../DHS_downloads # nothing in repo, no WW
+ * sd ../DHS_convert # nothing in repo, no WW
+ * sd ../DHS_new # D'Amico explorations
+
+Ebola challenge (in revision)
+- Submitted ~/Dropbox/current/EPIDEMICS-D-16-00048.pdf
+- Manuscript on Overleaf: https://www.overleaf.com/5050709vtkmbr
+  * sd ../challenge ## This is the Overleaf directory, strangely enough
+- Reviewers’ comments and draft responses: https://docs.google.com/document/d/1iBknzy29kQtaLsshTJ9DJFeiMKySdlJqB8cfiZohB_U
+* sd ../Latent_incidence_fitting/ ## old, actually used for contest
+* sd ../hybrid_fitting/ ## new-ish OA version
+* sd ../Ebola_challenge_renewal ## Under development, doesn't do anything yet
+
+early_HIV_treatment_model (Bewketu)
+  /home/dushoff/Dropbox/article/Bewketu_Bekele_thesis.pdf
+  sd ../early_HIV_treatment_model/
+  https://www.overleaf.com/6955852wpgdcrcbnxxc#/23802603/
+
+Generations and filtered means (JD, DC, and JW, DSWP)
+  sd ../generation_interval_moments/
+  sd ../Generation_distributions/
+  https://github.com/mac-theobio/generation_interval_moments
+  https://www.overleaf.com/6881460jqmtnxnzwmnm#/23489174/
+
+HIV treatment review (Bewketu)
+	sd ../HIV_treatment_Africa/
+
+Zomba_project
+	sd ~/git/SIHR-Age-Mixing-Analysis/
+
+Syphilis and ARVs (resub 17 Oct)
+	* Daniel's model (and my plots)
+		sd ../Syphilis_and_ARVs/
+	* Document on GDocs
+
+Hampson: hampson.md
+
+Audrey Condom
+* in submission, or what?
+
+Hayflick (Wilfred)
+* submitted J. Immunology ~2 Nov
+* Reviews returned (sort-of rejected) 10 Dec
+* Wilfred wants to return to J. Immunol?
+
+Rarefaction (Guillaume)
+
+Older organization
+==================
+
+* Sempa extension
+ * Search for Mike and get him info
+
+* Read matrix -> Markov clustering
+
+* Small generations project (correction for early intervals)
+ * Disappointing response from Tini, pursue with DC for now.
+
+* Option B+
+
+* NSERC
+
+* Fields funding for MMED
+
+* Diversity projects/blog
+
+* Gypsy moth natural selection
+ * How is this in my court? Look up Dwyer in gmail?
+
+* Generations and interventions
+
+* 2x2 tables
+
+* HPV data paper (within- and between- questions about strain association)
+
+* Pathogen prudence (Berkeley follow-up)
+
+* Boxcars
+
+* Neutrality and independence
+** See papers sent from Carmen
+
+* HPA incidence (Carmen and Ryser)
+** Papers sent from Ryser
+
+* HPV vaccination
+
+* Oral HPV increase
+
+* Sid Reed toy model
+
+* Jen Ross cotri
+ * sd ../cotrim
+
+Bellan
+======
+
+Ethics
+------
+
+* ethics.md
+
+* Response: https://docs.google.com/document/d/1S7QBga3Kpyxkd5-OhfRtykIL1tmZo6-RGdNSOJzoBLY/
+
+* Personal hot version: https://docs.google.com/document/d/1RHKzD6lLVRD8lTJNFeABC5dWELjC-Dv6CwBuT85ZiYg/
+	* ~/Downloads/Ethics_JD.pdf
+
+* Marked-up Pulliam first effort: https://docs.google.com/document/d/1BL28D6S5uHmu8SSoejIGbgmMkAUkvtgBj9FpjzHATo4/edit
+
+Look through R3 responses
+
+Other collab
+============
+
+CLSA/MIRA
+* sds ~/gitroot/clsa ## (does not exist!)
+* sds ~/Dropbox/clsa ##
+
+Emanuel SHIMS
+* sds ~/gitroot/shims_age_mixing ##
+
+Orphaned
+========
+
+Bewketu review project; first attempt to use python for pubmed
+* sds ~/gitroot/HIV_treatment_Africa ##
+
+Org
+===
+
+* sds ~/gitroot/smb-mathepi ## repo with private subdirectory ##
+	* SMB.md (currently empty, why is that good?)
+
+Archive
+=======
+
+* sds ~/Dropbox/annualflu ##
+
