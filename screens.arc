@@ -8,8 +8,6 @@
 ## POST
 ## DRAFT
 
-----------------------------------------------------------------------
-
 ## Covid forecasts
 
 XX. macpan:  https://github.com/bbolker/McMasterPandemic.git ../coronavirus/mac/
@@ -59,10 +57,15 @@ XX. SACEMA_project:  https://github.com/SACEMA/covidProjections.git  ../coronavi
 ## WAIT
 XX. barcelona/doc
 barcelona:  https://github.com/parksw3/contact_trace.git  ../park/trace/
-* Revisions due 1 Jun? In my court
+Accepted JRSI 2020 Jun 01
 
 ## WAIT
 XX. serial:  https://github.com/parksw3/serial.git  ../park/serial/
+Submitted PNAS 2020 Jun 05 (Fri)
+
+## WAIT
+XX. exponential_framework:  https://github.com/parksw3/wuhan.git ../outbreak/park
+* Resubmitted JRSI 12 May 2020
 
 ######################################################################
 
@@ -106,9 +109,16 @@ XX. So_lags: https://github.com/Apeirogons/covid-time-lag ## NOALL
 
 ## Earn
 
-XX. What: https://github.com/davidearn/covidgrowthfit.git
+XX. covidgrowthfit: https://github.com/davidearn/covidgrowthfit.git
+* Patterns of little r
+
+XX. epigrowthfit: https://github.com/davidearn/epigrowthfit.git
+
+XX. plague_growth: https://github.com/davidearn/plague_growth.git
 
 ----------------------------------------------------------------------
+
+###################33 CUT!! ######################
 
 ## Things below here can work, but aren't screens and not alled, so it's bad form to work on them without moving them above the line? 2020 May 21 (Thu)
 
@@ -214,11 +224,6 @@ Diversity Users guide with Roswell
 ----------------------------------------------------------------------
 
 ## REVISE
-
-Contact-based inference (Park and DC)
-* Back from JRSI 28 Feb 2020
-* Send letter to editor about doing practical version first
-* Park/trace
 
 Exponential framework (Park-led R0 estimate)
 * outbreak/park
