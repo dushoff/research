@@ -55,8 +55,8 @@ XX. SACEMA_project:  https://github.com/SACEMA/covidProjections.git  ../coronavi
 ## Park-led projects
 
 ## WAIT
+XX. barcelona:  https://github.com/parksw3/contact_trace.git  ../park/trace/
 XX. barcelona/doc
-barcelona:  https://github.com/parksw3/contact_trace.git  ../park/trace/
 Accepted JRSI 2020 Jun 01
 
 ## WAIT
@@ -66,6 +66,10 @@ Submitted PNAS 2020 Jun 05 (Fri)
 ## WAIT
 XX. exponential_framework:  https://github.com/parksw3/wuhan.git ../outbreak/park
 * Resubmitted JRSI 12 May 2020
+
+## SUBMIT
+XX. speedstrength:  https://github.com/parksw3/speedstrength.git  ../park/speed/
+XX. speedstrength/doc
 
 ######################################################################
 
@@ -170,7 +174,6 @@ XX. name248:  https://github.com/Outbreak-analysis/ncov_cihr.git  ../outbreak/sp
 XX. name249:  https://github.com/Outbreak-analysis/startingPoints.git  ../outbreak/start/
 XX. name250:  https://github.com/parksw3/censor.git  ../park/censor/
 XX. name251:  https://github.com/parksw3/bayesantigen2.git  ../park/flumap/
-XX. name253:  https://github.com/parksw3/speedstrength.git  ../park/speed/
 XX. name254:  https://github.com/parksw3/contact_trace.git  ../park/trace/
 XX. name255:  ../planning/covid19/
 XX. name259:  https://github.com/bbolker/bbmisc.git  ../projects/bbmisc/
