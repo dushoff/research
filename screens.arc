@@ -86,9 +86,10 @@ XX. youtube: https://github.com/covid19awareness/YouTube.git
 
 ######################################################################
 
-Cygu Time-varying survival
+## Cygu
 
 XX. tvsurvive: https://github.com/CYGUBICKO/pcoxtime.git
+
 XX. households:  https://github.com/CYGUBICKO/hh.git  ../cygu/hh/
 
 ######################################################################
@@ -118,6 +119,10 @@ XX. covidgrowthfit: https://github.com/davidearn/covidgrowthfit.git
 
 XX. epigrowthfit: https://github.com/davidearn/epigrowthfit.git
 
+## Old, messy repo
+XX. plague: https://github.com/davidearn/plague.git
+
+## New hotness?
 XX. plague_growth: https://github.com/davidearn/plague_growth.git
 
 ----------------------------------------------------------------------
