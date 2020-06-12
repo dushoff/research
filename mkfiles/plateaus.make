@@ -19,6 +19,12 @@ covidplateaus.pdf: $(wildcard *.tex)
 
 ######################################################################
 
+## Deaths data for comparison
+
+Ignore += deaths
+
+######################################################################
+
 ### Makestuff
 
 Sources += Makefile

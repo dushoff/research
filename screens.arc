@@ -120,20 +120,21 @@ XX. covidgrowthfit: https://github.com/davidearn/covidgrowthfit.git
 XX. epigrowthfit: https://github.com/davidearn/epigrowthfit.git
 
 ## Old, messy repo
-XX. plague: https://github.com/davidearn/plague.git
+## 26. plague: https://github.com/davidearn/plague.git completely out of loop
+## There's an ignored clone in plague_growth
 
 ## New hotness?
 XX. plague_growth: https://github.com/davidearn/plague_growth.git
+
+## Weitz plateaus, very messy
+XX. plateaus: https://github.com/jsweitz/covid19-git-plateaus.git
+* 2020 May 21 (Thu): submitted to PNAS
 
 ----------------------------------------------------------------------
 
 ###################33 CUT!! ######################
 
 ## Things below here can work, but aren't screens and not alled, so it's bad form to work on them without moving them above the line? 2020 May 21 (Thu)
-
-## Weitz plateaus, very messy
-XX. plateaus: https://github.com/jsweitz/covid19-git-plateaus.git
-* 2020 May 21 (Thu): submitted to PNAS
 
 # Web
 
@@ -336,7 +337,6 @@ http://heroza.org/publications/estimating-cases-for-covid-19-in-south-africa-lon
 
 
 ######################################################################
-
 
 ## projects.mkd 2020 Jun 05 (Fri)
 
