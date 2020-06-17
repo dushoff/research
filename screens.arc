@@ -70,6 +70,9 @@ XX. exponential_framework:  https://github.com/parksw3/wuhan.git ../outbreak/par
 ## SUBMIT
 XX. speedstrength:  https://github.com/parksw3/speedstrength.git  ../park/speed/
 XX. speedstrength/doc
+* Posted 2020 Mar 3
+* Target PNAS
+* https://docs.google.com/document/d/1y2pzx_8yDa_990MAPVwa2DxKWcYZEn99IQ7dWs1Wjxg/edit
 
 ######################################################################
 
@@ -129,6 +132,7 @@ XX. plague_growth: https://github.com/davidearn/plague_growth.git
 ## Weitz plateaus, very messy
 XX. plateaus: https://github.com/jsweitz/covid19-git-plateaus.git
 * 2020 May 21 (Thu): submitted to PNAS
+* https://docs.google.com/document/d/1SnvpniWc8wyMob1xWFxrShOAV6n7B_s1cYhR7Dih3r8/edit
 
 ----------------------------------------------------------------------
 
@@ -245,11 +249,6 @@ Exponential framework (Park-led R0 estimate)
 
 ----------------------------------------------------------------------
 
-## SUBMIT
-
-Speed and strength
-* Posted 2020 Mar 3
-* Target PNAS
 
 Daihai pandemic age structure
 
