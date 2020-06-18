@@ -120,14 +120,12 @@ XX. So_lags: https://github.com/Apeirogons/covid-time-lag ## NOALL
 XX. covidgrowthfit: https://github.com/davidearn/covidgrowthfit.git
 * Patterns of little r
 
-XX. epigrowthfit: https://github.com/davidearn/epigrowthfit.git
 
-## Old, messy repo
-## 26. plague: https://github.com/davidearn/plague.git completely out of loop
-## There's an ignored clone in plague_growth
-
-## New hotness?
+## Plague
 XX. plague_growth: https://github.com/davidearn/plague_growth.git
+XX. epigrowthfit: https://github.com/davidearn/epigrowthfit.git
+## Old, messy repo
+XX. plague: https://github.com/davidearn/plague.git ## NOALL
 
 ## Weitz plateaus, very messy
 XX. plateaus: https://github.com/jsweitz/covid19-git-plateaus.git
@@ -191,7 +189,6 @@ XX. name260:  https://github.com/dushoff/checkPlots.git  ../projects/checkPlots/
 XX. name261:  https://github.com/dushoff/diversity_metrics.git  ../projects/diversity_metrics/
 XX. name262:  https://github.com/SACEMA/epidemicInsurance.git  ../projects/insurance/
 XX. name263:  https://github.com/ElishaBayode/Babies_mummies_growth_rates_MS.git  ../projects/Mummies/
-XX. name264:  https://github.com/davidearn/plague.git  ../projects/plague/
 XX. name265:  https://github.com/dushoff/polarization.git  ../projects/polarization/
 XX. name266:  https://github.com/ICI3D/rubellaSA.git  ../projects/rubella/
 XX. name268:  https://github.com/mac-theobio/coronavirus_asymptomatic.git  ../projects/weitzAsymp/
@@ -370,7 +367,7 @@ svs ~/gitroot/generation_links  ##
 * rejected eLife (appealed, rejected again)
 * resubmit to Epidemics
 
-## Speed and strength, submit Oct 20
+## 
 
 Strength and speed (help!!)
 	talks
