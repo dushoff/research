@@ -11,11 +11,19 @@ vim_session:
 
 ######################################################################
 
+Sources += $(wildcard *.R)
+
 ## contact/mixpref.Rout: contact/mixpref.R
-covid_MP_age.Rout: contact/mixpref.Rout covid_MP_age.R
+covid_MP_age.Rout: covid_MP_age.R
+
+covid_simple.Rout: covid_simple.R
 
 Sources += agetest.R contact/mixpref.R 
 agetest.Rout: safety_checks.Rout contact/mixpref.Rout agetest.R
+
+Ignore += eq0.o eq0.so
+
+eq0.o: eq0.c
 
 ######################################################################
 
