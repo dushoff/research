@@ -63,7 +63,7 @@ Accepted JRSI 2020 Jun 01
 XX. serial:  https://github.com/parksw3/serial.git  ../park/serial/
 Submitted PNAS 2020 Jun 05 (Fri)
 
-## WAIT
+## RESUBMIT
 XX. exponential_framework:  https://github.com/parksw3/wuhan.git ../outbreak/park
 * Resubmitted JRSI 12 May 2020
 
@@ -144,7 +144,6 @@ XX. plateaus: https://github.com/jsweitz/covid19-git-plateaus.git
 
 XX. name208:  ../admin/coreFaculty/
 XX. name210:  ../admin/cron/
-XX. name211:  ../admin/CV/
 XX. name212:  ../admin/Lab_meeting/
 XX. name213:  ../admin/Planning/
 
@@ -174,7 +173,6 @@ XX. name240:  https://github.com/davidchampredon/covid-fcst.git  ../outbreak/fcs
 XX. name241:  https://github.com/parksw3/Korea-analysis.git  ../outbreak/Korea/
 XX. name242:  https://github.com/wzmli/curate_coronadata.git  ../outbreak/li_data/
 XX. name243:  https://github.com/wzmli/hybridx.git  ../outbreak/lunchbox/
-XX. name244:  https://github.com/parksw3/wuhan.git  ../outbreak/park/
 XX. name245:  https://github.com/wzmli/rabies_R0.git  ../outbreak/rabies_R0/
 XX. name246:  https://github.com/SACEMA/covidProjections.git  ../outbreak/SACEMA/
 XX. name247:  https://github.com/dushoff/Ebola_sims.git  ../outbreak/sims/
@@ -233,15 +231,6 @@ Diversity Users guide with Roswell
 
 ----------------------------------------------------------------------
 
-## REVISE
-
-Exponential framework (Park-led R0 estimate)
-* outbreak/park
-* 2020 Feb 26 (Wed) rejected from where?
-* 2020 Apr 23 Revision requested by JRSI 0144
-
-----------------------------------------------------------------------
-
 ## RESUBMIT
 
 ----------------------------------------------------------------------
@@ -253,12 +242,6 @@ Shoulders
 * Weitz behaviour adjustment
 * https://www.sciencedirect.com/science/article/pii/S1755436518301063 for older try
 * in legacy!!
-
-----------------------------------------------------------------------
-
-## POST
-
-R0 framework
 
 ----------------------------------------------------------------------
 
