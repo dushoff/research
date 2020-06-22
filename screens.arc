@@ -67,11 +67,11 @@ Submitted PNAS 2020 Jun 05 (Fri)
 XX. exponential_framework:  https://github.com/parksw3/wuhan.git ../outbreak/park
 * Resubmitted JRSI 12 May 2020
 
-## SUBMIT
+## WAIT
 XX. speedstrength:  https://github.com/parksw3/speedstrength.git  ../park/speed/
 XX. speedstrength/doc
 * Posted 2020 Mar 3
-* Target PNAS
+* Submitted PNAS 20 Jun
 * https://docs.google.com/document/d/1y2pzx_8yDa_990MAPVwa2DxKWcYZEn99IQ7dWs1Wjxg/edit
 
 ######################################################################
@@ -201,47 +201,16 @@ XX. name276:  https://github.com/wzmli/mc_recency.git url = https://github.com/d
 
 ######################################################################
 
-## Out
-
-Weitz asymptomatic
-* projects/weitzAsymp (10:6)
-* Submitted Lancet ID before 2020 Mar 19 (Thu)
-* Submitted Epidemics 2020 Mar 23 (Mon)
-	* Accepted
-
-Weitz shields
-* In press Nature Med 2020 Apr 21 (Tue)
-* Publised 2020 May 07 (Thu) tweet!
-
-IBM Calibration (Hazelbag)
-* Lives nowhere in particular
-* Minor revision requested 2020 Mar 11 (Wed)
-* Accepted 2020 Apr 21 (Tue)
-* Accepted again 1 May (??)
-
-----------------------------------------------------------------------
-
 ## Off
-
-Plague
-* 15 Mar revisions submitted to PNAS
 
 Diversity Users guide with Roswell
 * Resubmitted 2020 Apr 21 (Tue) Oikos 07202
 
 ----------------------------------------------------------------------
 
-## RESUBMIT
-
-----------------------------------------------------------------------
-
+## RESUBMIT (old)
 
 Daihai pandemic age structure
-
-Shoulders
-* Weitz behaviour adjustment
-* https://www.sciencedirect.com/science/article/pii/S1755436518301063 for older try
-* in legacy!!
 
 ----------------------------------------------------------------------
 
@@ -351,11 +320,6 @@ svs ~/gitroot/generation_links  ##
 * resubmit to Epidemics
 
 ## 
-
-Strength and speed (help!!)
-	talks
-	little_r
-	sds ~/gitroot/dushoff.github.io/phi_notes.tex
 
 ## Lice (submit Nov 15)
 sds ~/hybrid/academic/louseplague/doc
