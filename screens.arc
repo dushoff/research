@@ -58,6 +58,7 @@ XX. SACEMA_project:  https://github.com/SACEMA/covidProjections.git  ../coronavi
 XX. barcelona:  https://github.com/parksw3/contact_trace.git  ../park/trace/
 XX. barcelona/doc
 Accepted JRSI 2020 Jun 01
+* https://www.biorxiv.org/content/10.1101/683326v2
 
 ## WAIT
 XX. serial:  https://github.com/parksw3/serial.git  ../park/serial/
