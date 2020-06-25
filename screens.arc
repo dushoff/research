@@ -54,7 +54,7 @@ XX. SACEMA_project:  https://github.com/SACEMA/covidProjections.git  ../coronavi
 
 ## Park-led projects
 
-## WAIT
+## OUT
 XX. barcelona:  https://github.com/parksw3/contact_trace.git  ../park/trace/
 XX. barcelona/doc
 Accepted JRSI 2020 Jun 01
@@ -67,13 +67,13 @@ Submitted PNAS 2020 Jun 05 (Fri)
 ## RESUBMIT
 XX. exponential_framework:  https://github.com/parksw3/wuhan.git ../outbreak/park
 * Resubmitted JRSI 12 May 2020
+* Provisionally accepted 18 Jun
 
 ## WAIT
 XX. speedstrength:  https://github.com/parksw3/speedstrength.git  ../park/speed/
 XX. speedstrength/doc
 * Posted 2020 Mar 3
-* Submitted PNAS 20 Jun
-* https://docs.google.com/document/d/1y2pzx_8yDa_990MAPVwa2DxKWcYZEn99IQ7dWs1Wjxg/edit
+* Submitted PNAS 20 Jun – desk rejected!
 
 ######################################################################
 
@@ -101,11 +101,9 @@ XX. households:  https://github.com/CYGUBICKO/hh.git  ../cygu/hh/
 ### Elisha
 Mummies:  https://github.com/ElishaBayode/Babies_mummies_growth_rates_MS.git  ../projects/Mummies/
 XX. Mummies/ms
-* Status unclear, recently sent a different paper
+* 2020 Jun 22 returned to Elisha
 
 XX. Mummies/GrowthRateMS/
-Mummies/GrowthRateMS.vscreen
-* Return to Elisha soon
 
 ## So
 
@@ -132,6 +130,10 @@ XX. plague: https://github.com/davidearn/plague.git ## NOALL
 XX. plateaus: https://github.com/jsweitz/covid19-git-plateaus.git
 * 2020 May 21 (Thu): submitted to PNAS
 * https://docs.google.com/document/d/1SnvpniWc8wyMob1xWFxrShOAV6n7B_s1cYhR7Dih3r8/edit
+
+Did. You. Tell. Jude. You. Were. Inviting. Me???
+
+XX. epidemicInsurance:  https://github.com/SACEMA/epidemicInsurance.git  ../projects/insurance/
 
 ----------------------------------------------------------------------
 
@@ -186,8 +188,6 @@ XX. name255:  ../planning/covid19/
 XX. name259:  https://github.com/bbolker/bbmisc.git  ../projects/bbmisc/
 XX. name260:  https://github.com/dushoff/checkPlots.git  ../projects/checkPlots/
 XX. name261:  https://github.com/dushoff/diversity_metrics.git  ../projects/diversity_metrics/
-XX. name262:  https://github.com/SACEMA/epidemicInsurance.git  ../projects/insurance/
-XX. name263:  https://github.com/ElishaBayode/Babies_mummies_growth_rates_MS.git  ../projects/Mummies/
 XX. name265:  https://github.com/dushoff/polarization.git  ../projects/polarization/
 XX. name266:  https://github.com/ICI3D/rubellaSA.git  ../projects/rubella/
 XX. name268:  https://github.com/mac-theobio/coronavirus_asymptomatic.git  ../projects/weitzAsymp/
