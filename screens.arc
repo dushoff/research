@@ -64,16 +64,21 @@ Accepted JRSI 2020 Jun 01
 XX. serial:  https://github.com/parksw3/serial.git  ../park/serial/
 Submitted PNAS 2020 Jun 05 (Fri)
 
-## RESUBMIT
+## POST
 XX. exponential_framework:  https://github.com/parksw3/wuhan.git ../outbreak/park
 * Resubmitted JRSI 12 May 2020
 * Provisionally accepted 18 Jun
+* Accepted 2020 Jun 29 (Mon)
 
-## WAIT
+## RESUBMIT
 XX. speedstrength:  https://github.com/parksw3/speedstrength.git  ../park/speed/
 XX. speedstrength/doc
 * Posted 2020 Mar 3
 * Submitted PNAS 20 Jun – desk rejected!
+
+## REVISE as dispatch
+2020 Jun 2X
+XX. Korea:  https://github.com/parksw3/Korea-analysis.git  ../outbreak/Korea/
 
 ######################################################################
 
@@ -131,9 +136,20 @@ XX. plateaus: https://github.com/jsweitz/covid19-git-plateaus.git
 * 2020 May 21 (Thu): submitted to PNAS
 * https://docs.google.com/document/d/1SnvpniWc8wyMob1xWFxrShOAV6n7B_s1cYhR7Dih3r8/edit
 
-Did. You. Tell. Jude. You. Were. Inviting. Me???
-
 XX. epidemicInsurance:  https://github.com/SACEMA/epidemicInsurance.git  ../projects/insurance/
+
+## Roswell
+
+Rarity
+	* diversity_metrics repo
+		* svs ~/gitroot/diversity_metrics ##
+		There's a library inside this
+	* http://dushoff.github.io/notebook/diversity.html
+		svs ~/git/notebook
+
+XX. diversity:  https://github.com/dushoff/diversity_metrics.git  ../projects/diversity_metrics/
+
+XX. checkPlots:  https://github.com/dushoff/checkPlots.git  ../projects/checkPlots/
 
 ----------------------------------------------------------------------
 
@@ -173,7 +189,6 @@ XX. name237:  https://github.com/ICI3D/ICI3D.github.io.git  ../ici3d/io/
 XX. name238:  https://github.com/ICI3D/MMED.git  ../ici3d/MMED/
 XX. name239:  https://github.com/cfshi/coronavirus.git  ../outbreak/ccall/
 XX. name240:  https://github.com/davidchampredon/covid-fcst.git  ../outbreak/fcst/
-XX. name241:  https://github.com/parksw3/Korea-analysis.git  ../outbreak/Korea/
 XX. name242:  https://github.com/wzmli/curate_coronadata.git  ../outbreak/li_data/
 XX. name243:  https://github.com/wzmli/hybridx.git  ../outbreak/lunchbox/
 XX. name245:  https://github.com/wzmli/rabies_R0.git  ../outbreak/rabies_R0/
@@ -186,8 +201,6 @@ XX. name251:  https://github.com/parksw3/bayesantigen2.git  ../park/flumap/
 XX. name254:  https://github.com/parksw3/contact_trace.git  ../park/trace/
 XX. name255:  ../planning/covid19/
 XX. name259:  https://github.com/bbolker/bbmisc.git  ../projects/bbmisc/
-XX. name260:  https://github.com/dushoff/checkPlots.git  ../projects/checkPlots/
-XX. name261:  https://github.com/dushoff/diversity_metrics.git  ../projects/diversity_metrics/
 XX. name265:  https://github.com/dushoff/polarization.git  ../projects/polarization/
 XX. name266:  https://github.com/ICI3D/rubellaSA.git  ../projects/rubella/
 XX. name268:  https://github.com/mac-theobio/coronavirus_asymptomatic.git  ../projects/weitzAsymp/
@@ -201,11 +214,6 @@ XX. name275:  https://github.com/dushoff/Circumcision_and_behaviour.git url = ht
 XX. name276:  https://github.com/wzmli/mc_recency.git url = https://github.com/dushoff/makestuff.git  ../shi/recency/
 
 ######################################################################
-
-## Off
-
-Diversity Users guide with Roswell
-* Resubmitted 2020 Apr 21 (Tue) Oikos 07202
 
 ----------------------------------------------------------------------
 
@@ -248,11 +256,6 @@ rubella with Villyen, Steve and Juliet
 censoring with Park
 * park/serial
 
-Korean social distancing with Park and Sunky
-* outbreak/Korea (9:?7)
-* 2020 Mar 21 (Sat)
-* korea.pdf
-
 Centering and manipulating linear models
 * Bolker, Li, Cygu
 * wzmli/StrucImpute
@@ -260,10 +263,6 @@ Centering and manipulating linear models
 Covid Canada
 * wzmli/
 * 9:6 (temp) (outbreaks/Canada)
-
-Covid Korea
-* Park, sunky
-* 9:7 (temp) (outbreaks/canada)
 
 Covid RSA
 * U. Pretoria repo and dashboard
@@ -328,17 +327,12 @@ sds ~/hybrid/academic/louseplague/doc
 Roswell
 =======
 
-roswell.mkd for notes made while travelling on something specific
+## Off
 
+Diversity Users guide
+* Resubmitted 2020 Apr 21 (Tue) Oikos 07202
 Guide, docs maybe this one?
 	* https://docs.google.com/document/d/12hdN9T1CkZb5jBIl5JNCveVfi_7KyjJkQLyK5nIwva4/edit
-
-Rarity
-	* diversity_metrics repo
-		* svs ~/gitroot/diversity_metrics ##
-		There's a library inside this
-	* http://dushoff.github.io/notebook/diversity.html
-		svs ~/git/notebook
 
 Champredon
 ==========
