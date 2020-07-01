@@ -70,11 +70,13 @@ XX. exponential_framework:  https://github.com/parksw3/wuhan.git ../outbreak/par
 * Provisionally accepted 18 Jun
 * Accepted 2020 Jun 29 (Mon)
 
-## RESUBMIT
+## WAIT
 XX. speedstrength:  https://github.com/parksw3/speedstrength.git  ../park/speed/
 XX. speedstrength/doc
 * Posted 2020 Mar 3
 * Submitted PNAS 20 Jun – desk rejected!
+* Submitted PRSB 30 Jun
+	* Manuscript ID RSPB-2020-1556
 
 ## REVISE as dispatch
 2020 Jun 2X
@@ -100,6 +102,10 @@ XX. youtube: https://github.com/covid19awareness/YouTube.git
 XX. tvsurvive: https://github.com/CYGUBICKO/pcoxtime.git
 
 XX. households:  https://github.com/CYGUBICKO/hh.git  ../cygu/hh/
+
+### 141. cygufuns:  https://github.com/cygubicko/funs.git  ../cygu/funs/
+* Incorporate this by cloning into other repos?
+* Or should we do parallel again (but with a different name)
 
 ######################################################################
 
@@ -171,7 +177,6 @@ XX. name215:  https://github.com/wzmli/corona.git  ../coronavirus/corona/
 XX. name216:  https://github.com/wzmli/covid_delay.git  ../coronavirus/delay/
 
 XX. name224:  https://github.com/CYGUBICKO/admins.git  ../cygu/admins/
-XX. name225:  https://github.com/cygubicko/funs.git  ../cygu/funs/
 XX. name227:  https://github.com/CYGUBICKO/proview.git  ../cygu/proview/
 XX. name228:  https://github.com/cygubicko/wash.git  ../cygu/wash/
 
