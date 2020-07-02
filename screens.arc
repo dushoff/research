@@ -64,6 +64,9 @@ Accepted JRSI 2020 Jun 01
 XX. serial:  https://github.com/parksw3/serial.git  ../park/serial/
 Submitted PNAS 2020 Jun 05 (Fri)
 
+XX. cereal: https://github.com/parksw3/serial2.git
+New drafty Rt stuff cloned 2020 Jul 01 (Wed) after a Lipsitch “scoop”
+
 ## POST
 XX. exponential_framework:  https://github.com/parksw3/wuhan.git ../outbreak/park
 * Resubmitted JRSI 12 May 2020
@@ -201,9 +204,7 @@ XX. name246:  https://github.com/SACEMA/covidProjections.git  ../outbreak/SACEMA
 XX. name247:  https://github.com/dushoff/Ebola_sims.git  ../outbreak/sims/
 XX. name248:  https://github.com/Outbreak-analysis/ncov_cihr.git  ../outbreak/special/
 XX. name249:  https://github.com/Outbreak-analysis/startingPoints.git  ../outbreak/start/
-XX. name250:  https://github.com/parksw3/censor.git  ../park/censor/
 XX. name251:  https://github.com/parksw3/bayesantigen2.git  ../park/flumap/
-XX. name254:  https://github.com/parksw3/contact_trace.git  ../park/trace/
 XX. name255:  ../planning/covid19/
 XX. name259:  https://github.com/bbolker/bbmisc.git  ../projects/bbmisc/
 XX. name265:  https://github.com/dushoff/polarization.git  ../projects/polarization/
