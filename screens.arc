@@ -160,6 +160,16 @@ XX. diversity:  https://github.com/dushoff/diversity_metrics.git  ../projects/di
 
 XX. checkPlots:  https://github.com/dushoff/checkPlots.git  ../projects/checkPlots/
 
+######################################################################
+
+## Stats with Bolker
+
+### Multifactorial
+* https://app.slack.com/client/T016QKNS5BK/C015X8VQPCP
+* https://docs.google.com/document/d/1lBbS--qF_XHSnbcLcDnm9KdNL2at6qEOKh5iRRMqOF8/
+* https://hackmd.io/@LionelH/SySOUWiR8
+	* https://hackmd.io/s/features
+
 ----------------------------------------------------------------------
 
 ###################33 CUT!! ######################
