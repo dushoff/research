@@ -1,5 +1,5 @@
 
-## This is a linked Makefile for …
+## This is a linked Makefile for epigrowthfit
 ## 
 
 current: target
