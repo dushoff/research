@@ -87,6 +87,24 @@ XX. Korea:  https://github.com/parksw3/Korea-analysis.git  ../outbreak/Korea/
 
 ######################################################################
 
+## Rabies
+
+rabies_R0:  https://github.com/wzmli/rabies_R0.git  ../outbreak/rabies_R0/
+
+rabies_correlations:  https://github.com/wzmli/rabies_correlations.git  ../rabies/correlations/
+
+## Actively working with Glasgow on analysis and cleaning
+rabies_db_pipeline
+* sds ~/gitroot/rabies_db_pipeline ##
+
+## Mike's big Scotland idea
+sds ~/gitroot/rabies_correlations ##
+
+## Rachel's vaccination stuff (hacky?)
+rabies_report
+* sds ~/gitroot/rabies_report ##
+
+######################################################################
 ## Chyun survey project
 
 XX. awareness:  https://github.com/covid19awareness/Survey.git  ../coronavirus/survey/
@@ -209,7 +227,6 @@ XX. name239:  https://github.com/cfshi/coronavirus.git  ../outbreak/ccall/
 XX. name240:  https://github.com/davidchampredon/covid-fcst.git  ../outbreak/fcst/
 XX. name242:  https://github.com/wzmli/curate_coronadata.git  ../outbreak/li_data/
 XX. name243:  https://github.com/wzmli/hybridx.git  ../outbreak/lunchbox/
-XX. name245:  https://github.com/wzmli/rabies_R0.git  ../outbreak/rabies_R0/
 XX. name246:  https://github.com/SACEMA/covidProjections.git  ../outbreak/SACEMA/
 XX. name247:  https://github.com/dushoff/Ebola_sims.git  ../outbreak/sims/
 XX. name248:  https://github.com/Outbreak-analysis/ncov_cihr.git  ../outbreak/special/
@@ -220,7 +237,6 @@ XX. name259:  https://github.com/bbolker/bbmisc.git  ../projects/bbmisc/
 XX. name265:  https://github.com/dushoff/polarization.git  ../projects/polarization/
 XX. name266:  https://github.com/ICI3D/rubellaSA.git  ../projects/rubella/
 XX. name268:  https://github.com/mac-theobio/coronavirus_asymptomatic.git  ../projects/weitzAsymp/
-XX. name269:  https://github.com/wzmli/rabies_correlations.git  ../rabies/correlations/
 XX. name270:  https://github.com/wzmli/glasgow.git  ../rabies/glasgow/
 XX. name271:  https://github.com/wzmli/rabies_cihr.git  ../rabies/grant/
 XX. name272:  https://github.com/wzmli/rabies_R0.git  ../rabies/R0/
@@ -371,24 +387,6 @@ Harris
 ------
 ## Data from Marek
 * sdn ~/Dropbox/MarekSmieja-Surveys/ Harris ##
-
-Rabies
-======
-
-## Actively working with Glasgow on analysis and cleaning
-rabies_db_pipeline
-* sds ~/gitroot/rabies_db_pipeline ##
-
-## Mike's big Scotland idea
-sds ~/gitroot/rabies_correlations ##
-
-## Mike's analysis stuff (can we integrate some stuff with pipeline?)
-rabies_R0
-* svs ~/gitroot/rabies_R0 ##
-
-## Rachel's vaccination stuff (hacky?)
-rabies_report
-* sds ~/gitroot/rabies_report ##
 
 Earn
 ====
