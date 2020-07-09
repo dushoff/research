@@ -45,17 +45,17 @@ Linelist
 XX. smart_testing:  https://github.com/SACEMA/SMART_testing.git  ../coronavirus/smart_test/
 
 Sheetal's project
-XX. MASHA: https://github.com/jfunction/MASHA.git
+MASHA: https://github.com/jfunction/MASHA.git
 
 Older RSA
-XX. SACEMA_project:  https://github.com/SACEMA/covidProjections.git  ../coronavirus/SACEMA
+SACEMA_project:  https://github.com/SACEMA/covidProjections.git  ../coronavirus/SACEMA
 
 ######################################################################
 
 ## Park-led projects
 
 ## OUT
-XX. barcelona:  https://github.com/parksw3/contact_trace.git  ../park/trace/
+barcelona:  https://github.com/parksw3/contact_trace.git  ../park/trace/
 XX. barcelona/doc
 Accepted JRSI 2020 Jun 01
 * https://www.biorxiv.org/content/10.1101/683326v2
@@ -97,9 +97,6 @@ rabies_correlations:  https://github.com/wzmli/rabies_correlations.git  ../rabie
 rabies_db_pipeline
 * sds ~/gitroot/rabies_db_pipeline ##
 
-## Mike's big Scotland idea
-sds ~/gitroot/rabies_correlations ##
-
 ## Rachel's vaccination stuff (hacky?)
 rabies_report
 * sds ~/gitroot/rabies_report ##
@@ -139,10 +136,11 @@ XX. Mummies/GrowthRateMS/
 
 ## So
 
-XX. So_lags: https://github.com/Apeirogons/covid-time-lag ## NOALL
+So_lags: https://github.com/Apeirogons/covid-time-lag 
 
-## https://github.com/Apeirogons/3BM6-Modelling.git  ../projects/so_lysogeny/
+So_regression: https://github.com/Apeirogons/covid-time-lag-regression.git
 
+So_lysogeny: https://github.com/Apeirogons/3BM6-Modelling.git  ../projects/so_lysogeny/
 
 ######################################################################
 
@@ -163,8 +161,6 @@ XX. plateaus: https://github.com/jsweitz/covid19-git-plateaus.git
 * 2020 May 21 (Thu): submitted to PNAS
 * https://docs.google.com/document/d/1SnvpniWc8wyMob1xWFxrShOAV6n7B_s1cYhR7Dih3r8/edit
 
-XX. epidemicInsurance:  https://github.com/SACEMA/epidemicInsurance.git  ../projects/insurance/
-
 ## Roswell
 
 Rarity
@@ -174,7 +170,9 @@ Rarity
 	* http://dushoff.github.io/notebook/diversity.html
 		svs ~/git/notebook
 
-XX. diversity:  https://github.com/dushoff/diversity_metrics.git  ../projects/diversity_metrics/
+XX. rarity: https://github.com/mikeroswell/MeanRarity.git
+
+diversity:  https://github.com/dushoff/diversity_metrics.git  ../projects/diversity_metrics/
 
 XX. checkPlots:  https://github.com/dushoff/checkPlots.git  ../projects/checkPlots/
 
@@ -193,6 +191,8 @@ XX. checkPlots:  https://github.com/dushoff/checkPlots.git  ../projects/checkPlo
 ###################33 CUT!! ######################
 
 ## Things below here can work, but aren't screens and not alled, so it's bad form to work on them without moving them above the line? 2020 May 21 (Thu)
+
+epidemicInsurance:  https://github.com/SACEMA/epidemicInsurance.git  ../projects/insurance/
 
 # Web
 
@@ -240,7 +240,6 @@ XX. name268:  https://github.com/mac-theobio/coronavirus_asymptomatic.git  ../pr
 XX. name270:  https://github.com/wzmli/glasgow.git  ../rabies/glasgow/
 XX. name271:  https://github.com/wzmli/rabies_cihr.git  ../rabies/grant/
 XX. name272:  https://github.com/wzmli/rabies_R0.git  ../rabies/R0/
-XX. name273:  https://github.com/wzmli/rabies_db_pipeline.git  ../rabies/tz_pipeline/
 XX. name274:  https://github.com/fishforwish/aging.git  ../shi/aging/
 XX. name275:  https://github.com/dushoff/Circumcision_and_behaviour.git url = https://github.com/dushoff/makestuff  ../shi/behaviour/
 XX. name276:  https://github.com/wzmli/mc_recency.git url = https://github.com/dushoff/makestuff.git  ../shi/recency/
