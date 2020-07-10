@@ -164,15 +164,13 @@ XX. plateaus: https://github.com/jsweitz/covid19-git-plateaus.git
 ## Roswell
 
 Rarity
-	* diversity_metrics repo
-		* svs ~/gitroot/diversity_metrics ##
-		There's a library inside this
-	* http://dushoff.github.io/notebook/diversity.html
+* http://dushoff.github.io/notebook/diversity.html
 		svs ~/git/notebook
 
 XX. rarity: https://github.com/mikeroswell/MeanRarity.git
 
-diversity:  https://github.com/dushoff/diversity_metrics.git  ../projects/diversity_metrics/
+diversity:  https://github.com/dushoff/diversity_metrics.git  ../projects/diversity_metrics/ ## NOALL (gigantic!)
+* Apparently I tried to make a library here, check it out?
 
 XX. checkPlots:  https://github.com/dushoff/checkPlots.git  ../projects/checkPlots/
 
