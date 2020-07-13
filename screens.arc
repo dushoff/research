@@ -184,6 +184,10 @@ XX. checkPlots:  https://github.com/dushoff/checkPlots.git  ../projects/checkPlo
 * https://hackmd.io/@LionelH/SySOUWiR8
 	* https://hackmd.io/s/features
 
+## Geetha and testing
+
+test_positivity: https://github.com/GeethaJey/COVID-TPR.git
+
 ----------------------------------------------------------------------
 
 ###################33 CUT!! ######################
