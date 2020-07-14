@@ -65,6 +65,7 @@ XX. serial:  https://github.com/parksw3/serial.git  ../park/serial/
 Submitted PNAS 2020 Jun 05 (Fri)
 Reviews not-too-bad 12 Jul
 
+
 XX. cereal: https://github.com/parksw3/serial2.git
 New drafty Rt stuff cloned 2020 Jul 01 (Wed) after a Lipsitch “scoop”
 
@@ -141,6 +142,13 @@ XX. So_lags: https://github.com/Apeirogons/covid-time-lag ## NOALL
 
 ## https://github.com/Apeirogons/3BM6-Modelling.git  ../projects/so_lysogeny/
 
+XX. So_lysogeny:  https://github.com/Apeirogons/3BM6-Modelling.git 
+
+XX. So_regression:  https://github.com/Apeirogons/covid-time-lag-regression.git ./So_regression
+
+## Geetha
+
+XX. test_positivity:  https://github.com/GeethaJey/COVID-TPR.git ./test_positivity
 
 ######################################################################
 
@@ -152,8 +160,9 @@ XX. covidgrowthfit: https://github.com/davidearn/covidgrowthfit.git
 ## Plague
 XX. plague_growth: https://github.com/davidearn/plague_growth.git
 XX. epigrowthfit: https://github.com/davidearn/epigrowthfit.git
+
 ## Old, messy repo
-XX. plague: https://github.com/davidearn/plague.git ## NOALL
+plague: https://github.com/davidearn/plague.git ## NOALL
 
 ## Weitz plateaus, very messy
 XX. plateaus: https://github.com/jsweitz/covid19-git-plateaus.git
@@ -615,4 +624,3 @@ Archive
 =======
 
 * sds ~/Dropbox/annualflu ##
-
