@@ -60,9 +60,10 @@ XX. barcelona/doc
 Accepted JRSI 2020 Jun 01
 * https://www.biorxiv.org/content/10.1101/683326v2
 
-## WAIT
+## RESUBMIT
 XX. serial:  https://github.com/parksw3/serial.git  ../park/serial/
 Submitted PNAS 2020 Jun 05 (Fri)
+Reviews not-too-bad 12 Jul
 
 XX. cereal: https://github.com/parksw3/serial2.git
 New drafty Rt stuff cloned 2020 Jul 01 (Wed) after a Lipsitch “scoop”
@@ -136,11 +137,10 @@ XX. Mummies/GrowthRateMS/
 
 ## So
 
-So_lags: https://github.com/Apeirogons/covid-time-lag 
+XX. So_lags: https://github.com/Apeirogons/covid-time-lag ## NOALL
 
-So_regression: https://github.com/Apeirogons/covid-time-lag-regression.git
+## https://github.com/Apeirogons/3BM6-Modelling.git  ../projects/so_lysogeny/
 
-So_lysogeny: https://github.com/Apeirogons/3BM6-Modelling.git  ../projects/so_lysogeny/
 
 ######################################################################
 
@@ -148,7 +148,6 @@ So_lysogeny: https://github.com/Apeirogons/3BM6-Modelling.git  ../projects/so_ly
 
 XX. covidgrowthfit: https://github.com/davidearn/covidgrowthfit.git
 * Patterns of little r
-
 
 ## Plague
 XX. plague_growth: https://github.com/davidearn/plague_growth.git
@@ -164,13 +163,15 @@ XX. plateaus: https://github.com/jsweitz/covid19-git-plateaus.git
 ## Roswell
 
 Rarity
-* http://dushoff.github.io/notebook/diversity.html
+	* diversity_metrics repo
+		* svs ~/gitroot/diversity_metrics ##
+		There's a library inside this
+	* http://dushoff.github.io/notebook/diversity.html
 		svs ~/git/notebook
 
 XX. rarity: https://github.com/mikeroswell/MeanRarity.git
 
-diversity:  https://github.com/dushoff/diversity_metrics.git  ../projects/diversity_metrics/ ## NOALL (gigantic!)
-* Apparently I tried to make a library here, check it out?
+diversity:  https://github.com/dushoff/diversity_metrics.git  ../projects/diversity_metrics/
 
 XX. checkPlots:  https://github.com/dushoff/checkPlots.git  ../projects/checkPlots/
 
@@ -183,10 +184,6 @@ XX. checkPlots:  https://github.com/dushoff/checkPlots.git  ../projects/checkPlo
 * https://docs.google.com/document/d/1lBbS--qF_XHSnbcLcDnm9KdNL2at6qEOKh5iRRMqOF8/
 * https://hackmd.io/@LionelH/SySOUWiR8
 	* https://hackmd.io/s/features
-
-## Geetha and testing
-
-test_positivity: https://github.com/GeethaJey/COVID-TPR.git
 
 ----------------------------------------------------------------------
 
