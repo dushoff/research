@@ -33,14 +33,14 @@ XX. afroReports: https://github.com/SACEMA/afroReports
 XX. afroRegional: https://github.com/SACEMA/afroRegional.git
 
 XX. afroCalib: https://github.com/SACEMA/afroRegionCalib.git
-
 Documentation Google drive
 * https://drive.google.com/drive/folders/14W3suVM4EWzxTRtVoEBobEP3_zzmB74q
-
 Linelist
 * https://drive.google.com/drive/folders/1qjnDv7VXgd9sElXz0jiHYG0y1UctKyq1
 
 ## Other SACEMA
+
+RSAcovid:  https://github.com/SACEMA/RSAcovid.git
 
 XX. smart_testing:  https://github.com/SACEMA/SMART_testing.git  ../coronavirus/smart_test/
 
