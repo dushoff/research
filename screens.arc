@@ -113,6 +113,8 @@ XX. websurvey:  https://github.com/covid19awareness/covid19awareness.github.io.g
 
 XX. youtube: https://github.com/covid19awareness/YouTube.git
 
+coronatrends:  https://github.com/cfshi/coronavirus.git  ../outbreak/ccall/
+
 ## 111. Google_News: https://github.com/covid19awareness/Google_News.git
 
 ######################################################################
@@ -231,7 +233,6 @@ XX. name235:  https://github.com/davidearn/onmort.git  ../earn/onmort/
 XX. name236:  https://github.com/ICI3D/DAIDD.git  ../ici3d/DAIDD/
 XX. name237:  https://github.com/ICI3D/ICI3D.github.io.git  ../ici3d/io/
 XX. name238:  https://github.com/ICI3D/MMED.git  ../ici3d/MMED/
-XX. name239:  https://github.com/cfshi/coronavirus.git  ../outbreak/ccall/
 XX. name240:  https://github.com/davidchampredon/covid-fcst.git  ../outbreak/fcst/
 XX. name242:  https://github.com/wzmli/curate_coronadata.git  ../outbreak/li_data/
 XX. name243:  https://github.com/wzmli/hybridx.git  ../outbreak/lunchbox/
