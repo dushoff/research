@@ -83,6 +83,7 @@ XX. speedstrength/doc
 * Submitted PNAS 20 Jun – desk rejected!
 * Submitted PRSB 30 Jun
 	* Manuscript ID RSPB-2020-1556
+	* Apology 2020 Jul 17
 
 ## REVISE as dispatch
 2020 Jun 2X
