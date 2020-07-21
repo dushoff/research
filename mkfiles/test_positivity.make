@@ -1,5 +1,4 @@
-## This is a _linked_ Makefile for …
-## 
+## This is a _linked_ Makefile for Geetha's test positivity
 
 current: target
 -include target.mk
@@ -32,7 +31,7 @@ makestuff/Makefile:
 
 -include makestuff/os.mk
 
--include makestuff/wrapR.mk
+-include makestuff/makeR.mk
 
 -include makestuff/git.mk
 -include makestuff/visual.mk
