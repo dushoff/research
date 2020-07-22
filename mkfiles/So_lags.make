@@ -15,6 +15,16 @@ Makefile: requirements.out
 requirements.out: requirements.txt
 	pip3 install -r $< > $@
 
+latestdata.tgz:
+	wget -O $@ "https://github.com/beoutbreakprepared/nCoV2019/raw/master/latest_data/latestdata.tar.gz"
+
+latestdata.csv: latestdata.tgz
+	tar xzf $<
+	touch $@
+
+generate_starting_files.out: requirements.out latestdata.csv generate_starting_files.py
+	$(PITH3)
+
 time-lag-by-country.out: time-lag-by-country.py
 	$(PITH3)
 
