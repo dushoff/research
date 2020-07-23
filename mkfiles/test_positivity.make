@@ -13,6 +13,7 @@ vim_session:
 Sources += $(wildcard *.R *.md)
 
 Regression.Rout: Regression.R
+	$(run-R)
 
 ######################################################################
 
