@@ -175,15 +175,12 @@ XX. plateaus: https://github.com/jsweitz/covid19-git-plateaus.git
 
 ## Roswell
 
-Rarity
-	* diversity_metrics repo
-		* svs ~/gitroot/diversity_metrics ##
-		There's a library inside this
-	* http://dushoff.github.io/notebook/diversity.html
-		svs ~/git/notebook
-
 XX. rarity: https://github.com/mikeroswell/MeanRarity.git
 
+## Mothballed 2020 Jul 24 (Fri) 
+## Old versions of mean rarity and checkplots stuff
+## with a lot of cached data from Roswell
+## Currently building at rarity
 diversity:  https://github.com/dushoff/diversity_metrics.git  ../projects/diversity_metrics/
 
 XX. checkPlots:  https://github.com/dushoff/checkPlots.git  ../projects/checkPlots/
@@ -202,20 +199,14 @@ XX. dates: https://github.com/mac-theobio/dateProcessing.git
 
 ----------------------------------------------------------------------
 
-###################33 CUT!! ######################
-
 ## Things below here can work, but aren't screens and not alled, so it's bad form to work on them without moving them above the line? 2020 May 21 (Thu)
 
-epidemicInsurance:  https://github.com/SACEMA/epidemicInsurance.git  ../projects/insurance/
+XX. epidemicInsurance:  https://github.com/SACEMA/epidemicInsurance.git  ../projects/insurance/
 
 # Web
 
 # org?
 
-XX. name208:  ../admin/coreFaculty/
-XX. name210:  ../admin/cron/
-XX. name212:  ../admin/Lab_meeting/
-XX. name213:  ../admin/Planning/
 
 #research?
 XX. name215:  https://github.com/wzmli/corona.git  ../coronavirus/corona/
