@@ -13,7 +13,7 @@ screens.mk: screens.list makestuff/lmk.pl
 ######################################################################
 
 vim_session: 
-	bash -cl "vmt screens.list"
+	bash -cl "vmt screens.list github.txt"
 
 screen_session: screens.update
 	$(MAKE) $(vscreens)
