@@ -1,4 +1,4 @@
-## This is a _linked_ Makefile for Geetha's test positivity
+## This is the Makefile for Geetha's test positivity
 
 current: target
 -include target.mk
