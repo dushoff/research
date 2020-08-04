@@ -85,9 +85,10 @@ XX. speedstrength/doc
 	* Manuscript ID RSPB-2020-1556
 	* Apology 2020 Jul 17
 
-## REVISE as dispatch
-2020 Jun 2X
-XX. Korea:  https://github.com/parksw3/Korea-analysis.git  ../outbreak/Korea/
+## WAIT
+Korea:  https://github.com/parksw3/Korea-analysis.git  ../outbreak/Korea/
+* Accepted EID 2020 Aug 04 (Tue)
+
 
 ######################################################################
 
