@@ -182,7 +182,7 @@ XX. rarity: https://github.com/mikeroswell/MeanRarity.git
 ## Old versions of mean rarity and checkplots stuff
 ## with a lot of cached data from Roswell
 ## Currently building at rarity
-diversity:  https://github.com/dushoff/diversity_metrics.git  ../projects/diversity_metrics/
+## diversity:  https://github.com/dushoff/diversity_metrics.git  ../projects/diversity_metrics/
 
 XX. checkPlots:  https://github.com/dushoff/checkPlots.git  ../projects/checkPlots/
 
