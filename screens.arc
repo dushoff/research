@@ -66,6 +66,7 @@ Accepted JRSI 2020 Jun 01
 XX. serial:  https://github.com/parksw3/serial.git  ../park/serial/
 Submitted PNAS 2020 Jun 05 (Fri)
 Reviews not-too-bad 12 Jul
+Due 11 Sep
 
 XX. cereal: https://github.com/parksw3/serial2.git
 New drafty Rt stuff cloned 2020 Jul 01 (Wed) after a Lipsitch “scoop”
@@ -88,7 +89,6 @@ XX. speedstrength/doc
 ## WAIT
 Korea:  https://github.com/parksw3/Korea-analysis.git  ../outbreak/Korea/
 * Accepted EID 2020 Aug 04 (Tue)
-
 
 ######################################################################
 
