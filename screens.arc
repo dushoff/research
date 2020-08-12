@@ -75,7 +75,7 @@ XX. exponential_framework:  https://github.com/parksw3/wuhan.git ../outbreak/par
 * Provisionally accepted 18 Jun
 * Accepted 2020 Jun 29 (Mon)
 
-## WAIT
+## REVISE
 XX. speedstrength:  https://github.com/parksw3/speedstrength.git  ../park/speed/
 XX. speedstrength/doc
 * Posted 2020 Mar 3
@@ -83,9 +83,9 @@ XX. speedstrength/doc
 * Submitted PRSB 30 Jun
 	* Manuscript ID RSPB-2020-1556
 
-## REVISE as dispatch
-2020 Jun 2X
-XX. Korea:  https://github.com/parksw3/Korea-analysis.git  ../outbreak/Korea/
+## REVISE
+Korea:  https://github.com/parksw3/Korea-analysis.git  ../outbreak/Korea/
+* Accepted EID 2020 Aug 04 (Tue)
 
 ######################################################################
 
@@ -122,6 +122,9 @@ XX. youtube: https://github.com/covid19awareness/YouTube.git
 XX. tvsurvive: https://github.com/CYGUBICKO/pcoxtime.git
 
 XX. households:  https://github.com/CYGUBICKO/hh.git  ../cygu/hh/
+
+## Steve's calculations and writing for the comprehensive exam and the proposal
+cygu_comp: https://github.com/CYGUBICKO/comp_exam.git
 
 ### 141. cygufuns:  https://github.com/cygubicko/funs.git  ../cygu/funs/
 * Incorporate this by cloning into other repos?
@@ -191,7 +194,9 @@ XX. checkPlots:  https://github.com/dushoff/checkPlots.git  ../projects/checkPlo
 * https://hackmd.io/@LionelH/SySOUWiR8
 	* https://hackmd.io/s/features
 
-----------------------------------------------------------------------
+XX. dates: https://github.com/mac-theobio/dateProcessing.git
+
+polarization:  https://github.com/dushoff/polarization.git  ../projects/polarization/
 
 ###################33 CUT!! ######################
 
@@ -239,7 +244,6 @@ XX. name249:  https://github.com/Outbreak-analysis/startingPoints.git  ../outbre
 XX. name251:  https://github.com/parksw3/bayesantigen2.git  ../park/flumap/
 XX. name255:  ../planning/covid19/
 XX. name259:  https://github.com/bbolker/bbmisc.git  ../projects/bbmisc/
-XX. name265:  https://github.com/dushoff/polarization.git  ../projects/polarization/
 XX. name266:  https://github.com/ICI3D/rubellaSA.git  ../projects/rubella/
 XX. name268:  https://github.com/mac-theobio/coronavirus_asymptomatic.git  ../projects/weitzAsymp/
 XX. name270:  https://github.com/wzmli/glasgow.git  ../rabies/glasgow/
