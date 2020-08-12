@@ -1,4 +1,5 @@
-## This is a _linked_ Makefile for Sophie's API project
+
+## This is a _linked_ Makefile for …
 ## 
 
 current: target
