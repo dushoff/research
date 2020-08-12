@@ -1,4 +1,6 @@
-## This is the Makefile for Geetha's test positivity
+
+## This is a _linked_ Makefile for …
+## 
 
 current: target
 -include target.mk
@@ -7,13 +9,6 @@ current: target
 
 vim_session:
 	bash -cl "vmt"
-
-######################################################################
-
-Sources += $(wildcard *.R *.md)
-
-Regression.Rout: Regression.R
-	$(run-R)
 
 ######################################################################
 
@@ -32,7 +27,7 @@ makestuff/Makefile:
 
 -include makestuff/os.mk
 
--include makestuff/makeR.mk
+## -include makestuff/wrapR.mk
 
 -include makestuff/git.mk
 -include makestuff/visual.mk

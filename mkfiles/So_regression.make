@@ -1,28 +1,14 @@
 
-## This is a _linked_ Makefile for Matthew's covid-time-lag-regression
+## This is a _linked_ Makefile for …
+## 
 
 current: target
 -include target.mk
 
--include makestuff/python.def
+# -include makestuff/perl.def
 
 vim_session:
 	bash -cl "vmt"
-
-######################################################################
-
-Sources += README.md
-
-Sources += $(wildcard *.py)
-
-requirements.out: requirements.txt
-	pip3 install -r $< > $@
-
-lagutils.out: lagutils.py
-	touch $@
-
-regression-time-lag.out: lagutils.out regression-time-lag.py timeseries/
-	$(PITH3)
 
 ######################################################################
 

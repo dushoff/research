@@ -1,4 +1,6 @@
-## This is a linked Makefile for plateaus (Weitz covid paper)
+
+## This is a _linked_ Makefile for …
+## 
 
 current: target
 -include target.mk
@@ -10,28 +12,12 @@ vim_session:
 
 ######################################################################
 
-Sources += $(wildcard *.tex)
-
-## covidplateaus.pdf: covidplateaus.abs.tex covidplateaus.body.tex
-
-covidplateaus.pdf: $(wildcard *.tex)
-	pdflatex covidplateaus
-
-######################################################################
-
-## Deaths data for comparison
-
-Ignore += deaths
-
-######################################################################
-
 ### Makestuff
 
-Sources += Makefile
+## Sources += $(wildcard *.mk)
+## include $(wildcard *.mk)
 
-## Sources += content.mk
-## include content.mk
-
+Ignore += Makefile
 Ignore += makestuff
 msrepo = https://github.com/dushoff
 Makefile: makestuff/Makefile
