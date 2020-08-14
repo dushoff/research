@@ -191,6 +191,10 @@ XX. rarity: https://github.com/mikeroswell/MeanRarity.git
 
 XX. checkPlots:  https://github.com/dushoff/checkPlots.git  ../projects/checkPlots/
 
+https://docs.google.com/document/d/1JAMNZmy2OgUrLdng9L0888bAvKO6AabhtU0e_QSFRaw/edit
+
+https://mail.google.com/mail/u/0/#search/chao/FMfcgxwJXLkSQfNjQkLqQRPdbsdNsVKr
+
 ######################################################################
 
 ## Stats with Bolker
