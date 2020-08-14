@@ -23,8 +23,6 @@ XX. PHAC: https://github.com/mac-theobio/PHAC_covid.git
 * Ontario calibration (McMasterReport) reports are here
 * Now the main PHAC contract directory
 
-ON_age: https://github.com/davidearn/covid_age.git
-
 ## WHO AFRO
 XX. afroData: https://github.com/SACEMA/afroData.git ../coronavirus/afroData/
 
@@ -35,14 +33,14 @@ XX. afroReports: https://github.com/SACEMA/afroReports
 XX. afroRegional: https://github.com/SACEMA/afroRegional.git
 
 XX. afroCalib: https://github.com/SACEMA/afroRegionCalib.git
+
 Documentation Google drive
 * https://drive.google.com/drive/folders/14W3suVM4EWzxTRtVoEBobEP3_zzmB74q
+
 Linelist
 * https://drive.google.com/drive/folders/1qjnDv7VXgd9sElXz0jiHYG0y1UctKyq1
 
 ## Other SACEMA
-
-RSAcovid:  https://github.com/SACEMA/RSAcovid.git
 
 XX. smart_testing:  https://github.com/SACEMA/SMART_testing.git  ../coronavirus/smart_test/
 
@@ -66,7 +64,7 @@ Accepted JRSI 2020 Jun 01
 XX. serial:  https://github.com/parksw3/serial.git  ../park/serial/
 Submitted PNAS 2020 Jun 05 (Fri)
 Reviews not-too-bad 12 Jul
-Due 11 Sep
+
 
 XX. cereal: https://github.com/parksw3/serial2.git
 New drafty Rt stuff cloned 2020 Jul 01 (Wed) after a Lipsitch “scoop”
@@ -84,7 +82,6 @@ XX. speedstrength/doc
 * Submitted PNAS 20 Jun – desk rejected!
 * Submitted PRSB 30 Jun
 	* Manuscript ID RSPB-2020-1556
-	* Apology 2020 Jul 17
 
 ## REVISE
 Korea:  https://github.com/parksw3/Korea-analysis.git  ../outbreak/Korea/
@@ -115,10 +112,6 @@ This was the github.io page, but C. may still be doing stuff here?
 XX. websurvey:  https://github.com/covid19awareness/covid19awareness.github.io.git  ../coronavirus/websurvey/
 
 XX. youtube: https://github.com/covid19awareness/YouTube.git
-
-api: https://github.com/stelmacs/youtube-api.git
-
-coronatrends:  https://github.com/cfshi/coronavirus.git  ../outbreak/ccall/
 
 ## 111. Google_News: https://github.com/covid19awareness/Google_News.git
 
@@ -181,13 +174,13 @@ XX. plateaus: https://github.com/jsweitz/covid19-git-plateaus.git
 
 ## Roswell
 
+Rarity
+
 XX. rarity: https://github.com/mikeroswell/MeanRarity.git
 
-## Mothballed 2020 Jul 24 (Fri) 
-## Old versions of mean rarity and checkplots stuff
-## with a lot of cached data from Roswell
-## Currently building at rarity
-## diversity:  https://github.com/dushoff/diversity_metrics.git  ../projects/diversity_metrics/
+diversity:  https://github.com/dushoff/diversity_metrics.git  ../projects/diversity_metrics/
+
+* http://dushoff.github.io/notebook/diversity.html
 
 XX. checkPlots:  https://github.com/dushoff/checkPlots.git  ../projects/checkPlots/
 
@@ -209,16 +202,20 @@ XX. dates: https://github.com/mac-theobio/dateProcessing.git
 
 polarization:  https://github.com/dushoff/polarization.git  ../projects/polarization/
 
-----------------------------------------------------------------------
+###################33 CUT!! ######################
 
 ## Things below here can work, but aren't screens and not alled, so it's bad form to work on them without moving them above the line? 2020 May 21 (Thu)
 
-XX. epidemicInsurance:  https://github.com/SACEMA/epidemicInsurance.git  ../projects/insurance/
+epidemicInsurance:  https://github.com/SACEMA/epidemicInsurance.git  ../projects/insurance/
 
 # Web
 
 # org?
 
+XX. name208:  ../admin/coreFaculty/
+XX. name210:  ../admin/cron/
+XX. name212:  ../admin/Lab_meeting/
+XX. name213:  ../admin/Planning/
 
 #research?
 XX. name215:  https://github.com/wzmli/corona.git  ../coronavirus/corona/
@@ -240,6 +237,7 @@ XX. name235:  https://github.com/davidearn/onmort.git  ../earn/onmort/
 XX. name236:  https://github.com/ICI3D/DAIDD.git  ../ici3d/DAIDD/
 XX. name237:  https://github.com/ICI3D/ICI3D.github.io.git  ../ici3d/io/
 XX. name238:  https://github.com/ICI3D/MMED.git  ../ici3d/MMED/
+XX. name239:  https://github.com/cfshi/coronavirus.git  ../outbreak/ccall/
 XX. name240:  https://github.com/davidchampredon/covid-fcst.git  ../outbreak/fcst/
 XX. name242:  https://github.com/wzmli/curate_coronadata.git  ../outbreak/li_data/
 XX. name243:  https://github.com/wzmli/hybridx.git  ../outbreak/lunchbox/
