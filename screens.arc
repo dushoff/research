@@ -212,10 +212,10 @@ gamma: https://github.com/parksw3/individual_intervention.git
 
 ## Orphans: grab their urls using a rule?
 
-ON_age:
-RSAcovid:
-api:
-coronatrends:
+XX. ON_age:  https://github.com/davidearn/covid_age.git
+XX. RSAcovid:  https://github.com/SACEMA/RSAcovid.git
+XX. api:  https://github.com/stelmacs/youtube-api.git
+XX. coronatrends:  https://github.com/cfshi/coronavirus.git
 
 # Web
 
