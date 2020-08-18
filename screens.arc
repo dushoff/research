@@ -68,8 +68,6 @@ Reviews not-too-bad 12 Jul
 XX. cereal: https://github.com/parksw3/serial2.git
 New drafty Rt stuff cloned 2020 Jul 01 (Wed) after a Lipsitch “scoop”
 
-gamma: https://github.com/parksw3/individual_intervention.git
-
 ## POST
 XX. exponential_framework:  https://github.com/parksw3/wuhan.git ../outbreak/park
 * Resubmitted JRSI 12 May 2020
@@ -208,6 +206,16 @@ polarization:  https://github.com/dushoff/polarization.git  ../projects/polariza
 ## Things below here can work, but aren't screens and not alled, so it's bad form to work on them without moving them above the line? 2020 May 21 (Thu)
 
 epidemicInsurance:  https://github.com/SACEMA/epidemicInsurance.git  ../projects/insurance/
+
+## Daniel and Sunky's individual/population speed/strength stuff
+gamma: https://github.com/parksw3/individual_intervention.git
+
+## Orphans: grab their urls using a rule?
+
+ON_age:
+RSAcovid:
+api:
+coronatrends:
 
 # Web
 
