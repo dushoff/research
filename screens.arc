@@ -632,7 +632,6 @@ Org
 ===
 
 * sds ~/gitroot/smb-mathepi ## repo with private subdirectory ##
-	* SMB.md (currently empty, why is that good?)
 
 Archive
 =======
