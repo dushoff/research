@@ -156,18 +156,20 @@ XX. test_positivity:  https://github.com/GeethaJey/COVID-TPR.git ./test_positivi
 
 ## Earn
 
-XX. covidgrowthfit: https://github.com/davidearn/covidgrowthfit.git
+covidgrowthfit: https://github.com/davidearn/covidgrowthfit.git
 * Patterns of little r
 
+ON_age:  https://github.com/davidearn/covid_age.git
+
 ## Plague
-XX. plague_growth: https://github.com/davidearn/plague_growth.git
-XX. epigrowthfit: https://github.com/davidearn/epigrowthfit.git
+plague_growth: https://github.com/davidearn/plague_growth.git
+epigrowthfit: https://github.com/davidearn/epigrowthfit.git
 
 ## Old, messy repo
 plague: https://github.com/davidearn/plague.git ## NOALL
 
 ## Weitz plateaus, very messy
-XX. plateaus: https://github.com/jsweitz/covid19-git-plateaus.git
+plateaus: https://github.com/jsweitz/covid19-git-plateaus.git
 * 2020 May 21 (Thu): submitted to PNAS
 * https://docs.google.com/document/d/1SnvpniWc8wyMob1xWFxrShOAV6n7B_s1cYhR7Dih3r8/edit
 
@@ -177,7 +179,9 @@ Rarity
 
 XX. rarity: https://github.com/mikeroswell/MeanRarity.git
 
-diversity:  https://github.com/dushoff/diversity_metrics.git  ../projects/diversity_metrics/
+Diversity_Guide: https://github.com/mikeroswell/Diversity_Guide.git
+
+diversity:  https://github.com/dushoff/diversity_metrics.git  ../projects/diversity_metrics/ # NOALL
 
 * http://dushoff.github.io/notebook/diversity.html
 
@@ -201,7 +205,10 @@ XX. dates: https://github.com/mac-theobio/dateProcessing.git
 
 polarization:  https://github.com/dushoff/polarization.git  ../projects/polarization/
 
-###################33 CUT!! ######################
+
+----------------------------------------------------------------------
+
+################### CUT!! ######################
 
 ## Things below here can work, but aren't screens and not alled, so it's bad form to work on them without moving them above the line? 2020 May 21 (Thu)
 
@@ -212,7 +219,6 @@ gamma: https://github.com/parksw3/individual_intervention.git
 
 ## Orphans: grab their urls using a rule?
 
-XX. ON_age:  https://github.com/davidearn/covid_age.git
 XX. RSAcovid:  https://github.com/SACEMA/RSAcovid.git
 XX. api:  https://github.com/stelmacs/youtube-api.git
 XX. coronatrends:  https://github.com/cfshi/coronavirus.git
@@ -305,9 +311,6 @@ corona communication (Shi, Earn, Li)
 
 rubella with Villyen, Steve and Juliet
 10:3
-
-censoring with Park
-* park/serial
 
 Centering and manipulating linear models
 * Bolker, Li, Cygu
