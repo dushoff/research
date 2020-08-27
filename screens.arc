@@ -173,6 +173,8 @@ plateaus: https://github.com/jsweitz/covid19-git-plateaus.git
 * 2020 May 21 (Thu): submitted to PNAS
 * https://docs.google.com/document/d/1SnvpniWc8wyMob1xWFxrShOAV6n7B_s1cYhR7Dih3r8/edit
 
+######################################################################
+
 ## Roswell
 
 Rarity
@@ -181,15 +183,14 @@ XX. rarity: https://github.com/mikeroswell/MeanRarity.git
 
 Diversity_Guide: https://github.com/mikeroswell/Diversity_Guide.git
 
+MS:
+* https://docs.google.com/document/d/1JAMNZmy2OgUrLdng9L0888bAvKO6AabhtU0e_QSFRaw/edit
+
 diversity:  https://github.com/dushoff/diversity_metrics.git  ../projects/diversity_metrics/ # NOALL
 
 * http://dushoff.github.io/notebook/diversity.html
 
 XX. checkPlots:  https://github.com/dushoff/checkPlots.git  ../projects/checkPlots/
-
-https://docs.google.com/document/d/1JAMNZmy2OgUrLdng9L0888bAvKO6AabhtU0e_QSFRaw/edit
-
-https://mail.google.com/mail/u/0/#search/chao/FMfcgxwJXLkSQfNjQkLqQRPdbsdNsVKr
 
 ######################################################################
 
