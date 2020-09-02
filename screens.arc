@@ -140,13 +140,13 @@ XX. Mummies/GrowthRateMS/
 
 ## So
 
+## Patient-level data
 XX. So_lags: https://github.com/Apeirogons/covid-time-lag ## NOALL
 
-## https://github.com/Apeirogons/3BM6-Modelling.git  ../projects/so_lysogeny/
+## Population-level data
+XX. So_regression:  https://github.com/Apeirogons/covid-time-lag-regression.git ./So_regression
 
 XX. So_lysogeny:  https://github.com/Apeirogons/3BM6-Modelling.git 
-
-XX. So_regression:  https://github.com/Apeirogons/covid-time-lag-regression.git ./So_regression
 
 ## Geetha
 
