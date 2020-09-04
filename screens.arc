@@ -187,6 +187,10 @@ Diversity_Guide: https://github.com/mikeroswell/Diversity_Guide.git
 
 MS:
 * https://docs.google.com/document/d/1JAMNZmy2OgUrLdng9L0888bAvKO6AabhtU0e_QSFRaw/edit
+* ~/Downloads/OikosR1.pdf
+* ~/Downloads/OikosR1S2.pdf
+* R2R
+	* https://docs.google.com/document/d/10UEzTAe8rlAFHD7ojoPO0GGZPh00QKF6BKNmXeURwOk/edit
 
 diversity:  https://github.com/dushoff/diversity_metrics.git  ../projects/diversity_metrics/ # NOALL
 
