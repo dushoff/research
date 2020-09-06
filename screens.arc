@@ -103,7 +103,7 @@ rabies_report
 * sds ~/gitroot/rabies_report ##
 
 ######################################################################
-## Chyun survey project
+## Chyun 
 
 XX. awareness:  https://github.com/covid19awareness/Survey.git  ../coronavirus/survey/
 
@@ -115,6 +115,10 @@ XX. youtube: https://github.com/covid19awareness/YouTube.git
 misinformation: https://github.com/covid19awareness/misinformation
 
 ## 111. Google_News: https://github.com/covid19awareness/Google_News.git
+
+### pre-covid
+
+XX. fgc: https://github.com/fishforwish/fgc.git ../../gitroot/fgc
 
 ######################################################################
 
