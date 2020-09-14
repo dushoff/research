@@ -112,9 +112,15 @@ XX. websurvey:  https://github.com/covid19awareness/covid19awareness.github.io.g
 
 XX. youtube: https://github.com/covid19awareness/YouTube.git
 
+XX. https://github.com/covid19awareness/CIHR_call/blob/master/progress_report.md
+
 misinformation: https://github.com/covid19awareness/misinformation
 
-## 111. Google_News: https://github.com/covid19awareness/Google_News.git
+Google_News: https://github.com/covid19awareness/Google_News.git
+
+comms_proposal: (spring 2020):  https://github.com/cfshi/coronavirus.git  ../outbreak/ccall/
+
+XX. awareness_proposal: https://github.com/covid19awareness/CIHR_call.git
 
 ### pre-covid
 
@@ -174,7 +180,7 @@ epigrowthfit: https://github.com/davidearn/epigrowthfit.git
 ## Old, messy repo
 plague: https://github.com/davidearn/plague.git ## NOALL
 
-## Weitz plateaus, very messy
+## Weitz plateaus very Weitz-ish
 plateaus: https://github.com/jsweitz/covid19-git-plateaus.git
 * 2020 May 21 (Thu): submitted to PNAS
 * https://docs.google.com/document/d/1SnvpniWc8wyMob1xWFxrShOAV6n7B_s1cYhR7Dih3r8/edit
@@ -263,7 +269,6 @@ XX. name235:  https://github.com/davidearn/onmort.git  ../earn/onmort/
 XX. name236:  https://github.com/ICI3D/DAIDD.git  ../ici3d/DAIDD/
 XX. name237:  https://github.com/ICI3D/ICI3D.github.io.git  ../ici3d/io/
 XX. name238:  https://github.com/ICI3D/MMED.git  ../ici3d/MMED/
-XX. name239:  https://github.com/cfshi/coronavirus.git  ../outbreak/ccall/
 XX. name240:  https://github.com/davidchampredon/covid-fcst.git  ../outbreak/fcst/
 XX. name242:  https://github.com/wzmli/curate_coronadata.git  ../outbreak/li_data/
 XX. name243:  https://github.com/wzmli/hybridx.git  ../outbreak/lunchbox/
@@ -316,9 +321,6 @@ rabies_correlations
 
 corona forecasts (Li)
 * outbreaks/corona (9:2)
-
-corona communication (Shi, Earn, Li)
-* outbreaks/ccall
 
 rubella with Villyen, Steve and Juliet
 10:3
