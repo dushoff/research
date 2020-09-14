@@ -193,7 +193,7 @@ Rarity
 
 XX. rarity: https://github.com/mikeroswell/MeanRarity.git
 
-Diversity_Guide: https://github.com/mikeroswell/Diversity_Guide.git
+## Diversity_Guide: https://github.com/mikeroswell/Diversity_Guide.git
 
 MS:
 * https://docs.google.com/document/d/1JAMNZmy2OgUrLdng9L0888bAvKO6AabhtU0e_QSFRaw/edit
