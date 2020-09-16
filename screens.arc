@@ -307,10 +307,6 @@ Intervals
 
 Park Exponential biases in time distributions
 
-Mummies
-* projects/Mummies
-* Needs comments on S2-4 and Abstract/Discussion from me 2020 Mar 09 (Mon)
-
 rabies_R0
 * 6/R0
 * With Katie
