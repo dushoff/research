@@ -112,8 +112,6 @@ XX. websurvey:  https://github.com/covid19awareness/covid19awareness.github.io.g
 
 XX. youtube: https://github.com/covid19awareness/YouTube.git
 
-XX. https://github.com/covid19awareness/CIHR_call/blob/master/progress_report.md
-
 misinformation: https://github.com/covid19awareness/misinformation
 
 Google_News: https://github.com/covid19awareness/Google_News.git
