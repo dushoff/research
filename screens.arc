@@ -56,9 +56,9 @@ SACEMA_project:  https://github.com/SACEMA/covidProjections.git  ../coronavirus/
 
 ## OUT
 barcelona:  https://github.com/parksw3/contact_trace.git  ../park/trace/
-XX. barcelona/doc
+barcelona/doc
 Accepted JRSI 2020 Jun 01
-* https://www.biorxiv.org/content/10.1101/683326v2
+https://royalsocietypublishing.org/doi/full/10.1098/rsif.2019.0719
 
 ## RESUBMIT
 XX. serial:  https://github.com/parksw3/serial.git  ../park/serial/
@@ -69,10 +69,11 @@ XX. cereal: https://github.com/parksw3/serial2.git
 New drafty Rt stuff cloned 2020 Jul 01 (Wed) after a Lipsitch “scoop”
 
 ## POST
-XX. exponential_framework:  https://github.com/parksw3/wuhan.git ../outbreak/park
+exponential_framework:  https://github.com/parksw3/wuhan.git ../outbreak/park
 * Resubmitted JRSI 12 May 2020
 * Provisionally accepted 18 Jun
 * Accepted 2020 Jun 29 (Mon)
+* https://royalsocietypublishing.org/doi/10.1098/rsif.2020.0144
 
 ## REVISE
 XX. speedstrength:  https://github.com/parksw3/speedstrength.git  ../park/speed/
@@ -85,6 +86,8 @@ XX. speedstrength/doc
 ## REVISE
 Korea:  https://github.com/parksw3/Korea-analysis.git  ../outbreak/Korea/
 * Accepted EID 2020 Aug 04 (Tue)
+
+interval_data: https://github.com/parksw3/serialdata.git
 
 ######################################################################
 
