@@ -153,13 +153,19 @@ XX. Mummies/GrowthRateMS/
 
 ## So
 
+So_thesis: https://github.com/Apeirogons/COVID-math-thesis ## NOALL
+
+## Notes
+https://docs.google.com/document/d/105QZAGMzl7m6JZiXGLuycXWrZcsydqJ_/edit#
+
 ## Patient-level data
-XX. So_lags: https://github.com/Apeirogons/covid-time-lag ## NOALL
+So_lags: https://github.com/Apeirogons/covid-time-lag ## NOALL
 
 ## Population-level data
-XX. So_regression:  https://github.com/Apeirogons/covid-time-lag-regression.git ./So_regression
+So_regression:  https://github.com/Apeirogons/covid-time-lag-regression.git ./So_regression
 
-XX. So_lysogeny:  https://github.com/Apeirogons/3BM6-Modelling.git 
+## Junior project
+So_lysogeny:  https://github.com/Apeirogons/3BM6-Modelling.git 
 
 ## Geetha
 
