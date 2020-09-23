@@ -23,8 +23,6 @@ XX. PHAC: https://github.com/mac-theobio/PHAC_covid.git
 * Ontario calibration (McMasterReport) reports are here
 * Now the main PHAC contract directory
 
-ON_age: https://github.com/davidearn/covid_age.git
-
 ## WHO AFRO
 XX. afroData: https://github.com/SACEMA/afroData.git ../coronavirus/afroData/
 
@@ -35,14 +33,14 @@ XX. afroReports: https://github.com/SACEMA/afroReports
 XX. afroRegional: https://github.com/SACEMA/afroRegional.git
 
 XX. afroCalib: https://github.com/SACEMA/afroRegionCalib.git
+
 Documentation Google drive
 * https://drive.google.com/drive/folders/14W3suVM4EWzxTRtVoEBobEP3_zzmB74q
+
 Linelist
 * https://drive.google.com/drive/folders/1qjnDv7VXgd9sElXz0jiHYG0y1UctKyq1
 
 ## Other SACEMA
-
-RSAcovid:  https://github.com/SACEMA/RSAcovid.git
 
 XX. smart_testing:  https://github.com/SACEMA/SMART_testing.git  ../coronavirus/smart_test/
 
@@ -58,37 +56,38 @@ SACEMA_project:  https://github.com/SACEMA/covidProjections.git  ../coronavirus/
 
 ## OUT
 barcelona:  https://github.com/parksw3/contact_trace.git  ../park/trace/
-XX. barcelona/doc
+barcelona/doc
 Accepted JRSI 2020 Jun 01
-* https://www.biorxiv.org/content/10.1101/683326v2
+https://royalsocietypublishing.org/doi/full/10.1098/rsif.2019.0719
 
 ## RESUBMIT
 XX. serial:  https://github.com/parksw3/serial.git  ../park/serial/
 Submitted PNAS 2020 Jun 05 (Fri)
 Reviews not-too-bad 12 Jul
-Due 11 Sep
 
 XX. cereal: https://github.com/parksw3/serial2.git
 New drafty Rt stuff cloned 2020 Jul 01 (Wed) after a Lipsitch “scoop”
 
 ## POST
-XX. exponential_framework:  https://github.com/parksw3/wuhan.git ../outbreak/park
+exponential_framework:  https://github.com/parksw3/wuhan.git ../outbreak/park
 * Resubmitted JRSI 12 May 2020
 * Provisionally accepted 18 Jun
 * Accepted 2020 Jun 29 (Mon)
+* https://royalsocietypublishing.org/doi/10.1098/rsif.2020.0144
 
-## WAIT
+## REVISE
 XX. speedstrength:  https://github.com/parksw3/speedstrength.git  ../park/speed/
 XX. speedstrength/doc
 * Posted 2020 Mar 3
 * Submitted PNAS 20 Jun – desk rejected!
 * Submitted PRSB 30 Jun
 	* Manuscript ID RSPB-2020-1556
-	* Apology 2020 Jul 17
 
-## WAIT
+## REVISE
 Korea:  https://github.com/parksw3/Korea-analysis.git  ../outbreak/Korea/
 * Accepted EID 2020 Aug 04 (Tue)
+
+interval_data: https://github.com/parksw3/serialdata.git
 
 ######################################################################
 
@@ -107,7 +106,7 @@ rabies_report
 * sds ~/gitroot/rabies_report ##
 
 ######################################################################
-## Chyun survey project
+## Chyun 
 
 XX. awareness:  https://github.com/covid19awareness/Survey.git  ../coronavirus/survey/
 
@@ -116,9 +115,17 @@ XX. websurvey:  https://github.com/covid19awareness/covid19awareness.github.io.g
 
 XX. youtube: https://github.com/covid19awareness/YouTube.git
 
-coronatrends:  https://github.com/cfshi/coronavirus.git  ../outbreak/ccall/
+misinformation: https://github.com/covid19awareness/misinformation
 
-## 111. Google_News: https://github.com/covid19awareness/Google_News.git
+Google_News: https://github.com/covid19awareness/Google_News.git
+
+comms_proposal: (spring 2020):  https://github.com/cfshi/coronavirus.git  ../outbreak/ccall/
+
+XX. awareness_proposal: https://github.com/covid19awareness/CIHR_call.git
+
+### pre-covid
+
+XX. fgc: https://github.com/fishforwish/fgc.git ../../gitroot/fgc
 
 ######################################################################
 
@@ -127,6 +134,9 @@ coronatrends:  https://github.com/cfshi/coronavirus.git  ../outbreak/ccall/
 XX. tvsurvive: https://github.com/CYGUBICKO/pcoxtime.git
 
 XX. households:  https://github.com/CYGUBICKO/hh.git  ../cygu/hh/
+
+## Steve's calculations and writing for the comprehensive exam and the proposal
+cygu_comp: https://github.com/CYGUBICKO/comp_exam.git
 
 ### 141. cygufuns:  https://github.com/cygubicko/funs.git  ../cygu/funs/
 * Incorporate this by cloning into other repos?
@@ -143,13 +153,19 @@ XX. Mummies/GrowthRateMS/
 
 ## So
 
-XX. So_lags: https://github.com/Apeirogons/covid-time-lag ## NOALL
+So_thesis: https://github.com/Apeirogons/COVID-math-thesis ## NOALL
 
-## https://github.com/Apeirogons/3BM6-Modelling.git  ../projects/so_lysogeny/
+## Notes
+https://docs.google.com/document/d/105QZAGMzl7m6JZiXGLuycXWrZcsydqJ_/edit#
 
-XX. So_lysogeny:  https://github.com/Apeirogons/3BM6-Modelling.git 
+## Patient-level data
+So_lags: https://github.com/Apeirogons/covid-time-lag ## NOALL
 
-XX. So_regression:  https://github.com/Apeirogons/covid-time-lag-regression.git ./So_regression
+## Population-level data
+So_regression:  https://github.com/Apeirogons/covid-time-lag-regression.git ./So_regression
+
+## Junior project
+So_lysogeny:  https://github.com/Apeirogons/3BM6-Modelling.git 
 
 ## Geetha
 
@@ -159,30 +175,43 @@ XX. test_positivity:  https://github.com/GeethaJey/COVID-TPR.git ./test_positivi
 
 ## Earn
 
-XX. covidgrowthfit: https://github.com/davidearn/covidgrowthfit.git
+covidgrowthfit: https://github.com/davidearn/covidgrowthfit.git
 * Patterns of little r
 
+ON_age:  https://github.com/davidearn/covid_age.git
+
 ## Plague
-XX. plague_growth: https://github.com/davidearn/plague_growth.git
-XX. epigrowthfit: https://github.com/davidearn/epigrowthfit.git
+plague_growth: https://github.com/davidearn/plague_growth.git
+epigrowthfit: https://github.com/davidearn/epigrowthfit.git
 
 ## Old, messy repo
 plague: https://github.com/davidearn/plague.git ## NOALL
 
-## Weitz plateaus, very messy
-XX. plateaus: https://github.com/jsweitz/covid19-git-plateaus.git
+## Weitz plateaus very Weitz-ish
+plateaus: https://github.com/jsweitz/covid19-git-plateaus.git
 * 2020 May 21 (Thu): submitted to PNAS
 * https://docs.google.com/document/d/1SnvpniWc8wyMob1xWFxrShOAV6n7B_s1cYhR7Dih3r8/edit
 
+######################################################################
+
 ## Roswell
+
+Rarity
 
 XX. rarity: https://github.com/mikeroswell/MeanRarity.git
 
-## Mothballed 2020 Jul 24 (Fri) 
-## Old versions of mean rarity and checkplots stuff
-## with a lot of cached data from Roswell
-## Currently building at rarity
-## diversity:  https://github.com/dushoff/diversity_metrics.git  ../projects/diversity_metrics/
+## Diversity_Guide: https://github.com/mikeroswell/Diversity_Guide.git
+
+MS:
+* https://docs.google.com/document/d/1JAMNZmy2OgUrLdng9L0888bAvKO6AabhtU0e_QSFRaw/edit
+* ~/Downloads/OikosR1.pdf
+* ~/Downloads/OikosR1S2.pdf
+* R2R
+	* https://docs.google.com/document/d/10UEzTAe8rlAFHD7ojoPO0GGZPh00QKF6BKNmXeURwOk/edit
+
+diversity:  https://github.com/dushoff/diversity_metrics.git  ../projects/diversity_metrics/ # NOALL
+
+* http://dushoff.github.io/notebook/diversity.html
 
 XX. checkPlots:  https://github.com/dushoff/checkPlots.git  ../projects/checkPlots/
 
@@ -198,16 +227,34 @@ XX. checkPlots:  https://github.com/dushoff/checkPlots.git  ../projects/checkPlo
 
 XX. dates: https://github.com/mac-theobio/dateProcessing.git
 
+polarization:  https://github.com/dushoff/polarization.git  ../projects/polarization/
+
+
 ----------------------------------------------------------------------
+
+################### CUT!! ######################
 
 ## Things below here can work, but aren't screens and not alled, so it's bad form to work on them without moving them above the line? 2020 May 21 (Thu)
 
-XX. epidemicInsurance:  https://github.com/SACEMA/epidemicInsurance.git  ../projects/insurance/
+epidemicInsurance:  https://github.com/SACEMA/epidemicInsurance.git  ../projects/insurance/
+
+## Daniel and Sunky's individual/population speed/strength stuff
+gamma: https://github.com/parksw3/individual_intervention.git
+
+## Orphans: grab their urls using a rule?
+
+XX. RSAcovid:  https://github.com/SACEMA/RSAcovid.git
+XX. api:  https://github.com/stelmacs/youtube-api.git
+XX. coronatrends:  https://github.com/cfshi/coronavirus.git
 
 # Web
 
 # org?
 
+XX. name208:  ../admin/coreFaculty/
+XX. name210:  ../admin/cron/
+XX. name212:  ../admin/Lab_meeting/
+XX. name213:  ../admin/Planning/
 
 #research?
 XX. name215:  https://github.com/wzmli/corona.git  ../coronavirus/corona/
@@ -239,7 +286,6 @@ XX. name249:  https://github.com/Outbreak-analysis/startingPoints.git  ../outbre
 XX. name251:  https://github.com/parksw3/bayesantigen2.git  ../park/flumap/
 XX. name255:  ../planning/covid19/
 XX. name259:  https://github.com/bbolker/bbmisc.git  ../projects/bbmisc/
-XX. name265:  https://github.com/dushoff/polarization.git  ../projects/polarization/
 XX. name266:  https://github.com/ICI3D/rubellaSA.git  ../projects/rubella/
 XX. name268:  https://github.com/mac-theobio/coronavirus_asymptomatic.git  ../projects/weitzAsymp/
 XX. name270:  https://github.com/wzmli/glasgow.git  ../rabies/glasgow/
@@ -268,10 +314,6 @@ Intervals
 
 Park Exponential biases in time distributions
 
-Mummies
-* projects/Mummies
-* Needs comments on S2-4 and Abstract/Discussion from me 2020 Mar 09 (Mon)
-
 rabies_R0
 * 6/R0
 * With Katie
@@ -283,14 +325,8 @@ rabies_correlations
 corona forecasts (Li)
 * outbreaks/corona (9:2)
 
-corona communication (Shi, Earn, Li)
-* outbreaks/ccall
-
 rubella with Villyen, Steve and Juliet
 10:3
-
-censoring with Park
-* park/serial
 
 Centering and manipulating linear models
 * Bolker, Li, Cygu
@@ -615,7 +651,6 @@ Org
 ===
 
 * sds ~/gitroot/smb-mathepi ## repo with private subdirectory ##
-	* SMB.md (currently empty, why is that good?)
 
 Archive
 =======

@@ -1,6 +1,6 @@
 
-## This is a _linked_ Makefile for rarity
-## https://github.com/mikeroswell/MeanRarity.git
+## This is a _linked_ Makefile for …
+## 
 
 current: target
 -include target.mk
@@ -11,12 +11,6 @@ vim_session:
 	bash -cl "vmt"
 
 ######################################################################
-
-build_vignettes:
-	echo 'devtools::build_vignettes()' | R --vanilla
-
-lpackage:
-	R CMD INSTALL .
 
 ### Makestuff
 
