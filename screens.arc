@@ -111,7 +111,7 @@ rabies_report
 XX. awareness:  https://github.com/covid19awareness/Survey.git  ../coronavirus/survey/
 
 This was the github.io page, but C. may still be doing stuff here?
-XX. websurvey:  https://github.com/covid19awareness/covid19awareness.github.io.git  ../coronavirus/websurvey/
+websurvey:  https://github.com/covid19awareness/covid19awareness.github.io.git  ../coronavirus/websurvey/
 
 XX. youtube: https://github.com/covid19awareness/YouTube.git
 
