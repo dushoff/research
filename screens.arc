@@ -231,10 +231,9 @@ XX. dates: https://github.com/mac-theobio/dateProcessing.git
 
 polarization:  https://github.com/dushoff/polarization.git  ../projects/polarization/
 
+######################################################################
 
-################### CUT!! ######################
-
-NMF!
+gos: https://github.com/mac-theobio/GOS_NMF.git
 
 ----------------------------------------------------------------------
 
