@@ -235,6 +235,10 @@ polarization:  https://github.com/dushoff/polarization.git  ../projects/polariza
 
 gos: https://github.com/mac-theobio/GOS_NMF.git
 
+Michelle Huynh is co-ordinating through Notions:
+* https://www.notion.so/BIO-4C12-Thesis-977d915b510445e185529dcf7e53fff8
+* ~/Dropbox/huynh
+
 ----------------------------------------------------------------------
 
 ################### CUT!! ######################
