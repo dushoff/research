@@ -97,6 +97,8 @@ rabies_R0:  https://github.com/wzmli/rabies_R0.git  ../outbreak/rabies_R0/
 
 rabies_correlations:  https://github.com/wzmli/rabies_correlations.git  ../rabies/correlations/
 
+rabies_cihr:  https://github.com/wzmli/rabies_cihr.git  ../rabies/grant/
+
 ## Actively working with Glasgow on analysis and cleaning
 rabies_db_pipeline
 * sds ~/gitroot/rabies_db_pipeline ##
@@ -298,7 +300,6 @@ XX. name259:  https://github.com/bbolker/bbmisc.git  ../projects/bbmisc/
 XX. name266:  https://github.com/ICI3D/rubellaSA.git  ../projects/rubella/
 XX. name268:  https://github.com/mac-theobio/coronavirus_asymptomatic.git  ../projects/weitzAsymp/
 XX. name270:  https://github.com/wzmli/glasgow.git  ../rabies/glasgow/
-XX. name271:  https://github.com/wzmli/rabies_cihr.git  ../rabies/grant/
 XX. name272:  https://github.com/wzmli/rabies_R0.git  ../rabies/R0/
 XX. name274:  https://github.com/fishforwish/aging.git  ../shi/aging/
 XX. name275:  https://github.com/dushoff/Circumcision_and_behaviour.git url = https://github.com/dushoff/makestuff  ../shi/behaviour/
