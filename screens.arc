@@ -77,7 +77,7 @@ exponential_framework:  https://github.com/parksw3/wuhan.git ../outbreak/park
 
 ## REVISE
 XX. speedstrength:  https://github.com/parksw3/speedstrength.git  ../park/speed/
-XX. speedstrength/doc
+XX. speedstrength/code
 * Posted 2020 Mar 3
 * Submitted PNAS 20 Jun – desk rejected!
 * Submitted PRSB 30 Jun
@@ -156,6 +156,8 @@ XX. Mummies/GrowthRateMS/
 ######################################################################
 
 ## So
+
+Shifts is in here
 
 So_thesis: https://github.com/Apeirogons/COVID-math-thesis ## NOALL
 
