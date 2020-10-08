@@ -1,4 +1,8 @@
 
+makestuff/listdir.md
+
+######################################################################
+
 ## Keywords
 
 ## WAIT
@@ -8,9 +12,12 @@
 ## POST
 ## DRAFT
 
+######################################################################
+
 ## Covid forecasts
 
 XX. macpan:  https://github.com/bbolker/McMasterPandemic.git ../coronavirus/mac/
+XX. macpan/notes
 
 XX. Canada:  https://github.com/wzmli/COVID19-Canada.git ../coronavirus/Canada/ Mike's Canadian data
 
@@ -83,7 +90,6 @@ XX. speedstrength/code
 * Submitted PRSB 30 Jun
 	* Manuscript ID RSPB-2020-1556
 
-## REVISE
 Korea:  https://github.com/parksw3/Korea-analysis.git  ../outbreak/Korea/
 * Accepted EID 2020 Aug 04 (Tue)
 
@@ -106,6 +112,8 @@ rabies_db_pipeline
 ## Rachel's vaccination stuff (hacky?)
 rabies_report
 * sds ~/gitroot/rabies_report ##
+
+tz_vaccine: https://github.com/wzmli/TZrabies_vaccine.git
 
 ######################################################################
 ## Chyun 
