@@ -1,6 +1,6 @@
 
-## This is a _linked_ Makefile for …
-## 
+## This is a _linked_ Makefile for individual intervention
+## Park and Sunky
 
 current: target
 -include target.mk
@@ -9,6 +9,8 @@ current: target
 
 vim_session:
 	bash -cl "vmt"
+
+######################################################################
 
 ######################################################################
 
