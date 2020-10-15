@@ -95,6 +95,9 @@ Korea:  https://github.com/parksw3/Korea-analysis.git  ../outbreak/Korea/
 
 interval_data: https://github.com/parksw3/serialdata.git
 
+## Daniel and Sunky's individual/population speed/strength stuff
+gamma: https://github.com/parksw3/individual_intervention.git
+
 ######################################################################
 
 ## Rabies
@@ -258,9 +261,6 @@ Michelle Huynh is co-ordinating through Notions:
 ## Things below here can work, but aren't screens and not alled, so it's bad form to work on them without moving them above the line? 2020 May 21 (Thu)
 
 epidemicInsurance:  https://github.com/SACEMA/epidemicInsurance.git  ../projects/insurance/
-
-## Daniel and Sunky's individual/population speed/strength stuff
-gamma: https://github.com/parksw3/individual_intervention.git
 
 ## Orphans: grab their urls using a rule?
 
