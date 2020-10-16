@@ -7,11 +7,6 @@ current: target
 
 ######################################################################
 
-## Bleeding
-screens.mk: screens.list makestuff/lmk.pl
-
-######################################################################
-
 vim_session: 
 	bash -cl "vmt screens.list github.txt"
 

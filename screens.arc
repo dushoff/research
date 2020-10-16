@@ -52,7 +52,7 @@ Linelist
 XX. smart_testing:  https://github.com/SACEMA/SMART_testing.git  ../coronavirus/smart_test/
 
 Sheetal's project
-MASHA: https://github.com/jfunction/MASHA.git
+MASHA: https://github.com/jfunction/MASHA.git ## NOALL
 
 Older RSA
 SACEMA_project:  https://github.com/SACEMA/covidProjections.git  ../coronavirus/SACEMA
@@ -94,6 +94,9 @@ Korea:  https://github.com/parksw3/Korea-analysis.git  ../outbreak/Korea/
 * Accepted EID 2020 Aug 04 (Tue)
 
 interval_data: https://github.com/parksw3/serialdata.git
+
+## Daniel and Sunky's individual/population speed/strength stuff
+XX. gamma: https://github.com/parksw3/individual_intervention.git
 
 ######################################################################
 
@@ -239,7 +242,8 @@ XX. checkPlots:  https://github.com/dushoff/checkPlots.git  ../projects/checkPlo
 * https://hackmd.io/@LionelH/SySOUWiR8
 	* https://hackmd.io/s/features
 
-XX. dates: https://github.com/mac-theobio/dateProcessing.git
+Defunct-ish, unfortunately. Doesn't really have a clear Make structure
+dates: https://github.com/mac-theobio/dateProcessing.git ## NOALL
 
 polarization:  https://github.com/dushoff/polarization.git  ../projects/polarization/
 
@@ -258,9 +262,6 @@ Michelle Huynh is co-ordinating through Notions:
 ## Things below here can work, but aren't screens and not alled, so it's bad form to work on them without moving them above the line? 2020 May 21 (Thu)
 
 epidemicInsurance:  https://github.com/SACEMA/epidemicInsurance.git  ../projects/insurance/
-
-## Daniel and Sunky's individual/population speed/strength stuff
-gamma: https://github.com/parksw3/individual_intervention.git
 
 ## Orphans: grab their urls using a rule?
 
