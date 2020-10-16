@@ -52,7 +52,7 @@ Linelist
 XX. smart_testing:  https://github.com/SACEMA/SMART_testing.git  ../coronavirus/smart_test/
 
 Sheetal's project
-MASHA: https://github.com/jfunction/MASHA.git
+MASHA: https://github.com/jfunction/MASHA.git ## NOALL
 
 Older RSA
 SACEMA_project:  https://github.com/SACEMA/covidProjections.git  ../coronavirus/SACEMA
@@ -96,7 +96,7 @@ Korea:  https://github.com/parksw3/Korea-analysis.git  ../outbreak/Korea/
 interval_data: https://github.com/parksw3/serialdata.git
 
 ## Daniel and Sunky's individual/population speed/strength stuff
-gamma: https://github.com/parksw3/individual_intervention.git
+XX. gamma: https://github.com/parksw3/individual_intervention.git
 
 ######################################################################
 
