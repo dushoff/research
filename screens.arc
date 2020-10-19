@@ -19,9 +19,11 @@ makestuff/listdir.md
 XX. macpan:  https://github.com/bbolker/McMasterPandemic.git ../coronavirus/mac/
 XX. macpan/notes
 
-XX. Canada:  https://github.com/wzmli/COVID19-Canada.git ../coronavirus/Canada/ Mike's Canadian data
-
 XX. state:  https://github.com/bbolker/NYScovid19.git ../coronavirus/state/
+
+######################################################################
+
+XX. Canada:  https://github.com/wzmli/COVID19-Canada.git ../coronavirus/Canada/ Mike's Canadian data
 
 XX. table:  https://github.com/davidearn/OntarioModellingTable.git  ../coronavirus/table/
 * ICES Data Dictionary https://ssl.ices.on.ca 
@@ -29,6 +31,11 @@ XX. table:  https://github.com/davidearn/OntarioModellingTable.git  ../coronavir
 XX. PHAC: https://github.com/mac-theobio/PHAC_covid.git
 * Ontario calibration (McMasterReport) reports are here
 * Now the main PHAC contract directory
+
+PHAC model spreadsheet
+* https://docs.google.com/spreadsheets/d/1P-2EKmYPlVwOz-Y20cIxqo8ZL8ZVj9yj5z6HjikTxp0/edit#gid=130126832
+
+######################################################################
 
 ## WHO AFRO
 XX. afroData: https://github.com/SACEMA/afroData.git ../coronavirus/afroData/
@@ -56,6 +63,12 @@ MASHA: https://github.com/jfunction/MASHA.git ## NOALL
 
 Older RSA
 SACEMA_project:  https://github.com/SACEMA/covidProjections.git  ../coronavirus/SACEMA
+
+######################################################################
+
+## Other mac-cov
+
+SIRtest: https://github.com/aligharouni/SIRmodel.git
 
 ######################################################################
 
