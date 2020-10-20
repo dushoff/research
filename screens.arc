@@ -68,7 +68,7 @@ SACEMA_project:  https://github.com/SACEMA/covidProjections.git  ../coronavirus/
 
 ## Other mac-cov
 
-SIRtest: https://github.com/aligharouni/SIRmodel.git
+SIRtest: https://github.com/aligharouni/SIRmodel.git ## NOALL
 
 ######################################################################
 
@@ -183,6 +183,7 @@ XX. Mummies/GrowthRateMS/
 
 Shifts is in here
 
+## Thesis repo
 So_thesis: https://github.com/Apeirogons/COVID-math-thesis ## NOALL
 
 ## Notes
@@ -308,9 +309,6 @@ XX. qmee:  https://github.com/mac-theobio/QMEE.git  ../DataViz/QMEE/
 XX. fate: ../coronavirus/state/
 XX. name234:  https://github.com/davidearn/LBoM.git  ../earn/LBoM/
 XX. name235:  https://github.com/davidearn/onmort.git  ../earn/onmort/
-XX. name236:  https://github.com/ICI3D/DAIDD.git  ../ici3d/DAIDD/
-XX. name237:  https://github.com/ICI3D/ICI3D.github.io.git  ../ici3d/io/
-XX. name238:  https://github.com/ICI3D/MMED.git  ../ici3d/MMED/
 XX. name240:  https://github.com/davidchampredon/covid-fcst.git  ../outbreak/fcst/
 XX. name242:  https://github.com/wzmli/curate_coronadata.git  ../outbreak/li_data/
 XX. name243:  https://github.com/wzmli/hybridx.git  ../outbreak/lunchbox/
