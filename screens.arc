@@ -19,11 +19,9 @@ makestuff/listdir.md
 XX. macpan:  https://github.com/bbolker/McMasterPandemic.git ../coronavirus/mac/
 XX. macpan/notes
 
-XX. state:  https://github.com/bbolker/NYScovid19.git ../coronavirus/state/
-
-######################################################################
-
 XX. Canada:  https://github.com/wzmli/COVID19-Canada.git ../coronavirus/Canada/ Mike's Canadian data
+
+XX. state:  https://github.com/bbolker/NYScovid19.git ../coronavirus/state/
 
 XX. table:  https://github.com/davidearn/OntarioModellingTable.git  ../coronavirus/table/
 * ICES Data Dictionary https://ssl.ices.on.ca 
@@ -31,11 +29,6 @@ XX. table:  https://github.com/davidearn/OntarioModellingTable.git  ../coronavir
 XX. PHAC: https://github.com/mac-theobio/PHAC_covid.git
 * Ontario calibration (McMasterReport) reports are here
 * Now the main PHAC contract directory
-
-PHAC model spreadsheet
-* https://docs.google.com/spreadsheets/d/1P-2EKmYPlVwOz-Y20cIxqo8ZL8ZVj9yj5z6HjikTxp0/edit#gid=130126832
-
-######################################################################
 
 ## WHO AFRO
 XX. afroData: https://github.com/SACEMA/afroData.git ../coronavirus/afroData/
@@ -59,16 +52,10 @@ Linelist
 XX. smart_testing:  https://github.com/SACEMA/SMART_testing.git  ../coronavirus/smart_test/
 
 Sheetal's project
-MASHA: https://github.com/jfunction/MASHA.git ## NOALL
+MASHA: https://github.com/jfunction/MASHA.git
 
 Older RSA
 SACEMA_project:  https://github.com/SACEMA/covidProjections.git  ../coronavirus/SACEMA
-
-######################################################################
-
-## Other mac-cov
-
-SIRtest: https://github.com/aligharouni/SIRmodel.git ## NOALL
 
 ######################################################################
 
@@ -109,7 +96,7 @@ Korea:  https://github.com/parksw3/Korea-analysis.git  ../outbreak/Korea/
 interval_data: https://github.com/parksw3/serialdata.git
 
 ## Daniel and Sunky's individual/population speed/strength stuff
-XX. gamma: https://github.com/parksw3/individual_intervention.git
+gamma: https://github.com/parksw3/individual_intervention.git
 
 ######################################################################
 
@@ -151,7 +138,7 @@ XX. awareness_proposal: https://github.com/covid19awareness/CIHR_call.git
 
 ### pre-covid
 
-XX. fgc: https://github.com/fishforwish/fgc.git ../../gitroot/fgc
+XX. fgc: https://github.com/fishforwish/fgc.git ../../gitroot/fgc ## NOALL
 
 ######################################################################
 
@@ -183,7 +170,6 @@ XX. Mummies/GrowthRateMS/
 
 Shifts is in here
 
-## Thesis repo
 So_thesis: https://github.com/Apeirogons/COVID-math-thesis ## NOALL
 
 ## Notes
@@ -256,8 +242,7 @@ XX. checkPlots:  https://github.com/dushoff/checkPlots.git  ../projects/checkPlo
 * https://hackmd.io/@LionelH/SySOUWiR8
 	* https://hackmd.io/s/features
 
-Defunct-ish, unfortunately. Doesn't really have a clear Make structure
-dates: https://github.com/mac-theobio/dateProcessing.git ## NOALL
+XX. dates: https://github.com/mac-theobio/dateProcessing.git
 
 polarization:  https://github.com/dushoff/polarization.git  ../projects/polarization/
 
@@ -309,6 +294,9 @@ XX. qmee:  https://github.com/mac-theobio/QMEE.git  ../DataViz/QMEE/
 XX. fate: ../coronavirus/state/
 XX. name234:  https://github.com/davidearn/LBoM.git  ../earn/LBoM/
 XX. name235:  https://github.com/davidearn/onmort.git  ../earn/onmort/
+XX. name236:  https://github.com/ICI3D/DAIDD.git  ../ici3d/DAIDD/
+XX. name237:  https://github.com/ICI3D/ICI3D.github.io.git  ../ici3d/io/
+XX. name238:  https://github.com/ICI3D/MMED.git  ../ici3d/MMED/
 XX. name240:  https://github.com/davidchampredon/covid-fcst.git  ../outbreak/fcst/
 XX. name242:  https://github.com/wzmli/curate_coronadata.git  ../outbreak/li_data/
 XX. name243:  https://github.com/wzmli/hybridx.git  ../outbreak/lunchbox/
