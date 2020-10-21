@@ -68,6 +68,8 @@ SACEMA_project:  https://github.com/SACEMA/covidProjections.git  ../coronavirus/
 
 ## Other mac-cov
 
+## Ali
+
 SIRtest: https://github.com/aligharouni/SIRmodel.git ## NOALL
 
 ######################################################################
@@ -95,13 +97,17 @@ exponential_framework:  https://github.com/parksw3/wuhan.git ../outbreak/park
 * Accepted 2020 Jun 29 (Mon)
 * https://royalsocietypublishing.org/doi/10.1098/rsif.2020.0144
 
-## REVISE
+
+## WAIT
+XX. speed_public:  https://github.com/mac-theobio/Speed_and_strength
+
 XX. speedstrength:  https://github.com/parksw3/speedstrength.git  ../park/speed/
 XX. speedstrength/code
 * Posted 2020 Mar 3
 * Submitted PNAS 20 Jun – desk rejected!
 * Submitted PRSB 30 Jun
 	* Manuscript ID RSPB-2020-1556
+* Revised version submitted 2020 Oct 19
 
 Korea:  https://github.com/parksw3/Korea-analysis.git  ../outbreak/Korea/
 * Accepted EID 2020 Aug 04 (Tue)
