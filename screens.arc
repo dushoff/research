@@ -125,6 +125,156 @@ polarization:  https://github.com/dushoff/polarization.git  ../projects/polariza
 
 ######################################################################
 
+## Park-led projects
+
+## OUT
+barcelona:  https://github.com/parksw3/contact_trace.git  ../park/trace/
+barcelona/doc
+Accepted JRSI 2020 Jun 01
+https://royalsocietypublishing.org/doi/full/10.1098/rsif.2019.0719
+
+## RESUBMIT
+XX. serial:  https://github.com/parksw3/serial.git  ../park/serial/
+Submitted PNAS 2020 Jun 05 (Fri)
+Reviews not-too-bad 12 Jul
+
+XX. cereal: https://github.com/parksw3/serial2.git
+New drafty Rt stuff cloned 2020 Jul 01 (Wed) after a Lipsitch “scoop”
+
+## POST
+exponential_framework:  https://github.com/parksw3/wuhan.git ../outbreak/park
+* Resubmitted JRSI 12 May 2020
+* Provisionally accepted 18 Jun
+* Accepted 2020 Jun 29 (Mon)
+* https://royalsocietypublishing.org/doi/10.1098/rsif.2020.0144
+
+## WAIT
+XX. speed_public:  https://github.com/mac-theobio/Speed_and_strength
+
+XX. speedstrength:  https://github.com/parksw3/speedstrength.git  ../park/speed/
+XX. speedstrength/code
+* Posted 2020 Mar 3
+* Submitted PNAS 20 Jun – desk rejected!
+* Submitted PRSB 30 Jun
+	* Manuscript ID RSPB-2020-1556
+* Revised version submitted 2020 Oct 19
+
+Korea:  https://github.com/parksw3/Korea-analysis.git  ../outbreak/Korea/
+* Accepted EID 2020 Aug 04 (Tue)
+
+interval_data: https://github.com/parksw3/serialdata.git
+
+## Daniel and Sunky's individual/population speed/strength stuff
+XX. gamma: https://github.com/parksw3/individual_intervention.git
+
+######################################################################
+
+## Rabies
+
+rabies_R0:  https://github.com/wzmli/rabies_R0.git  ../outbreak/rabies_R0/
+
+rabies_correlations:  https://github.com/wzmli/rabies_correlations.git  ../rabies/correlations/
+
+rabies_cihr:  https://github.com/wzmli/rabies_cihr.git  ../rabies/grant/
+
+## Actively working with Glasgow on analysis and cleaning
+rabies_db_pipeline
+* sds ~/gitroot/rabies_db_pipeline ##
+
+## Rachel's vaccination stuff (hacky?)
+rabies_report
+* sds ~/gitroot/rabies_report ##
+
+tz_vaccine: https://github.com/wzmli/TZrabies_vaccine.git
+
+######################################################################
+## Chyun 
+
+XX. awareness:  https://github.com/covid19awareness/Survey.git  ../coronavirus/survey/
+
+This was the github.io page, but C. may still be doing stuff here?
+websurvey:  https://github.com/covid19awareness/covid19awareness.github.io.git  ../coronavirus/websurvey/
+
+XX. youtube: https://github.com/covid19awareness/YouTube.git
+
+misinformation: https://github.com/covid19awareness/misinformation
+
+Google_News: https://github.com/covid19awareness/Google_News.git
+
+comms_proposal: (spring 2020):  https://github.com/cfshi/coronavirus.git  ../outbreak/ccall/
+
+XX. awareness_proposal: https://github.com/covid19awareness/CIHR_call.git
+
+### pre-covid
+
+XX. fgc: https://github.com/fishforwish/fgc.git ../../gitroot/fgc
+
+######################################################################
+
+## Cygu
+
+XX. tvsurvive: https://github.com/CYGUBICKO/pcoxtime.git
+
+XX. households:  https://github.com/CYGUBICKO/hh.git  ../cygu/hh/
+
+## Steve's calculations and writing for the comprehensive exam and the proposal
+cygu_comp: https://github.com/CYGUBICKO/comp_exam.git
+
+### 141. cygufuns:  https://github.com/cygubicko/funs.git  ../cygu/funs/
+* Incorporate this by cloning into other repos?
+* Or should we do parallel again (but with a different name)
+
+######################################################################
+
+### Elisha
+Mummies:  https://github.com/ElishaBayode/Babies_mummies_growth_rates_MS.git  ../projects/Mummies/
+XX. Mummies/ms
+* 2020 Jun 22 returned to Elisha
+
+XX. Mummies/GrowthRateMS/
+
+######################################################################
+
+## So
+
+Shifts is in here
+
+## Thesis repo
+So_thesis: https://github.com/Apeirogons/COVID-math-thesis ## NOALL
+
+## Notes
+https://docs.google.com/document/d/105QZAGMzl7m6JZiXGLuycXWrZcsydqJ_/edit#
+
+## Patient-level data
+So_lags: https://github.com/Apeirogons/covid-time-lag ## NOALL
+
+## Population-level data
+So_regression:  https://github.com/Apeirogons/covid-time-lag-regression.git ./So_regression
+
+## Junior project
+So_lysogeny:  https://github.com/Apeirogons/3BM6-Modelling.git 
+
+## Geetha
+
+XX. test_positivity:  https://github.com/GeethaJey/COVID-TPR.git ./test_positivity
+
+######################################################################
+
+## Earn
+
+covidgrowthfit: https://github.com/davidearn/covidgrowthfit.git
+* Patterns of little r
+
+ON_age:  https://github.com/davidearn/covid_age.git
+
+## Plague
+plague_growth: https://github.com/davidearn/plague_growth.git
+epigrowthfit: https://github.com/davidearn/epigrowthfit.git
+
+## Old, messy repo
+plague: https://github.com/davidearn/plague.git ## NOALL
+
+
 gos: https://github.com/mac-theobio/GOS_NMF.git
 
 ######################################################################
