@@ -21,10 +21,15 @@ Sources += Makefile github.txt
 
 Ignore += makestuff
 msrepo = https://github.com/dushoff
-Makefile: makestuff/Makefile
+Makefile: makestuff/Makefile Downloads
 makestuff/Makefile:
 	git clone $(msrepo)/makestuff
 	ls $@
+
+Ignore += Downloads
+Downloads: dir=~
+Downloads: 
+	$(linkdir)
 
 ### Includes
 
