@@ -173,6 +173,8 @@ XX. gamma: https://github.com/parksw3/individual_intervention.git
 
 ## Rabies
 
+Epidemics, BMC Public Health? PLoS NTDs
+* Ask Ben; talk to Mike
 rabies_R0:  https://github.com/wzmli/rabies_R0.git  ../outbreak/rabies_R0/
 
 rabies_correlations:  https://github.com/wzmli/rabies_correlations.git  ../rabies/correlations/
