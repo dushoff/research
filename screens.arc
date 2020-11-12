@@ -72,7 +72,7 @@ SACEMA_project:  https://github.com/SACEMA/covidProjections.git  ../coronavirus/
 
 ## Ali
 
-SIRtest: https://github.com/aligharouni/SIRmodel.git ## NOALL
+XX. SIRtest: https://github.com/aligharouni/SIRmodel.git ## NOALL
 
 ######################################################################
 
@@ -225,6 +225,8 @@ XX. households:  https://github.com/CYGUBICKO/hh.git  ../cygu/hh/
 ## Steve's calculations and writing for the comprehensive exam and the proposal
 cygu_comp: https://github.com/CYGUBICKO/comp_exam.git
 
+XX. effects: https://github.com/mac-theobio/effects.git
+
 ### 141. cygufuns:  https://github.com/cygubicko/funs.git  ../cygu/funs/
 * Incorporate this by cloning into other repos?
 * Or should we do parallel again (but with a different name)
@@ -286,7 +288,7 @@ gos: https://github.com/mac-theobio/GOS_NMF.git
 
 Michelle Huynh is co-ordinating through Notions:
 * https://www.notion.so/BIO-4C12-Thesis-977d915b510445e185529dcf7e53fff8
-* ~/Dropbox/huynh
+* ~/Dropbox/resources/huynh ##
 
 Lit review can be found through Notions or through docs
 * https://docs.google.com/document/d/1Yej9f9IE5D_KvpiOuqHrs2ei2IJF_W5ywaA2yQZ0SeQ/edit#heading=h.biyjm2xwbbmu
