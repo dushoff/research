@@ -85,7 +85,11 @@ Weitz heterogeneity two papers
 * Downloads/WeitzOrder.pdf
 * Downloads/WeitzContagion.pdf
 
-Chains of transmission and age distributions
+Weitz/Harris:
+* Chains of transmission and age distributions
+* Follows on from Epidemics asymptomatic paper (Weitz et al.)
+* Changes through time with intervention
+* Then add age structure
 
 ######################################################################
 
