@@ -280,11 +280,12 @@ ON_age:  https://github.com/davidearn/covid_age.git
 
 ## Plague
 plague_growth: https://github.com/davidearn/plague_growth.git
-epigrowthfit: https://github.com/davidearn/epigrowthfit.git
+
+## devel branch, Makefile, ...
+epigrowthfit: https://github.com/davidearn/epigrowthfit.git ## NOALL
 
 ## Old, messy repo
 plague: https://github.com/davidearn/plague.git ## NOALL
-
 
 gos: https://github.com/mac-theobio/GOS_NMF.git
 
