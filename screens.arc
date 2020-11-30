@@ -29,6 +29,7 @@ XX. table:  https://github.com/davidearn/OntarioModellingTable.git  ../coronavir
 * ICES Data Dictionary https://ssl.ices.on.ca 
 
 ## Auto-screening? or not?
+## Seems not! Craziness (it's in vscreens, need to check the log or something)
 XX. PHAC: https://github.com/mac-theobio/PHAC_covid.git
 * Ontario calibration (McMasterReport) reports are here
 * This is the PHAC contract directory
@@ -289,15 +290,6 @@ epigrowthfit: https://github.com/davidearn/epigrowthfit.git ## NOALL
 plague: https://github.com/davidearn/plague.git ## NOALL
 
 gos: https://github.com/mac-theobio/GOS_NMF.git
-
-######################################################################
-
-Michelle Huynh is co-ordinating through Notions:
-* https://www.notion.so/BIO-4C12-Thesis-977d915b510445e185529dcf7e53fff8
-* ~/Dropbox/resources/huynh ##
-
-Lit review can be found through Notions or through docs
-* https://docs.google.com/document/d/1Yej9f9IE5D_KvpiOuqHrs2ei2IJF_W5ywaA2yQZ0SeQ/edit#heading=h.biyjm2xwbbmu
 
 ----------------------------------------------------------------------
 
