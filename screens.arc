@@ -74,7 +74,7 @@ SACEMA_project:  https://github.com/SACEMA/covidProjections.git  ../coronavirus/
 
 ## Ali
 
-XX. SIRtest: https://github.com/aligharouni/SIRmodel.git ## NOALL
+XX. SIRtest: https://github.com/aligharouni/SIRmodel.git
 
 ######################################################################
 
