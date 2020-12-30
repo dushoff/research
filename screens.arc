@@ -1,5 +1,6 @@
 
 makestuff/listdir.md
+content.list
 
 ######################################################################
 
@@ -129,11 +130,13 @@ XX. checkPlots:  https://github.com/dushoff/checkPlots.git  ../projects/checkPlo
 Defunct-ish, unfortunately. Doesn't really have a clear Make structure
 dates: https://github.com/mac-theobio/dateProcessing.git ## NOALL
 
+######################################################################
+
 polarization:  https://github.com/dushoff/polarization.git  ../projects/polarization/
 
 ######################################################################
 
-## Park-led projects
+## Park projects
 
 ## OUT
 barcelona:  https://github.com/parksw3/contact_trace.git  ../park/trace/
@@ -141,26 +144,31 @@ barcelona/doc
 Accepted JRSI 2020 Jun 01
 https://royalsocietypublishing.org/doi/full/10.1098/rsif.2019.0719
 
-## RESUBMIT
-XX. serial:  https://github.com/parksw3/serial.git  ../park/serial/
+## DONE
+serial:  https://github.com/parksw3/serial.git  ../park/serial/
 Submitted PNAS 2020 Jun 05 (Fri)
 Reviews not-too-bad 12 Jul
+https://doi.org/10.1073/pnas.2011548118
 
 XX. cereal: https://github.com/parksw3/serial2.git
 New drafty Rt stuff cloned 2020 Jul 01 (Wed) after a Lipsitch “scoop”
 
-## POST
 exponential_framework:  https://github.com/parksw3/wuhan.git ../outbreak/park
 * Resubmitted JRSI 12 May 2020
 * Provisionally accepted 18 Jun
 * Accepted 2020 Jun 29 (Mon)
 * https://royalsocietypublishing.org/doi/10.1098/rsif.2020.0144
 
-## WAIT
+XX. rRlinks: https://github.com/mac-theobio/rRlinks.git
+
+## Speed and strength
+## REVISE
 XX. speed_public:  https://github.com/mac-theobio/Speed_and_strength
 
+XX. speed_public/code
+
 XX. speedstrength:  https://github.com/parksw3/speedstrength.git  ../park/speed/
-XX. speedstrength/code
+
 * Posted 2020 Mar 3
 * Submitted PNAS 20 Jun – desk rejected!
 * Submitted PRSB 30 Jun
@@ -298,4 +306,10 @@ gos: https://github.com/mac-theobio/GOS_NMF.git
 dime: https://github.com/davidearn/EIDM_platforms.git
 
 Stuff not updated by 2020 Dec 03 (Thu) in content.list
+
+######################################################################
+
+## Tech stuff from elsewhere
+
+maker: https://github.com/ComputationalProteomicsUnit/maker.git
 

@@ -1,6 +1,4 @@
 
-## Things below here can work, but aren't screens and not alled, so it's bad form to work on them without moving them above the line? 2020 May 21 (Thu)
-
 epidemicInsurance:  https://github.com/SACEMA/epidemicInsurance.git  ../projects/insurance/
 
 ## Orphans: grab their urls using a rule?
@@ -10,13 +8,6 @@ epidemicInsurance:  https://github.com/SACEMA/epidemicInsurance.git  ../projects
 135. coronatrends:  https://github.com/cfshi/coronavirus.git
 
 # Web
-
-# org?
-
-136. name208:  ../admin/coreFaculty/
-137. name210:  ../admin/cron/
-138. name212:  ../admin/Lab_meeting/
-139. name213:  ../admin/Planning/
 
 #research?
 140. name215:  https://github.com/wzmli/corona.git  ../coronavirus/corona/
@@ -141,13 +132,6 @@ To do
 Antigenic mapping
 * ~/gitroot/bayes_antigen
 * ~/Downloads/JVI.01023-13.full.pdf
-
-Links paper
-svs ~/gitroot/generation_links  ##
-* rejected PRSB
-* rejected from Epidemics (bad review, sort of appealed)
-* rejected eLife (appealed, rejected again)
-* resubmit to Epidemics
 
 ## 
 
