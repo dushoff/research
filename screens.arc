@@ -159,6 +159,7 @@ exponential_framework:  https://github.com/parksw3/wuhan.git ../outbreak/park
 * Accepted 2020 Jun 29 (Mon)
 * https://royalsocietypublishing.org/doi/10.1098/rsif.2020.0144
 
+## Packaging this
 XX. rRlinks: https://github.com/mac-theobio/rRlinks.git
 
 ## Speed and strength
