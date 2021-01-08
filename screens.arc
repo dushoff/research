@@ -282,7 +282,7 @@ test_positivity:  https://github.com/GeethaJey/COVID-TPR.git ./test_positivity
 
 ## Michelle H
 
-huynh https://github.com/huynhm7/MDD-Thesis.git
+huynh: https://github.com/huynhm7/MDD-Thesis.git
 
 ######################################################################
 
