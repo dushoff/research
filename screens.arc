@@ -69,6 +69,9 @@ MASHA: https://github.com/jfunction/MASHA.git ## NOALL
 Older RSA
 SACEMA_project:  https://github.com/SACEMA/covidProjections.git  ../coronavirus/SACEMA
 
+
+reinfections: https://github.com/SACEMA/reinfections.git
+
 ######################################################################
 
 ## Other mac-cov
