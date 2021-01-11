@@ -69,7 +69,6 @@ MASHA: https://github.com/jfunction/MASHA.git ## NOALL
 Older RSA
 SACEMA_project:  https://github.com/SACEMA/covidProjections.git  ../coronavirus/SACEMA
 
-
 reinfections: https://github.com/SACEMA/reinfections.git
 
 ######################################################################
@@ -219,6 +218,7 @@ This was the github.io page, but C. may still be doing stuff here?
 websurvey:  https://github.com/covid19awareness/covid19awareness.github.io.git  ../coronavirus/websurvey/
 
 XX. youtube: https://github.com/covid19awareness/YouTube.git
+XX. youtube/rfigs:
 
 misinformation: https://github.com/covid19awareness/misinformation
 
