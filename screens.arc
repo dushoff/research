@@ -283,7 +283,7 @@ So_lysogeny:  https://github.com/Apeirogons/3BM6-Modelling.git
 
 test_positivity:  https://github.com/GeethaJey/COVID-TPR.git ./test_positivity
 
-## Michelle H
+## Michelle Huynh
 
 huynh: https://github.com/huynhm7/MDD-Thesis.git
 
