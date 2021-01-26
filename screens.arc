@@ -236,6 +236,15 @@ XX. fgc: https://github.com/fishforwish/fgc.git ../../gitroot/fgc
 
 ## Cygu
 
+MacData DUE 15 March
+https://docs.google.com/document/d/1jvzb9Z9lAC6zP4lwsVXZnRBcDLPM9ZT9/edit
+
+Bolker about stats paper
+
+Bolker about structure for things like read.dta and read.xlsx
+
+cache documentation and implementation
+
 XX. tvsurvive: https://github.com/CYGUBICKO/pcoxtime.git
 
 XX. households:  https://github.com/CYGUBICKO/hh.git  ../cygu/hh/
