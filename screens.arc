@@ -102,10 +102,18 @@ Weitz/Harris:
 
 Rarity
 
+## Going to be a package
+XX. checkPlots:  https://github.com/dushoff/checkPlots.git  ../projects/checkPlots/
+
+## Going to be a MS
+XX. CheckDiv:  https://github.com/mikeroswell/CheckDiv.git
+
+## This package is coming out with the OikosR1S2
+## Should be submitted soon-ish to MEE or JSS
 XX. rarity: https://github.com/mikeroswell/MeanRarity.git
 
+## IN PRESS!
 ## Diversity_Guide: https://github.com/mikeroswell/Diversity_Guide.git
-
 MS:
 * https://docs.google.com/document/d/1JAMNZmy2OgUrLdng9L0888bAvKO6AabhtU0e_QSFRaw/edit
 * ~/Downloads/OikosR1.pdf
@@ -113,11 +121,11 @@ MS:
 * R2R
 	* https://docs.google.com/document/d/10UEzTAe8rlAFHD7ojoPO0GGZPh00QKF6BKNmXeURwOk/edit
 
+## Deprecated
 diversity:  https://github.com/dushoff/diversity_metrics.git  ../projects/diversity_metrics/ # NOALL
 
+## Presume this is subsumed
 * http://dushoff.github.io/notebook/diversity.html
-
-XX. checkPlots:  https://github.com/dushoff/checkPlots.git  ../projects/checkPlots/
 
 ######################################################################
 
@@ -239,8 +247,6 @@ XX. fgc: https://github.com/fishforwish/fgc.git ../../gitroot/fgc
 MacData DUE 15 March
 https://docs.google.com/document/d/1jvzb9Z9lAC6zP4lwsVXZnRBcDLPM9ZT9/edit
 
-Bolker about stats paper
-
 Bolker about structure for things like read.dta and read.xlsx
 
 cache documentation and implementation
@@ -273,8 +279,6 @@ XX. Mummies/GrowthRateMS/
 
 ## So
 
-Shifts is in here
-
 ## Thesis repo
 So_thesis: https://github.com/Apeirogons/COVID-math-thesis ## NOALL
 
@@ -296,7 +300,7 @@ test_positivity:  https://github.com/GeethaJey/COVID-TPR.git ./test_positivity
 
 ## Michelle Huynh
 
-huynh: https://github.com/huynhm7/MDD-Thesis.git
+XX. huynh: https://github.com/huynhm7/MDD-Thesis.git
 
 ######################################################################
 
