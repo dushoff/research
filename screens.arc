@@ -106,7 +106,7 @@ Rarity
 XX. checkPlots:  https://github.com/dushoff/checkPlots.git  ../projects/checkPlots/
 
 ## Going to be a MS
-XX. CheckDiv:  https://github.com/mikeroswell/CheckDiv.git
+XX. CheckDiv:  https://github.com/mikeroswell/CheckDiv.git ## NOALL
 
 ## This package is coming out with the OikosR1S2
 ## Should be submitted soon-ish to MEE or JSS
