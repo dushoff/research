@@ -154,7 +154,7 @@ barcelona/doc
 Accepted JRSI 2020 Jun 01
 https://royalsocietypublishing.org/doi/full/10.1098/rsif.2019.0719
 
-## DONE
+## OUT
 serial:  https://github.com/parksw3/serial.git  ../park/serial/
 Submitted PNAS 2020 Jun 05 (Fri)
 Reviews not-too-bad 12 Jul
@@ -163,13 +163,14 @@ https://doi.org/10.1073/pnas.2011548118
 XX. cereal: https://github.com/parksw3/serial2.git
 New drafty Rt stuff cloned 2020 Jul 01 (Wed) after a Lipsitch “scoop”
 
+## OUT
 exponential_framework:  https://github.com/parksw3/wuhan.git ../outbreak/park
 * Resubmitted JRSI 12 May 2020
 * Provisionally accepted 18 Jun
 * Accepted 2020 Jun 29 (Mon)
 * https://royalsocietypublishing.org/doi/10.1098/rsif.2020.0144
 
-## Packaging this
+## R-Packaging some of the generation stufff
 XX. rRlinks: https://github.com/mac-theobio/rRlinks.git
 
 ## Speed and strength
