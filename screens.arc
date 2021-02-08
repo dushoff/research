@@ -323,6 +323,8 @@ plague: https://github.com/davidearn/plague.git ## NOALL
 
 gos: https://github.com/mac-theobio/GOS_NMF.git
 
+EarnOp: https://github.com/davidearn/OpEd.git ## NOALL
+
 ######################################################################
 
 ## Grant support
