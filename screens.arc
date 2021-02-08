@@ -290,7 +290,7 @@ https://docs.google.com/document/d/105QZAGMzl7m6JZiXGLuycXWrZcsydqJ_/edit#
 So_lags: https://github.com/Apeirogons/covid-time-lag ## NOALL
 
 ## Population-level data
-So_regression:  https://github.com/Apeirogons/covid-time-lag-regression.git ./So_regression
+So_regression:  https://github.com/Apeirogons/covid-time-lag-regression.git ## NOALL
 
 ## Junior project
 So_lysogeny:  https://github.com/Apeirogons/3BM6-Modelling.git 
