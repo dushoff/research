@@ -100,6 +100,10 @@ Weitz/Harris:
 
 ## Roswell
 
+Todo:
+
+https://docs.google.com/document/d/1cqjKMvk4qV1paSwkiRnCRZldU1fuPBvlmJlZQvlhDjo/edit?ts=60240871
+
 Rarity
 
 ## Going to be a package
@@ -123,8 +127,7 @@ MS:
 
 ## Deprecated
 diversity:  https://github.com/dushoff/diversity_metrics.git  ../projects/diversity_metrics/ # NOALL
-
-## Presume this is subsumed
+## Subsumed (AFAIK)
 * http://dushoff.github.io/notebook/diversity.html
 
 ######################################################################
