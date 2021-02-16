@@ -255,6 +255,7 @@ Bolker about structure for things like read.dta and read.xlsx
 
 cache documentation and implementation
 
+Cox stuff for JSS with Ben
 XX. tvsurvive: https://github.com/CYGUBICKO/pcoxtime.git
 
 XX. households:  https://github.com/CYGUBICKO/hh.git  ../cygu/hh/
