@@ -1,4 +1,6 @@
-## This is a _linked_ (mkfile) Makefile for EarnOp (David's OpEd directory)
+
+## This is a _linked_ Makefile for …
+## 
 
 current: target
 -include target.mk
@@ -7,10 +9,6 @@ current: target
 
 vim_session:
 	bash -cl "vmt"
-
-######################################################################
-
-Sources += VoC_risk/VoC_risk.md
 
 ######################################################################
 
@@ -29,7 +27,7 @@ makestuff/Makefile:
 
 -include makestuff/os.mk
 
-## -include makestuff/pipeR.mk
+## -include makestuff/wrapR.mk
 
 -include makestuff/git.mk
 -include makestuff/visual.mk
