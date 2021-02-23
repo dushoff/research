@@ -198,6 +198,10 @@ interval_data: https://github.com/parksw3/serialdata.git
 ## Daniel and Sunky's individual/population speed/strength stuff
 XX. gamma: https://github.com/parksw3/individual_intervention.git
 
+## Quick ? variant stuff
+
+XX. ssvariant: https://github.com/parksw3/newvariant.git
+
 ######################################################################
 
 ## Rabies
