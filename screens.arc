@@ -29,11 +29,8 @@ XX. Canada:  https://github.com/wzmli/COVID19-Canada.git ../coronavirus/Canada/ 
 XX. table:  https://github.com/davidearn/OntarioModellingTable.git  ../coronavirus/table/
 * ICES Data Dictionary https://ssl.ices.on.ca 
 
-## Auto-screening? or not?
-## Seems not! Craziness (it's in vscreens, need to check the log or something)
+## Current Manuscripts; working with Mike to build in a good way
 XX. PHAC: https://github.com/mac-theobio/PHAC_covid.git
-* Ontario calibration (McMasterReport) reports are here
-* This is the PHAC contract directory
 
 PHAC model spreadsheet
 * https://docs.google.com/spreadsheets/d/1P-2EKmYPlVwOz-Y20cIxqo8ZL8ZVj9yj5z6HjikTxp0/edit#gid=130126832
