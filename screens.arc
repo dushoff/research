@@ -29,11 +29,8 @@ XX. Canada:  https://github.com/wzmli/COVID19-Canada.git ../coronavirus/Canada/ 
 XX. table:  https://github.com/davidearn/OntarioModellingTable.git  ../coronavirus/table/
 * ICES Data Dictionary https://ssl.ices.on.ca 
 
-## Auto-screening? or not?
-## Seems not! Craziness (it's in vscreens, need to check the log or something)
+## Current Manuscripts; working with Mike to build in a good way
 XX. PHAC: https://github.com/mac-theobio/PHAC_covid.git
-* Ontario calibration (McMasterReport) reports are here
-* This is the PHAC contract directory
 
 PHAC model spreadsheet
 * https://docs.google.com/spreadsheets/d/1P-2EKmYPlVwOz-Y20cIxqo8ZL8ZVj9yj5z6HjikTxp0/edit#gid=130126832
@@ -100,6 +97,10 @@ Weitz/Harris:
 
 ## Roswell
 
+Todo:
+
+https://docs.google.com/document/d/1cqjKMvk4qV1paSwkiRnCRZldU1fuPBvlmJlZQvlhDjo/edit?ts=60240871
+
 Rarity
 
 ## Going to be a package
@@ -123,8 +124,7 @@ MS:
 
 ## Deprecated
 diversity:  https://github.com/dushoff/diversity_metrics.git  ../projects/diversity_metrics/ # NOALL
-
-## Presume this is subsumed
+## Subsumed (AFAIK)
 * http://dushoff.github.io/notebook/diversity.html
 
 ######################################################################
@@ -195,6 +195,10 @@ interval_data: https://github.com/parksw3/serialdata.git
 ## Daniel and Sunky's individual/population speed/strength stuff
 XX. gamma: https://github.com/parksw3/individual_intervention.git
 
+## Quick ? variant stuff
+
+XX. ssvariant: https://github.com/parksw3/newvariant.git
+
 ######################################################################
 
 ## Rabies
@@ -239,7 +243,7 @@ XX. awareness_proposal: https://github.com/covid19awareness/CIHR_call.git
 
 ### pre-covid
 
-XX. fgc: https://github.com/fishforwish/fgc.git ../../gitroot/fgc
+XX. fgc: https://github.com/fishforwish/fgc.git
 
 ######################################################################
 
@@ -252,6 +256,7 @@ Bolker about structure for things like read.dta and read.xlsx
 
 cache documentation and implementation
 
+Cox stuff for JSS with Ben
 XX. tvsurvive: https://github.com/CYGUBICKO/pcoxtime.git
 
 XX. households:  https://github.com/CYGUBICKO/hh.git  ../cygu/hh/
