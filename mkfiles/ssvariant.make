@@ -1,4 +1,6 @@
-## This is a _linked_ (mkfile) Makefile for Park newvariant
+
+## This is a _linked_ Makefile for …
+## 
 
 current: target
 -include target.mk
@@ -25,7 +27,7 @@ makestuff/Makefile:
 
 -include makestuff/os.mk
 
-## -include makestuff/pipeR.mk
+## -include makestuff/wrapR.mk
 
 -include makestuff/git.mk
 -include makestuff/visual.mk
