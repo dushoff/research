@@ -37,6 +37,8 @@ PHAC model spreadsheet
 
 XX. guelph: https://github.com/wzmli/macpan_canada.git
 
+XX. base: https://github.com/wzmli/macpan_base.git
+
 ######################################################################
 
 ## WHO AFRO
