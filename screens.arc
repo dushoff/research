@@ -277,17 +277,17 @@ XX. effects: https://github.com/mac-theobio/effects.git
 
 ### Elisha
 Mummies:  https://github.com/ElishaBayode/Babies_mummies_growth_rates_MS.git  ../projects/Mummies/
-XX. Mummies/ms
+Mummies/ms
 * 2020 Jun 22 returned to Elisha
 
-XX. Mummies/GrowthRateMS/
+Mummies/GrowthRateMS/
 
 ######################################################################
 
 ## So
 
 ## Thesis repo
-So_thesis: https://github.com/Apeirogons/COVID-math-thesis ## NOALL
+XX. So_thesis: https://github.com/Apeirogons/COVID-math-thesis ## NOALL
 
 ## Notes
 https://docs.google.com/document/d/105QZAGMzl7m6JZiXGLuycXWrZcsydqJ_/edit#
