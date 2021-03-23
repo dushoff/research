@@ -46,15 +46,15 @@ XX. iphis: https://github.com/wzmli/iphis_dat.git
 ######################################################################
 
 ## WHO AFRO
-XX. afroData: https://github.com/SACEMA/afroData.git ../coronavirus/afroData/
+afroData: https://github.com/SACEMA/afroData.git ../coronavirus/afroData/
 
-XX. afroFitting: https://github.com/SACEMA/afroFitting.git
+afroFitting: https://github.com/SACEMA/afroFitting.git
 
-XX. afroReports: https://github.com/SACEMA/afroReports
+afroReports: https://github.com/SACEMA/afroReports
 
-XX. afroRegional: https://github.com/SACEMA/afroRegional.git
+afroRegional: https://github.com/SACEMA/afroRegional.git
 
-XX. afroCalib: https://github.com/SACEMA/afroRegionCalib.git
+afroCalib: https://github.com/SACEMA/afroRegionCalib.git
 
 Documentation Google drive
 * https://drive.google.com/drive/folders/14W3suVM4EWzxTRtVoEBobEP3_zzmB74q
@@ -64,7 +64,7 @@ Linelist
 
 ## Other SACEMA
 
-XX. smart_testing:  https://github.com/SACEMA/SMART_testing.git  ../coronavirus/smart_test/
+smart_testing:  https://github.com/SACEMA/SMART_testing.git  ../coronavirus/smart_test/
 
 Sheetal's project
 MASHA: https://github.com/jfunction/MASHA.git ## NOALL
@@ -255,15 +255,14 @@ XX. fgc: https://github.com/fishforwish/fgc.git
 
 ## Cygu
 
-MacData DUE 15 March
-https://docs.google.com/document/d/1jvzb9Z9lAC6zP4lwsVXZnRBcDLPM9ZT9/edit
-
 Bolker about structure for things like read.dta and read.xlsx
 
 cache documentation and implementation
 
 Cox stuff for JSS with Ben
 XX. tvsurvive: https://github.com/CYGUBICKO/pcoxtime.git
+
+XX. tvsurvive/jss-article-tex
 
 XX. rehouse:  https://github.com/CYGUBICKO/hh-refactor.git
 households:  https://github.com/CYGUBICKO/hh.git  ## older
