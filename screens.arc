@@ -45,6 +45,11 @@ XX. iphis: https://github.com/wzmli/iphis_dat.git
 
 ######################################################################
 
+goldstein: https://github.com/Outbreak-analysis/VaccinationLetter.git
+
+######################################################################
+
+
 ## WHO AFRO
 afroData: https://github.com/SACEMA/afroData.git ../coronavirus/afroData/
 
