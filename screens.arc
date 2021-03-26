@@ -49,7 +49,6 @@ goldstein: https://github.com/Outbreak-analysis/VaccinationLetter.git
 
 ######################################################################
 
-
 ## WHO AFRO
 afroData: https://github.com/SACEMA/afroData.git ../coronavirus/afroData/
 
