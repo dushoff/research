@@ -45,6 +45,8 @@ XX. iphis: https://github.com/wzmli/iphis_dat.git
 
 ######################################################################
 
+PNAS response letter
+
 goldstein: https://github.com/Outbreak-analysis/VaccinationLetter.git
 
 ######################################################################
@@ -318,12 +320,15 @@ XX. huynh: https://github.com/huynhm7/MDD-Thesis.git
 
 ######################################################################
 
-## Earn
+## Earn and Papst
 
 covidgrowthfit: https://github.com/davidearn/covidgrowthfit.git
 * Patterns of little r
 
 ON_age:  https://github.com/davidearn/covid_age.git
+
+Age distributions final public thing
+covid_age: https://github.com/papsti/covid-age ## NOALL
 
 ## Plague
 plague_growth: https://github.com/davidearn/plague_growth.git
