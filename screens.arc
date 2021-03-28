@@ -320,15 +320,14 @@ XX. huynh: https://github.com/huynhm7/MDD-Thesis.git
 
 ######################################################################
 
-## Earn and Papst
+## Earn 
 
 covidgrowthfit: https://github.com/davidearn/covidgrowthfit.git
 * Patterns of little r
 
-ON_age:  https://github.com/davidearn/covid_age.git
-
-Age distributions final public thing
-covid_age: https://github.com/papsti/covid-age ## NOALL
+Age distributions (Papst)
+ON_age:  https://github.com/davidearn/covid_age.git ## private
+On_ageBMC: https://github.com/papsti/covid-age ## NOALL
 
 ## Plague
 plague_growth: https://github.com/davidearn/plague_growth.git
@@ -339,9 +338,11 @@ epigrowthfit: https://github.com/davidearn/epigrowthfit.git ## NOALL
 ## Old, messy repo
 plague: https://github.com/davidearn/plague.git ## NOALL
 
-gos: https://github.com/mac-theobio/GOS_NMF.git
-
 EarnOp: https://github.com/davidearn/OpEd.git ## NOALL
+
+######################################################################
+
+gos: https://github.com/mac-theobio/GOS_NMF.git
 
 ######################################################################
 
