@@ -36,7 +36,6 @@ epidemicInsurance:  https://github.com/SACEMA/epidemicInsurance.git  ../projects
 160. name251:  https://github.com/parksw3/bayesantigen2.git  ../park/flumap/
 161. name255:  ../planning/covid19/
 162. name259:  https://github.com/bbolker/bbmisc.git  ../projects/bbmisc/
-163. name266:  https://github.com/ICI3D/rubellaSA.git  ../projects/rubella/
 164. name268:  https://github.com/mac-theobio/coronavirus_asymptomatic.git  ../projects/weitzAsymp/
 165. name270:  https://github.com/wzmli/glasgow.git  ../rabies/glasgow/
 166. name272:  https://github.com/wzmli/rabies_R0.git  ../rabies/R0/
