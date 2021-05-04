@@ -293,11 +293,6 @@ Mummies/GrowthRateMS/
 
 ######################################################################
 
-rubellaSA:  https://github.com/ICI3D/rubellaSA.git  ../projects/rubella/
-* https://docs.google.com/document/d/17M46gbe4Fx9QhsLqGqccbW6UFzF6oHSwk7LsVP_ysO4/edit
-
-######################################################################
-
 ## So
 
 ## Thesis repo
