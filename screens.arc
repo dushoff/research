@@ -17,6 +17,8 @@ content.list
 
 ## Covid forecasts
 
+2021 May 04 (Tue) New Bolker/Papst projects
+
 XX. macpan:  https://github.com/bbolker/McMasterPandemic.git ../coronavirus/mac/
 XX. macpan/notes
 
@@ -40,6 +42,8 @@ XX. guelph: https://github.com/wzmli/macpan_canada.git
 XX. base: https://github.com/wzmli/macpan_base.git
 
 XX. MacOMT: https://github.com/wzmli/MacOMT_report.git ## NOALL
+
+XX. covid_forecasts: https://github.com/mac-theobio/covid_forecasts
 
 XX. iphis: https://github.com/wzmli/iphis_dat.git
 
@@ -355,11 +359,13 @@ gos: https://github.com/mac-theobio/GOS_NMF.git
 
 dime: https://github.com/davidearn/EIDM_platforms.git
 
+walker: https://github.com/davidearn/SteveWalker
+
 Stuff not updated by 2020 Dec 03 (Thu) in content.list
 
 ----------------------------------------------------------------------
 
 ## Tech stuff from elsewhere
 
-maker: https://github.com/ComputationalProteomicsUnit/maker.git
+packagemaker: https://github.com/ComputationalProteomicsUnit/maker.git
 
