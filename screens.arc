@@ -248,6 +248,7 @@ websurvey:  https://github.com/covid19awareness/covid19awareness.github.io.git  
 
 XX. youtube: https://github.com/covid19awareness/YouTube.git
 XX. youtube/rfigs:
+XX. youtube/drive_loading/
 
 misinformation: https://github.com/covid19awareness/misinformation
 
