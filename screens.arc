@@ -39,6 +39,7 @@ PHAC model spreadsheet
 
 XX. guelph: https://github.com/wzmli/macpan_canada.git
 
+MacPan paper and weird stuff from Mike
 XX. base: https://github.com/wzmli/macpan_base.git
 
 XX. MacOMT: https://github.com/wzmli/MacOMT_report.git ## NOALL
@@ -176,6 +177,9 @@ Submitted PNAS 2020 Jun 05 (Fri)
 Reviews not-too-bad 12 Jul
 https://doi.org/10.1073/pnas.2011548118
 
+## JD to fork serial and play with the data
+## Look at Table*xl* and serial*.R
+
 XX. cereal: https://github.com/parksw3/serial2.git
 New drafty Rt stuff cloned 2020 Jul 01 (Wed) after a Lipsitch “scoop”
 
@@ -212,7 +216,7 @@ interval_data: https://github.com/parksw3/serialdata.git
 XX. gamma: https://github.com/parksw3/individual_intervention.git
 
 ## Quick ? variant stuff
-
+## With PRSB editors 2021 May 21 (Fri)
 XX. ssvariant: https://github.com/parksw3/newvariant.git
 
 ######################################################################
