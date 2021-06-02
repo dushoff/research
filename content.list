@@ -18,10 +18,6 @@ epidemicInsurance:  https://github.com/SACEMA/epidemicInsurance.git  ../projects
 144. name228:  https://github.com/cygubicko/wash.git  ../cygu/wash/
 
 # Unsorted
-145. name229:  https://github.com/bbolker/stat744.git  ../DataViz/17/
-146. name230:  https://github.com/bbolker/stat744_private.git url = https://github.com/arthurchen2018/STAT744.git  ../DataViz/p17/
-147. name231:  https://github.com/mac-theobio/DataViz_private.git  ../DataViz/private/
-148. name232:  https://github.com/mac-theobio/DataViz.git  ../DataViz/public/
 149. qmee:  https://github.com/mac-theobio/QMEE.git  ../DataViz/QMEE/
 150. fate: ../coronavirus/state/
 151. name234:  https://github.com/davidearn/LBoM.git  ../earn/LBoM/
