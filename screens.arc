@@ -148,7 +148,7 @@ diversity:  https://github.com/dushoff/diversity_metrics.git  ../projects/divers
 
 ## Stats with Bolker
 
-### Multifactorial
+### Multifactorial (free lunch, dichotomization)
 * https://app.slack.com/client/T016QKNS5BK/C015X8VQPCP
 * https://docs.google.com/document/d/1lBbS--qF_XHSnbcLcDnm9KdNL2at6qEOKh5iRRMqOF8/
 * https://hackmd.io/@LionelH/SySOUWiR8
@@ -156,6 +156,16 @@ diversity:  https://github.com/dushoff/diversity_metrics.git  ../projects/divers
 
 Defunct-ish, unfortunately. Doesn't really have a clear Make structure
 dates: https://github.com/mac-theobio/dateProcessing.git ## NOALL
+
+Orthogonalization, contrasts and anchors. Write down the two things about anchors or whatever
+
+Clarity
+
+### Park-descended plague
+
+Does Bolker really trust Park's big machine? Is it sampling properly? Start with a smaller machine? 
+
+Bolker: rebuild the whole thing in a pure Stan or TMB version with continuous latent variables. Claim: too slow for JAGS. TMB can call the stan sampler (but natively does MLE-like stuff). Stan also does AD. TMB also has native efficient approach to mixed models. Stan also has an "optimize" method.
 
 ######################################################################
 
