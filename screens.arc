@@ -196,9 +196,7 @@ XX. rRlinks: https://github.com/mac-theobio/rRlinks.git
 ## Speed and strength
 ## REVISE
 XX. speed_public:  https://github.com/mac-theobio/Speed_and_strength
-
 XX. speed_public/code
-
 XX. speedstrength:  https://github.com/parksw3/speedstrength.git  ../park/speed/
 
 * Posted 2020 Mar 3
@@ -210,6 +208,7 @@ XX. speedstrength:  https://github.com/parksw3/speedstrength.git  ../park/speed/
 Korea:  https://github.com/parksw3/Korea-analysis.git  ../outbreak/Korea/
 * Accepted EID 2020 Aug 04 (Tue)
 
+Mystery; how does this relate to fork above?
 interval_data: https://github.com/parksw3/serialdata.git
 
 ## Daniel and Sunky's individual/population speed/strength stuff
@@ -218,6 +217,8 @@ XX. gamma: https://github.com/parksw3/individual_intervention.git
 ## Quick ? variant stuff
 ## With PRSB editors 2021 May 21 (Fri)
 XX. ssvariant: https://github.com/parksw3/newvariant.git
+
+Within- and between-group heterogeneity with Fraser et al.
 
 ######################################################################
 
