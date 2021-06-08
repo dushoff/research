@@ -48,6 +48,8 @@ XX. covid_forecasts: https://github.com/mac-theobio/covid_forecasts
 
 XX. iphis: https://github.com/wzmli/iphis_dat.git
 
+XX. linelists: https://github.com/wzmli/ontario_linelist_explore
+
 ######################################################################
 
 PNAS response letter
