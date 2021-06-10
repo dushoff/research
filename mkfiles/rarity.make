@@ -1,6 +1,4 @@
-
-## This is a _linked_ Makefile for …
-## 
+## This is a _linked_ Makefile for Roswell's MeanRarity package
 
 current: target
 -include target.mk
