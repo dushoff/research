@@ -222,7 +222,8 @@ XX. gamma: https://github.com/parksw3/individual_intervention.git
 ## With PRSB editors 2021 May 21 (Fri)
 XX. ssvariant: https://github.com/parksw3/newvariant.git
 
-Within- and between-group heterogeneity with Fraser et al.
+## Within- and between-group heterogeneity with Fraser et al.
+## norepoyetshared
 
 ######################################################################
 
