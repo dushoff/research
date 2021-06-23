@@ -286,7 +286,6 @@ XX. tvsurvive: https://github.com/CYGUBICKO/pcoxtime.git
 XX. tvsurvive/jss-article-tex
 
 XX. rehouse:  https://github.com/CYGUBICKO/hh-refactor.git
-households:  https://github.com/CYGUBICKO/hh.git  ## older
 
 ## Steve's calculations and writing for the comprehensive exam and the proposal
 cygu_comp: https://github.com/CYGUBICKO/comp_exam.git
@@ -383,3 +382,6 @@ Stuff not updated by 2020 Dec 03 (Thu) in content.list
 
 packagemaker: https://github.com/ComputationalProteomicsUnit/maker.git
 
+## Obsolete
+
+households:  https://github.com/CYGUBICKO/hh.git  ## replaced by rehouse
