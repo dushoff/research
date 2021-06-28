@@ -52,7 +52,7 @@ XX. linelists: https://github.com/wzmli/ontario_linelist_explore
 
 https://github.com/wzmli/uk_delta ## NOALL
 
-XX. expandify: https://github.com/papsti/macpan_expandify_ms
+XX. expandify: https://github.com/papsti/macpan_expandify_ms ## NOALL
 
 ######################################################################
 
