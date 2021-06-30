@@ -52,7 +52,7 @@ XX. linelists: https://github.com/wzmli/ontario_linelist_explore
 
 https://github.com/wzmli/uk_delta ## NOALL
 
-https://github.com/papsti/macpan_expandify_ms.git ## NOALL
+XX. expandify: https://github.com/papsti/macpan_expandify_ms ## NOALL
 
 ######################################################################
 
@@ -288,7 +288,6 @@ XX. tvsurvive: https://github.com/CYGUBICKO/pcoxtime.git
 XX. tvsurvive/jss-article-tex
 
 XX. rehouse:  https://github.com/CYGUBICKO/hh-refactor.git
-households:  https://github.com/CYGUBICKO/hh.git  ## older
 
 ## Steve's calculations and writing for the comprehensive exam and the proposal
 cygu_comp: https://github.com/CYGUBICKO/comp_exam.git
@@ -312,11 +311,10 @@ Mummies/GrowthRateMS/
 
 Villyen 
 
-rubellaSA:  https://github.com/ICI3D/rubellaSA.git  ../projects/rubella/
+XX. rubellaSA:  https://github.com/ICI3D/rubellaSA.git  ../projects/rubella/
 * https://docs.google.com/document/d/17M46gbe4Fx9QhsLqGqccbW6UFzF6oHSwk7LsVP_ysO4/edit
 
 ######################################################################
-
 
 ## So
 
@@ -385,3 +383,6 @@ Stuff not updated by 2020 Dec 03 (Thu) in content.list
 
 packagemaker: https://github.com/ComputationalProteomicsUnit/maker.git
 
+## Obsolete
+
+households:  https://github.com/CYGUBICKO/hh.git  ## replaced by rehouse
