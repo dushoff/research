@@ -52,6 +52,8 @@ XX. linelists: https://github.com/wzmli/ontario_linelist_explore
 
 https://github.com/wzmli/uk_delta ## NOALL
 
+https://github.com/papsti/macpan_expandify_ms.git ## NOALL
+
 ######################################################################
 
 PNAS response letter
