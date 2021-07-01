@@ -183,9 +183,6 @@ Submitted PNAS 2020 Jun 05 (Fri)
 Reviews not-too-bad 12 Jul
 https://doi.org/10.1073/pnas.2011548118
 
-## JD to fork serial and play with the data
-## Look at Table*xl* and serial*.R
-
 XX. cereal: https://github.com/parksw3/serial2.git
 New drafty Rt stuff cloned 2020 Jul 01 (Wed) after a Lipsitch “scoop”
 
@@ -214,7 +211,8 @@ XX. speedstrength:  https://github.com/parksw3/speedstrength.git  ../park/speed/
 Korea:  https://github.com/parksw3/Korea-analysis.git  ../outbreak/Korea/
 * Accepted EID 2020 Aug 04 (Tue)
 
-Mystery; how does this relate to fork above?
+## Serial data here
+## Look at Table*xl* and serial*.R ## outdated? 2021 Jul 01 (Thu)
 interval_data: https://github.com/parksw3/serialdata.git
 
 ## Daniel and Sunky's individual/population speed/strength stuff
