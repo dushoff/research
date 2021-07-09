@@ -152,6 +152,12 @@ diversity:  https://github.com/dushoff/diversity_metrics.git  ../projects/divers
 
 ######################################################################
 
+## JD projects
+
+stochInv: https://github.com/dushoff/stochInv.git
+
+######################################################################
+
 ## Stats with Bolker
 
 ### Multifactorial
