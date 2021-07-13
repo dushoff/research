@@ -280,7 +280,7 @@ XX. fgc: https://github.com/fishforwish/fgc.git
 
 ######################################################################
 
-## Cygu
+## Bicko Cygu
 
 Bolker about structure for things like read.dta and read.xlsx
 
