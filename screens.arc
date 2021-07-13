@@ -56,43 +56,6 @@ XX. expandify: https://github.com/papsti/macpan_expandify_ms ## NOALL
 
 ######################################################################
 
-PNAS response letter
-
-goldstein: https://github.com/Outbreak-analysis/VaccinationLetter.git
-
-######################################################################
-
-## WHO AFRO
-afroData: https://github.com/SACEMA/afroData.git ../coronavirus/afroData/
-
-afroFitting: https://github.com/SACEMA/afroFitting.git
-
-afroReports: https://github.com/SACEMA/afroReports
-
-afroRegional: https://github.com/SACEMA/afroRegional.git
-
-afroCalib: https://github.com/SACEMA/afroRegionCalib.git
-
-Documentation Google drive
-* https://drive.google.com/drive/folders/14W3suVM4EWzxTRtVoEBobEP3_zzmB74q
-
-Linelist
-* https://drive.google.com/drive/folders/1qjnDv7VXgd9sElXz0jiHYG0y1UctKyq1
-
-## Other SACEMA
-
-smart_testing:  https://github.com/SACEMA/SMART_testing.git  ../coronavirus/smart_test/
-
-Sheetal's project
-MASHA: https://github.com/jfunction/MASHA.git ## NOALL
-
-Older RSA
-SACEMA_project:  https://github.com/SACEMA/covidProjections.git  ../coronavirus/SACEMA
-
-reinfections: https://github.com/SACEMA/reinfections.git
-
-######################################################################
-
 ## Other mac-cov
 
 ## Ali
@@ -154,7 +117,9 @@ diversity:  https://github.com/dushoff/diversity_metrics.git  ../projects/divers
 
 ## JD projects
 
-stochInv: https://github.com/dushoff/stochInv.git
+XX. stochInv: https://github.com/dushoff/stochInv.git
+
+XX. predictions: https://github.com/dushoff/predictions.git
 
 ######################################################################
 
@@ -382,6 +347,40 @@ walker: https://github.com/davidearn/SteveWalker
 Stuff not updated by 2020 Dec 03 (Thu) in content.list
 
 ----------------------------------------------------------------------
+
+## Archived
+
+## WHO AFRO
+afroData: https://github.com/SACEMA/afroData.git ../coronavirus/afroData/
+
+afroFitting: https://github.com/SACEMA/afroFitting.git
+
+afroReports: https://github.com/SACEMA/afroReports
+
+afroRegional: https://github.com/SACEMA/afroRegional.git
+
+afroCalib: https://github.com/SACEMA/afroRegionCalib.git
+
+Documentation Google drive
+* https://drive.google.com/drive/folders/14W3suVM4EWzxTRtVoEBobEP3_zzmB74q
+
+Linelist
+* https://drive.google.com/drive/folders/1qjnDv7VXgd9sElXz0jiHYG0y1UctKyq1
+
+## Other SACEMA
+
+smart_testing:  https://github.com/SACEMA/SMART_testing.git  ../coronavirus/smart_test/
+
+Sheetal's project
+MASHA: https://github.com/jfunction/MASHA.git ## NOALL
+
+Older RSA
+SACEMA_project:  https://github.com/SACEMA/covidProjections.git  ../coronavirus/SACEMA
+
+reinfections: https://github.com/SACEMA/reinfections.git
+
+# PNAS response letter
+goldstein: https://github.com/Outbreak-analysis/VaccinationLetter.git
 
 ## Tech stuff from elsewhere
 
