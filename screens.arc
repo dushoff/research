@@ -171,13 +171,7 @@ XX. rRlinks: https://github.com/mac-theobio/rRlinks.git
 ## REVISE
 XX. speed_public:  https://github.com/mac-theobio/Speed_and_strength
 XX. speed_public/code
-XX. speedstrength:  https://github.com/parksw3/speedstrength.git  ../park/speed/
-
-* Posted 2020 Mar 3
-* Submitted PNAS 20 Jun – desk rejected!
-* Submitted PRSB 30 Jun
-	* Manuscript ID RSPB-2020-1556
-* Revised version submitted 2020 Oct 19
+speedstrength:  https://github.com/parksw3/speedstrength.git  ../park/speed/
 
 Korea:  https://github.com/parksw3/Korea-analysis.git  ../outbreak/Korea/
 * Accepted EID 2020 Aug 04 (Tue)
