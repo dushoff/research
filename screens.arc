@@ -44,6 +44,8 @@ XX. base: https://github.com/wzmli/macpan_base.git
 
 XX. MacOMT: https://github.com/wzmli/MacOMT_report.git ## NOALL
 
+XX. canada_vaccine: https://github.com/wzmli/canada_vaccine.git ## NOALL
+
 XX. covid_forecasts: https://github.com/mac-theobio/covid_forecasts
 
 XX. iphis: https://github.com/wzmli/iphis_dat.git
@@ -181,13 +183,16 @@ Korea:  https://github.com/parksw3/Korea-analysis.git  ../outbreak/Korea/
 interval_data: https://github.com/parksw3/serialdata.git
 
 ## Daniel and Sunky's individual/population speed/strength stuff
+## Invite co-authors (David, Ben, Sunky, Bryan, Joshua, Jess?, Funk?)
+## Submit to JRSI
+## Reap rewards
 XX. gamma: https://github.com/parksw3/individual_intervention.git
 
 ## Quick ? variant stuff
 ## With PRSB editors 2021 May 21 (Fri)
 XX. ssvariant: https://github.com/parksw3/newvariant.git
 
-## Within- and between-group heterogeneity with Fraser et al.
+## Within- and between-group heterogeneity with Christophe Fraser et al.
 ## norepoyetshared
 
 ######################################################################
