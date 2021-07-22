@@ -62,6 +62,8 @@ XX. expandify: https://github.com/papsti/macpan_expandify_ms ## NOALL
 
 ## Ali
 
+SIRtest also includes SIRtest/cohort* -- stuff about merging vDDw with speedstrength. Ali to move.
+
 XX. SIRtest: https://github.com/aligharouni/SIRmodel.git
 
 ######################################################################
