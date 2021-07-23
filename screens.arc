@@ -44,6 +44,8 @@ XX. base: https://github.com/wzmli/macpan_base.git
 
 XX. MacOMT: https://github.com/wzmli/MacOMT_report.git ## NOALL
 
+XX. canada_vaccine: https://github.com/wzmli/canada_vaccine.git ## NOALL
+
 XX. covid_forecasts: https://github.com/mac-theobio/covid_forecasts
 
 XX. iphis: https://github.com/wzmli/iphis_dat.git
@@ -53,43 +55,6 @@ XX. linelists: https://github.com/wzmli/ontario_linelist_explore
 https://github.com/wzmli/uk_delta ## NOALL
 
 XX. expandify: https://github.com/papsti/macpan_expandify_ms ## NOALL
-
-######################################################################
-
-PNAS response letter
-
-goldstein: https://github.com/Outbreak-analysis/VaccinationLetter.git
-
-######################################################################
-
-## WHO AFRO
-afroData: https://github.com/SACEMA/afroData.git ../coronavirus/afroData/
-
-afroFitting: https://github.com/SACEMA/afroFitting.git
-
-afroReports: https://github.com/SACEMA/afroReports
-
-afroRegional: https://github.com/SACEMA/afroRegional.git
-
-afroCalib: https://github.com/SACEMA/afroRegionCalib.git
-
-Documentation Google drive
-* https://drive.google.com/drive/folders/14W3suVM4EWzxTRtVoEBobEP3_zzmB74q
-
-Linelist
-* https://drive.google.com/drive/folders/1qjnDv7VXgd9sElXz0jiHYG0y1UctKyq1
-
-## Other SACEMA
-
-smart_testing:  https://github.com/SACEMA/SMART_testing.git  ../coronavirus/smart_test/
-
-Sheetal's project
-MASHA: https://github.com/jfunction/MASHA.git ## NOALL
-
-Older RSA
-SACEMA_project:  https://github.com/SACEMA/covidProjections.git  ../coronavirus/SACEMA
-
-reinfections: https://github.com/SACEMA/reinfections.git ## NOALL
 
 ######################################################################
 
@@ -156,7 +121,9 @@ diversity:  https://github.com/dushoff/diversity_metrics.git  ../projects/divers
 
 ## JD projects
 
-stochInv: https://github.com/dushoff/stochInv.git
+XX. stochInv: https://github.com/dushoff/stochInv.git
+
+XX. predictions: https://github.com/dushoff/predictions.git
 
 ######################################################################
 
@@ -208,13 +175,7 @@ XX. rRlinks: https://github.com/mac-theobio/rRlinks.git
 ## REVISE
 XX. speed_public:  https://github.com/mac-theobio/Speed_and_strength
 XX. speed_public/code
-XX. speedstrength:  https://github.com/parksw3/speedstrength.git  ../park/speed/
-
-* Posted 2020 Mar 3
-* Submitted PNAS 20 Jun – desk rejected!
-* Submitted PRSB 30 Jun
-	* Manuscript ID RSPB-2020-1556
-* Revised version submitted 2020 Oct 19
+speedstrength:  https://github.com/parksw3/speedstrength.git  ../park/speed/
 
 Korea:  https://github.com/parksw3/Korea-analysis.git  ../outbreak/Korea/
 * Accepted EID 2020 Aug 04 (Tue)
@@ -224,14 +185,20 @@ Korea:  https://github.com/parksw3/Korea-analysis.git  ../outbreak/Korea/
 interval_data: https://github.com/parksw3/serialdata.git
 
 ## Daniel and Sunky's individual/population speed/strength stuff
+## Invite co-authors (David, Ben, Sunky, Bryan, Joshua, Jess?, Funk?)
+## Submit to JRSI
+## Reap rewards
 XX. gamma: https://github.com/parksw3/individual_intervention.git
 
 ## Quick ? variant stuff
 ## With PRSB editors 2021 May 21 (Fri)
 XX. ssvariant: https://github.com/parksw3/newvariant.git
 
-## Within- and between-group heterogeneity with Fraser et al.
+## Within- and between-group heterogeneity with Christophe Fraser et al.
 ## norepoyetshared
+
+Milo GD
+* https://docs.google.com/document/d/1fsH-7ZsmUOATfVGcEtr0fPFJYKNCFXMA77Rjya5m7Qs/edit
 
 ######################################################################
 
@@ -375,6 +342,14 @@ gos: https://github.com/mac-theobio/GOS_NMF.git
 
 ######################################################################
 
+## PReP
+
+New project with Woodward 2021 Jul 23 (Fri)
+
+intermittent.tmp 
+
+######################################################################
+
 ## Grant support
 
 dime: https://github.com/davidearn/EIDM_platforms.git
@@ -384,6 +359,40 @@ walker: https://github.com/davidearn/SteveWalker
 Stuff not updated by 2020 Dec 03 (Thu) in content.list
 
 ----------------------------------------------------------------------
+
+## Archived
+
+## WHO AFRO
+afroData: https://github.com/SACEMA/afroData.git ../coronavirus/afroData/
+
+afroFitting: https://github.com/SACEMA/afroFitting.git
+
+afroReports: https://github.com/SACEMA/afroReports
+
+afroRegional: https://github.com/SACEMA/afroRegional.git
+
+afroCalib: https://github.com/SACEMA/afroRegionCalib.git
+
+Documentation Google drive
+* https://drive.google.com/drive/folders/14W3suVM4EWzxTRtVoEBobEP3_zzmB74q
+
+Linelist
+* https://drive.google.com/drive/folders/1qjnDv7VXgd9sElXz0jiHYG0y1UctKyq1
+
+## Other SACEMA
+
+smart_testing:  https://github.com/SACEMA/SMART_testing.git  ../coronavirus/smart_test/
+
+Sheetal's project
+MASHA: https://github.com/jfunction/MASHA.git ## NOALL
+
+Older RSA
+SACEMA_project:  https://github.com/SACEMA/covidProjections.git  ../coronavirus/SACEMA
+
+reinfections: https://github.com/SACEMA/reinfections.git
+
+# PNAS response letter
+goldstein: https://github.com/Outbreak-analysis/VaccinationLetter.git
 
 ## Tech stuff from elsewhere
 
