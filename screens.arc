@@ -99,6 +99,8 @@ reinfections: https://github.com/SACEMA/reinfections.git ## NOALL
 
 XX. SIRtest: https://github.com/aligharouni/SIRmodel.git
 
+epi_cohort: https://github.com/aligharouni/epi_cohort.git
+
 ######################################################################
 
 Weitz plateaus very Weitz-ish
