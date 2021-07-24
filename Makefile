@@ -15,6 +15,8 @@ screen_session: screens.update
 
 ######################################################################
 
+Ignore += intermittent
+
 ### Makestuff
 
 Sources += Makefile github.txt content.list archive.list
