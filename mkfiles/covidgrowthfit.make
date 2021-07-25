@@ -1,6 +1,5 @@
 
-## This is a _linked_ Makefile for …
-## 
+## This is a _linked_ Makefile for covidgrowthfit
 
 current: target
 -include target.mk
