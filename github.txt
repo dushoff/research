@@ -1,6 +1,4 @@
-aakhmetz	Andrei R. Akhmetzhanov
-aligharouni Ali
-matthewcso Matthew So
+So
 bbolker	Ben Bolker
 carolinecolijn Caroline Colijn
 CYGUBICKO

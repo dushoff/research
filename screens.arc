@@ -294,20 +294,21 @@ XX. rubellaSA:  https://github.com/ICI3D/rubellaSA.git  ../projects/rubella/
 
 ## So
 
-## Thesis repo
-XX. So_thesis: https://github.com/Apeirogons/COVID-math-thesis ## NOALL
+## ICES project
+icesvacc: https://github.com/matthewcso/vaccine_effectiveness_ontario 
 
-## Notes
-https://docs.google.com/document/d/105QZAGMzl7m6JZiXGLuycXWrZcsydqJ_/edit#
+## Junior project
+So_lysogeny:  https://github.com/Apeirogons/3BM6-Modelling.git 
+
+## Thesis
+So_thesis: https://github.com/Apeirogons/COVID-math-thesis ## NOALL
+* https://docs.google.com/document/d/105QZAGMzl7m6JZiXGLuycXWrZcsydqJ_/edit#
 
 ## Patient-level data
 So_lags: https://github.com/Apeirogons/covid-time-lag ## NOALL
 
 ## Population-level data
 So_regression:  https://github.com/Apeirogons/covid-time-lag-regression.git ## NOALL
-
-## Junior project
-So_lysogeny:  https://github.com/Apeirogons/3BM6-Modelling.git 
 
 ## Geetha
 
