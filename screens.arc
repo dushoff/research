@@ -200,8 +200,10 @@ XX. ssvariant: https://github.com/parksw3/newvariant.git
 ## Within- and between-group heterogeneity with Christophe Fraser et al.
 ## norepoyetshared
 
-Milo GD
+Milo and Sender (the Rons)
 * https://docs.google.com/document/d/1fsH-7ZsmUOATfVGcEtr0fPFJYKNCFXMA77Rjya5m7Qs/edit
+* https://docs.google.com/presentation/d/1lVSU9aRttmwt2C_WqvfPt40qJNXyUjG1uxBcT7W372U/edit?usp=sharing_eip_m&ts=61275a87
+* Downloads/rons_update.pdf
 
 ######################################################################
 
