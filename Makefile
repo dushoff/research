@@ -15,7 +15,9 @@ screen_session: screens.update
 
 ######################################################################
 
-Ignore += intermittent
+Ignore += time.tmp
+time.tmp: /proc/uptime
+	ls -t */all.time > $@
 
 ### Makestuff
 
