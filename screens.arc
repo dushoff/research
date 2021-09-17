@@ -296,8 +296,8 @@ XX. rubellaSA:  https://github.com/ICI3D/rubellaSA.git  ../projects/rubella/
 
 ## So
 
-## ICES project
-icesvacc: https://github.com/matthewcso/vaccine_effectiveness_ontario 
+## ICES project (Just reporting from Matthew)
+icesvacc: https://github.com/matthewcso/vaccine_effectiveness_ontario  ## NOALL
 
 ## Junior project
 So_lysogeny:  https://github.com/Apeirogons/3BM6-Modelling.git 
