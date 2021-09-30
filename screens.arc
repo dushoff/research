@@ -42,9 +42,9 @@ XX. guelph: https://github.com/wzmli/macpan_canada.git
 MacPan paper and weird stuff from Mike
 XX. base: https://github.com/wzmli/macpan_base.git
 
-XX. MacOMT: https://github.com/wzmli/MacOMT_report.git ## NOALL
+XX. MacOMT: https://github.com/wzmli/MacOMT_report.git
 
-XX. canada_vaccine: https://github.com/wzmli/canada_vaccine.git ## NOALL
+canada_vaccine: https://github.com/wzmli/canada_vaccine.git ## NOALL
 
 XX. covid_forecasts: https://github.com/mac-theobio/covid_forecasts
 
@@ -54,7 +54,7 @@ XX. linelists: https://github.com/wzmli/ontario_linelist_explore
 
 https://github.com/wzmli/uk_delta ## NOALL
 
-XX. expandify: https://github.com/papsti/macpan_expandify_ms ## NOALL
+expandify: https://github.com/papsti/macpan_expandify_ms ## NOALL
 
 ######################################################################
 
@@ -100,7 +100,7 @@ Rarity
 XX. checkPlots:  https://github.com/dushoff/checkPlots.git  ../projects/checkPlots/
 
 ## Going to be a MS
-XX. CheckDiv:  https://github.com/mikeroswell/CheckDiv.git ## NOALL
+CheckDiv:  https://github.com/mikeroswell/CheckDiv.git ## NOALL
 
 ## This package is coming out with the OikosR1S2
 ## Should be submitted soon-ish to MEE or JSS
