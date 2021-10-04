@@ -398,6 +398,7 @@ MASHA: https://github.com/jfunction/MASHA.git ## NOALL
 Older RSA
 SACEMA_project:  https://github.com/SACEMA/covidProjections.git  ../coronavirus/SACEMA
 
+## PP-style Makefile (horrified face)
 reinfections: https://github.com/SACEMA/reinfections.git
 
 # PNAS response letter
