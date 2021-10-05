@@ -44,6 +44,8 @@ XX. base: https://github.com/wzmli/macpan_base.git
 
 XX. MacOMT: https://github.com/wzmli/MacOMT_report.git
 
+newforecast: https://github.com/papsti/MacOMT_forecast.git ## NOALL
+
 canada_vaccine: https://github.com/wzmli/canada_vaccine.git ## NOALL
 
 XX. covid_forecasts: https://github.com/mac-theobio/covid_forecasts
