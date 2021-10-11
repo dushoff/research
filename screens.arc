@@ -15,6 +15,12 @@ content.list
 
 ######################################################################
 
+## Research sandbox
+
+XX. sandbox: https://github.com/dushoff/ResearchSandbox.git
+
+######################################################################
+
 ## Covid forecasts
 
 2021 May 04 (Tue) New Bolker/Papst projects
@@ -65,8 +71,6 @@ expandify: https://github.com/papsti/macpan_expandify_ms ## NOALL
 ## Ali
 
 SIRtest also includes SIRtest/cohort* -- stuff about merging vDDw with speedstrength. Ali to move.
-
-XX. SIRtest: https://github.com/aligharouni/SIRmodel.git
 
 epi_cohort: https://github.com/aligharouni/epi_cohort.git
 
@@ -416,3 +420,5 @@ test_positivity:  https://github.com/GeethaJey/COVID-TPR.git ./test_positivity
 huynh: https://github.com/huynhm7/MDD-Thesis.git
 
 ######################################################################
+
+XX. SIRtest: https://github.com/aligharouni/SIRmodel.git
