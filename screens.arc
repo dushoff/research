@@ -421,4 +421,4 @@ huynh: https://github.com/huynhm7/MDD-Thesis.git
 
 ######################################################################
 
-XX. SIRtest: https://github.com/aligharouni/SIRmodel.git
+SIRtest: https://github.com/aligharouni/SIRmodel.git
