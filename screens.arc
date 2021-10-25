@@ -23,12 +23,10 @@ XX. sandbox: https://github.com/dushoff/ResearchSandbox.git
 
 ## Covid forecasts
 
-2021 May 04 (Tue) New Bolker/Papst projects
-
 XX. macpan:  https://github.com/bbolker/McMasterPandemic.git ../coronavirus/mac/
 XX. macpan/notes
 
-XX. state:  https://github.com/bbolker/NYScovid19.git ../coronavirus/state/
+state:  https://github.com/bbolker/NYScovid19.git ../coronavirus/state/
 
 ######################################################################
 
@@ -43,22 +41,24 @@ XX. PHAC: https://github.com/mac-theobio/PHAC_covid.git
 PHAC model spreadsheet
 * https://docs.google.com/spreadsheets/d/1P-2EKmYPlVwOz-Y20cIxqo8ZL8ZVj9yj5z6HjikTxp0/edit#gid=130126832
 
-XX. guelph: https://github.com/wzmli/macpan_canada.git
+## Mike's macpan_canada
+guelph: https://github.com/wzmli/macpan_canada.git
 
 MacPan paper and weird stuff from Mike
-XX. base: https://github.com/wzmli/macpan_base.git
+base: https://github.com/wzmli/macpan_base.git
 
 XX. MacOMT: https://github.com/wzmli/MacOMT_report.git
+XX. MacOMT/forecast_blog
 
 newforecast: https://github.com/papsti/MacOMT_forecast.git ## NOALL
 
 canada_vaccine: https://github.com/wzmli/canada_vaccine.git ## NOALL
 
-XX. covid_forecasts: https://github.com/mac-theobio/covid_forecasts
+covid_forecasts: https://github.com/mac-theobio/covid_forecasts
 
 XX. iphis: https://github.com/wzmli/iphis_dat.git
 
-XX. linelists: https://github.com/wzmli/ontario_linelist_explore
+linelists: https://github.com/wzmli/ontario_linelist_explore
 
 https://github.com/wzmli/uk_delta ## NOALL
 
@@ -119,7 +119,7 @@ MS:
 * ~/Downloads/OikosR1.pdf
 * ~/Downloads/OikosR1S2.pdf
 * R2R
-	* https://docs.google.com/document/d/10UEzTAe8rlAFHD7ojoPO0GGZPh00QKF6BKNmXeURwOk/edit
+* https://docs.google.com/document/d/10UEzTAe8rlAFHD7ojoPO0GGZPh00QKF6BKNmXeURwOk/edit
 
 ## Deprecated
 diversity:  https://github.com/dushoff/diversity_metrics.git  ../projects/diversity_metrics/ # NOALL
