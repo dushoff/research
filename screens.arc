@@ -52,6 +52,8 @@ XX. MacOMT/forecast_blog
 
 newforecast: https://github.com/papsti/MacOMT_forecast.git ## NOALL
 
+XX. macpan_ON: https://github.com/wzmli/macpan_ontario.git
+
 canada_vaccine: https://github.com/wzmli/canada_vaccine.git ## NOALL
 
 covid_forecasts: https://github.com/mac-theobio/covid_forecasts
