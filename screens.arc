@@ -60,7 +60,7 @@ covid_forecasts: https://github.com/mac-theobio/covid_forecasts
 
 XX. iphis: https://github.com/wzmli/iphis_dat.git
 
-linelists: https://github.com/wzmli/ontario_linelist_explore
+XX. linelists: https://github.com/wzmli/ontario_linelist_explore
 
 https://github.com/wzmli/uk_delta ## NOALL
 
