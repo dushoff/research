@@ -58,9 +58,11 @@ canada_vaccine: https://github.com/wzmli/canada_vaccine.git ## NOALL
 
 covid_forecasts: https://github.com/mac-theobio/covid_forecasts
 
-XX. iphis: https://github.com/wzmli/iphis_dat.git
+XX. on_linelist: https://github.com/wzmli/on_linelist.git
 
-XX. linelists: https://github.com/wzmli/ontario_linelist_explore
+iphis: https://github.com/wzmli/iphis_dat.git
+
+oldlinelists: https://github.com/wzmli/ontario_linelist_explore
 
 https://github.com/wzmli/uk_delta ## NOALL
 
@@ -279,6 +281,9 @@ XX. rehouse:  https://github.com/CYGUBICKO/hh-refactor.git
 cygu_comp: https://github.com/CYGUBICKO/comp_exam.git
 
 XX. effects: https://github.com/mac-theobio/effects.git
+
+## Need to know your overleaf username:password or otherwise set the credential
+asymp: https://git.overleaf.com/61636e78cfa79068b4c3a13b
 
 ### 141. cygufuns:  https://github.com/cygubicko/funs.git  ../cygu/funs/
 * Incorporate this by cloning into other repos?
