@@ -201,8 +201,8 @@ interval_data: https://github.com/parksw3/serialdata.git
 ## Reap rewards
 XX. gamma: https://github.com/parksw3/individual_intervention.git
 
-## Quick ? variant stuff
-## With PRSB editors 2021 May 21 (Fri)
+## Quick new variant stuff
+## Rejected PRSB ⇒ JRSI $#@!ed up rejection, appeal
 XX. ssvariant: https://github.com/parksw3/newvariant.git
 
 ## Within- and between-group heterogeneity with Christophe Fraser et al.
