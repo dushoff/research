@@ -282,6 +282,9 @@ cygu_comp: https://github.com/CYGUBICKO/comp_exam.git
 
 XX. effects: https://github.com/mac-theobio/effects.git
 
+## Need to know your overleaf username:password or otherwise set the credential
+asymp: https://git.overleaf.com/61636e78cfa79068b4c3a13b
+
 ### 141. cygufuns:  https://github.com/cygubicko/funs.git  ../cygu/funs/
 * Incorporate this by cloning into other repos?
 * Or should we do parallel again (but with a different name)
