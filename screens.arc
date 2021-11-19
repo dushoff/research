@@ -47,7 +47,11 @@ guelph: https://github.com/wzmli/macpan_canada.git
 MacPan paper and weird stuff from Mike
 base: https://github.com/wzmli/macpan_base.git
 
+## 2021 Nov 19 (Fri) New Mike-bus workflow
+XX. macflow: https://github.com/wzmli/macpan_flow.git
+
 XX. MacOMT: https://github.com/wzmli/MacOMT_report.git
+
 XX. MacOMT/forecast_blog
 
 newforecast: https://github.com/papsti/MacOMT_forecast.git ## NOALL
@@ -58,11 +62,10 @@ canada_vaccine: https://github.com/wzmli/canada_vaccine.git ## NOALL
 
 covid_forecasts: https://github.com/mac-theobio/covid_forecasts
 
-XX. on_linelist: https://github.com/wzmli/on_linelist.git
+XX. iphis: https://github.com/wzmli/iphis_dat.git
 
-iphis: https://github.com/wzmli/iphis_dat.git
-
-oldlinelists: https://github.com/wzmli/ontario_linelist_explore
+## Linking is not currently possible, so this exploration is a dead end
+XX. linelists: https://github.com/wzmli/ontario_linelist_explore
 
 https://github.com/wzmli/uk_delta ## NOALL
 
@@ -281,9 +284,6 @@ XX. rehouse:  https://github.com/CYGUBICKO/hh-refactor.git
 cygu_comp: https://github.com/CYGUBICKO/comp_exam.git
 
 XX. effects: https://github.com/mac-theobio/effects.git
-
-## Need to know your overleaf username:password or otherwise set the credential
-asymp: https://git.overleaf.com/61636e78cfa79068b4c3a13b
 
 ### 141. cygufuns:  https://github.com/cygubicko/funs.git  ../cygu/funs/
 * Incorporate this by cloning into other repos?
