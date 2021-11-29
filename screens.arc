@@ -350,12 +350,14 @@ walker: https://github.com/davidearn/SteveWalker
 
 Stuff not updated by 2020 Dec 03 (Thu) in content.list
 
-----------------------------------------------------------------------
-
-## Archived
-
 Mac dude with good questions about HIV treatment
 intermittent: ##  NOALL
+
+######################################################################
+
+## Omicron
+
+XX. omike: https://github.com/wzmli/mvRt
 
 ## WHO AFRO
 afroData: https://github.com/SACEMA/afroData.git ../coronavirus/afroData/
