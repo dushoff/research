@@ -13,6 +13,8 @@ content.list
 ## POST
 ## DRAFT
 
+XX. omike: https://github.com/wzmli/mvRt
+
 ######################################################################
 
 ## Research sandbox
@@ -350,14 +352,12 @@ walker: https://github.com/davidearn/SteveWalker
 
 Stuff not updated by 2020 Dec 03 (Thu) in content.list
 
+----------------------------------------------------------------------
+
+## Archived
+
 Mac dude with good questions about HIV treatment
 intermittent: ##  NOALL
-
-######################################################################
-
-## Omicron
-
-XX. omike: https://github.com/wzmli/mvRt
 
 ## WHO AFRO
 afroData: https://github.com/SACEMA/afroData.git ../coronavirus/afroData/
@@ -387,7 +387,7 @@ Older RSA
 SACEMA_project:  https://github.com/SACEMA/covidProjections.git  ../coronavirus/SACEMA
 
 ## PP-style Makefile (horrified face)
-reinfections: https://github.com/SACEMA/reinfections.git
+XX. reinfections: https://github.com/SACEMA/reinfections.git
 
 # PNAS response letter
 goldstein: https://github.com/Outbreak-analysis/VaccinationLetter.git
