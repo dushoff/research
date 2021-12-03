@@ -354,8 +354,6 @@ walker: https://github.com/davidearn/SteveWalker
 
 Stuff not updated by 2020 Dec 03 (Thu) in content.list
 
-----------------------------------------------------------------------
-
 ## Archived
 
 Mac dude with good questions about HIV treatment
@@ -389,7 +387,7 @@ Older RSA
 SACEMA_project:  https://github.com/SACEMA/covidProjections.git  ../coronavirus/SACEMA
 
 ## PP-style Makefile (horrified face)
-XX. reinfections: https://github.com/SACEMA/reinfections.git
+XX. reinfections: https://github.com/SACEMA/reinfections.git ## NOALL
 
 # PNAS response letter
 goldstein: https://github.com/Outbreak-analysis/VaccinationLetter.git
