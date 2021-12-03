@@ -15,6 +15,8 @@ content.list
 
 XX. omike: https://github.com/wzmli/mvRt
 
+XX. osac: https://github.com/SACEMA/omicronSA ## NOALL
+
 ######################################################################
 
 ## Research sandbox
