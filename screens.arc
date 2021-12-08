@@ -389,6 +389,8 @@ SACEMA_project:  https://github.com/SACEMA/covidProjections.git  ../coronavirus/
 ## PP-style Makefile (horrified face)
 XX. reinfections: https://github.com/SACEMA/reinfections.git ## NOALL
 
+XX. public_reinf: https://github.com/jrcpulliam/reinfections
+
 # PNAS response letter
 goldstein: https://github.com/Outbreak-analysis/VaccinationLetter.git
 
