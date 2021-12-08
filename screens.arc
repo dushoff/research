@@ -13,17 +13,15 @@ content.list
 ## POST
 ## DRAFT
 
+XX. omike: https://github.com/wzmli/mvRt
+
+XX. osac: https://github.com/SACEMA/omicronSA ## NOALL
+
 ######################################################################
 
 ## Research sandbox
 
 XX. sandbox: https://github.com/dushoff/ResearchSandbox.git
-
-######################################################################
-
-XX. omike: https://github.com/wzmli/mvRt
-
-XX. osac: https://github.com/SACEMA/omicronSA ## NOALL
 
 ######################################################################
 
@@ -391,7 +389,7 @@ SACEMA_project:  https://github.com/SACEMA/covidProjections.git  ../coronavirus/
 ## PP-style Makefile (horrified face)
 XX. reinfections: https://github.com/SACEMA/reinfections.git ## NOALL
 
-XX. public_reinf: https://github.com/jrcpulliam/reinfections
+XX. public_reinf: https://github.com/jrcpulliam/reinfections ## NOALL
 
 # PNAS response letter
 goldstein: https://github.com/Outbreak-analysis/VaccinationLetter.git
