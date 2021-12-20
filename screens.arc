@@ -21,6 +21,8 @@ XX. sandbox: https://github.com/dushoff/ResearchSandbox.git
 
 XX. omike: https://github.com/wzmli/mvRt
 
+XX. omsa: https://github.com/mac-theobio/RSAomicron
+
 XX. osac: https://github.com/SACEMA/omicronSA ## NOALL
 
 ######################################################################
