@@ -180,15 +180,15 @@ Submitted PNAS 2020 Jun 05 (Fri)
 Reviews not-too-bad 12 Jul
 https://doi.org/10.1073/pnas.2011548118
 
-XX. cereal: https://github.com/parksw3/serial2.git
-New drafty Rt stuff cloned 2020 Jul 01 (Wed) after a Lipsitch “scoop”
-
 ## OUT
 exponential_framework:  https://github.com/parksw3/wuhan.git ../outbreak/park
 * Resubmitted JRSI 12 May 2020
 * Provisionally accepted 18 Jun
 * Accepted 2020 Jun 29 (Mon)
 * https://royalsocietypublishing.org/doi/10.1098/rsif.2020.0144
+
+XX. cereal: https://github.com/parksw3/serial2.git
+New drafty Rt stuff cloned 2020 Jul 01 (Wed) after a Lipsitch “scoop”
 
 ## R-Packaging some of the generation stufff
 XX. rRlinks: https://github.com/mac-theobio/rRlinks.git
@@ -215,6 +215,8 @@ XX. gamma: https://github.com/parksw3/individual_intervention.git
 ## Quick new variant stuff
 ## Rejected PRSB ⇒ JRSI $#@!ed up rejection, appeal
 XX. ssvariant: https://github.com/parksw3/newvariant.git
+
+XX. status: https://github.com/parksw3/immune-boosting
 
 ## Within- and between-group heterogeneity with Christophe Fraser et al.
 ## norepoyetshared
