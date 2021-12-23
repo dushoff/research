@@ -109,11 +109,8 @@ Weitz/Harris:
 
 ## Roswell
 
-Todo:
-
-https://docs.google.com/document/d/1cqjKMvk4qV1paSwkiRnCRZldU1fuPBvlmJlZQvlhDjo/edit?ts=60240871
-
-Rarity
+Todo list:
+* https://docs.google.com/document/d/1cqjKMvk4qV1paSwkiRnCRZldU1fuPBvlmJlZQvlhDjo/edit?ts=60240871
 
 ## Going to be a package
 XX. checkPlots:  https://github.com/dushoff/checkPlots.git  ../projects/checkPlots/
