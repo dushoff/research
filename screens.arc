@@ -30,7 +30,11 @@ XX. osac: https://github.com/SACEMA/omicronSA ## NOALL
 ## Covid forecasts
 
 XX. macpan:  https://github.com/bbolker/McMasterPandemic.git ../coronavirus/mac/
-XX. macpan/notes
+macpan/notes ## This is inaesthetic
+macpan/ontario ## This is inaesthetic
+## The two Dushoff subdirs each make their own cachestuff; also, what's the relationship with macpan_ontario?
+## Something about public vs. secret data
+## Refactor all of this or suppress before starting next computer
 
 state:  https://github.com/bbolker/NYScovid19.git ../coronavirus/state/
 
@@ -68,10 +72,10 @@ canada_vaccine: https://github.com/wzmli/canada_vaccine.git ## NOALL
 
 covid_forecasts: https://github.com/mac-theobio/covid_forecasts
 
-XX. iphis: https://github.com/wzmli/iphis_dat.git
+iphis: https://github.com/wzmli/iphis_dat.git ## Giant archive
 
 ## Linking is not currently possible, so this exploration is a dead end
-XX. linelists: https://github.com/wzmli/ontario_linelist_explore
+## linelists: https://github.com/wzmli/ontario_linelist_explore
 
 https://github.com/wzmli/uk_delta ## NOALL
 
@@ -268,7 +272,7 @@ XX. awareness_proposal: https://github.com/covid19awareness/CIHR_call.git
 
 ### pre-covid
 
-XX. fgc: https://github.com/fishforwish/fgc.git
+fgc: https://github.com/fishforwish/fgc.git ## This has a corrupted submodule structure
 
 ######################################################################
 
