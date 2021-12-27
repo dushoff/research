@@ -77,7 +77,7 @@ iphis: https://github.com/wzmli/iphis_dat.git ## Giant archive
 ## Linking is not currently possible, so this exploration is a dead end
 linelists: https://github.com/wzmli/ontario_linelist_explore
 
-https://github.com/wzmli/uk_delta ## NOALL
+## https://github.com/wzmli/uk_delta ## NOALL
 
 expandify: https://github.com/papsti/macpan_expandify_ms ## NOALL
 
