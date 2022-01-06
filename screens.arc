@@ -25,6 +25,8 @@ XX. omsa: https://github.com/mac-theobio/RSAomicron
 
 XX. osac: https://github.com/SACEMA/omicronSA ## NOALL
 
+XX. tmbfits: https://github.com/wzmli/covid_2022
+
 ######################################################################
 
 ## Covid forecasts
