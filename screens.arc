@@ -444,3 +444,9 @@ huynh: https://github.com/huynhm7/MDD-Thesis.git
 ######################################################################
 
 SIRtest: https://github.com/aligharouni/SIRmodel.git
+
+######################################################################
+
+## Fadeouts (Earn invasion project)
+
+https://github.com/davidearn/fadeout-heuristic.git
