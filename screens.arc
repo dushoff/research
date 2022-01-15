@@ -42,6 +42,10 @@ state:  https://github.com/bbolker/NYScovid19.git ../coronavirus/state/
 
 ######################################################################
 
+## Covid data
+
+XX. corrections: https://github.com/wzmli/correct_testing.git
+
 XX. Canada:  https://github.com/wzmli/COVID19-Canada.git ../coronavirus/Canada/ Mike's Canadian data
 
 XX. table:  https://github.com/davidearn/OntarioModellingTable.git  ../coronavirus/table/
