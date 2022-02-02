@@ -27,6 +27,8 @@ XX. osac: https://github.com/SACEMA/omicronSA ## NOALL
 
 XX. tmbfits: https://github.com/wzmli/covid_2022
 
+XX. ukcovid: https://github.com/wzmli/ukcovid.git
+
 ######################################################################
 
 ## Covid forecasts
