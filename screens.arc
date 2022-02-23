@@ -293,7 +293,9 @@ cache documentation and implementation
 Cox stuff for JSS with Ben
 XX. tvsurvive: https://github.com/CYGUBICKO/pcoxtime.git
 
-XX. tvsurvive/jss-article-tex
+tvsurvive/jss-article-tex
+
+XX. proview:  https://github.com/CYGUBICKO/proview.git
 
 XX. rehouse:  https://github.com/CYGUBICKO/hh-refactor.git
 XX. rehouse/simulation
