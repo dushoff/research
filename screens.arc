@@ -19,11 +19,15 @@ XX. sandbox: https://github.com/dushoff/ResearchSandbox.git
 
 ######################################################################
 
-XX. omike: https://github.com/wzmli/mvRt
+## Earlier version of omsa
+omike: https://github.com/wzmli/mvRt
 
 XX. omsa: https://github.com/mac-theobio/RSAomicron
 
 XX. osac: https://github.com/SACEMA/omicronSA ## NOALL
+
+## Branched version of osac
+XX. saco: https://github.com/SACEMA/omicronSA ## NOALL
 
 XX. tmbfits: https://github.com/wzmli/covid_2022
 
