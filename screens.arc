@@ -31,8 +31,6 @@ XX. saco: https://github.com/SACEMA/omicronSA ## NOALL
 
 XX. sacco: https://github.com/SACEMA/omicronSA ## NOALL
 
-
-
 XX. tmbfits: https://github.com/wzmli/covid_2022
 
 XX. ukcovid: https://github.com/wzmli/ukcovid.git
@@ -460,7 +458,7 @@ huynh: https://github.com/huynhm7/MDD-Thesis.git
 
 ######################################################################
 
-SIRtest: https://github.com/aligharouni/SIRmodel.git
+XX. SIRtest: https://github.com/aligharouni/SIRmodel.git
 
 ######################################################################
 
