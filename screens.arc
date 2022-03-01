@@ -233,6 +233,8 @@ XX. ssvariant: https://github.com/parksw3/newvariant.git
 
 XX. status: https://github.com/parksw3/immune-boosting
 
+XX. omicron_gens: https://github.com/parksw3/omicron-generation.git
+
 ## Within- and between-group heterogeneity with Christophe Fraser et al.
 ## norepoyetshared
 
