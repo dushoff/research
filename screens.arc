@@ -19,8 +19,7 @@ XX. sandbox: https://github.com/dushoff/ResearchSandbox.git
 
 ######################################################################
 
-## Earlier version of omsa
-omike: https://github.com/wzmli/mvRt
+XX. omike: https://github.com/wzmli/mvRt
 
 XX. omsa: https://github.com/mac-theobio/RSAomicron
 
@@ -312,6 +311,7 @@ XX. rehouse/simulation
 cygu_comp: https://github.com/CYGUBICKO/comp_exam.git
 
 XX. effects: https://github.com/mac-theobio/effects.git
+XX. effects/manuscript: 
 
 ### 141. cygufuns:  https://github.com/cygubicko/funs.git  ../cygu/funs/
 * Incorporate this by cloning into other repos?
