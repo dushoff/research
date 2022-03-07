@@ -10,6 +10,22 @@ vim_session:
 
 ######################################################################
 
+Sources += $(wildcard *.R *.tex)
+
+autopipeR = defined
+
+omicron-generation.pdf: omicron-generation.tex
+
+fscripts=$(wildcard figure*.R)
+
+fscripts = figure_compare.R figure_epidemic.R figure_incubation.R figure_reproduction_advantage_between.R figure_reproduction_advantage.R
+
+figures: $(fscripts:%.R=%.Rout)
+
+figure_compare.Rout: figure_compare.R
+
+######################################################################
+
 ### Makestuff
 
 ## Sources += $(wildcard *.mk)
@@ -25,7 +41,8 @@ makestuff/Makefile:
 
 -include makestuff/os.mk
 
-## -include makestuff/pipeR.mk
+-include makestuff/pipeR.mk
+-include makestuff/texi.mk
 
 -include makestuff/git.mk
 -include makestuff/visual.mk
