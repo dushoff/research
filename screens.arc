@@ -40,18 +40,21 @@ XX. ukcovid: https://github.com/wzmli/ukcovid.git
 
 XX. macpan:  https://github.com/bbolker/McMasterPandemic.git ../coronavirus/mac/
 macpan/notes ## This is inaesthetic
-macpan/ontario ## This is inaesthetic
+macpan/ontario ## 
 ## The two Dushoff subdirs each make their own cachestuff; also, what's the relationship with macpan_ontario?
 ## Something about public vs. secret data
 ## Refactor all of this or suppress before starting next computer
 
 state:  https://github.com/bbolker/NYScovid19.git ../coronavirus/state/
 
+TMB transition
+XX. on_mptmb https://github.com/wzmli/on_mptmb.git
+
 ######################################################################
 
 ## Covid data
 
-XX. corrections: https://github.com/wzmli/correct_testing.git
+corrections: https://github.com/wzmli/correct_testing.git
 
 XX. Canada:  https://github.com/wzmli/COVID19-Canada.git ../coronavirus/Canada/ Mike's Canadian data
 
