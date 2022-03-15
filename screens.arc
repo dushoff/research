@@ -48,7 +48,7 @@ macpan/ontario ##
 state:  https://github.com/bbolker/NYScovid19.git ../coronavirus/state/
 
 TMB transition
-XX. on_mptmb https://github.com/wzmli/on_mptmb.git
+XX. on_mptmb: https://github.com/wzmli/on_mptmb.git
 
 ######################################################################
 
