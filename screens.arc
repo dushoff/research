@@ -142,8 +142,8 @@ CheckDiv:  https://github.com/mikeroswell/CheckDiv.git ## NOALL
 ## Should be submitted soon-ish to MEE or JSS
 XX. rarity: https://github.com/mikeroswell/MeanRarity.git
 
-## IN PRESS!
-## Diversity_Guide: https://github.com/mikeroswell/Diversity_Guide.git
+## Published
+Diversity_Guide: https://github.com/mikeroswell/Diversity_Guide.git
 MS:
 * https://docs.google.com/document/d/1JAMNZmy2OgUrLdng9L0888bAvKO6AabhtU0e_QSFRaw/edit
 * ~/Downloads/OikosR1.pdf
@@ -151,9 +151,10 @@ MS:
 * R2R
 * https://docs.google.com/document/d/10UEzTAe8rlAFHD7ojoPO0GGZPh00QKF6BKNmXeURwOk/edit
 
-## Deprecated
-diversity:  https://github.com/dushoff/diversity_metrics.git  ../projects/diversity_metrics/ # NOALL
+## Deprecated (do not clone; it's insanely huge)
+usedtobediversity:  https://github.com/dushoff/diversity_metrics.git  ../projects/diversity_metrics/ # NOALL
 ## Subsumed (AFAIK)
+
 * http://dushoff.github.io/notebook/diversity.html
 
 ######################################################################
