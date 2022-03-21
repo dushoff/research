@@ -470,4 +470,4 @@ XX. SIRtest: https://github.com/aligharouni/SIRmodel.git
 
 ## Fadeouts (Earn invasion project)
 
-https://github.com/davidearn/fadeout-heuristic.git
+XX. fadeouts: https://github.com/davidearn/fadeout-heuristic.git
