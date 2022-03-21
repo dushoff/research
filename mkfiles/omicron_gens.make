@@ -18,7 +18,7 @@ omicron-generation.pdf: omicron-generation.tex
 
 fscripts=$(wildcard figure*.R)
 
-fscripts = figure_compare.R figure_epidemic.R figure_incubation.R figure_reproduction_advantage_between.R figure_reproduction_advantage.R figure_compare_r_0.R figure_compare_rho.R
+fscripts = figure_compare.R figure_epidemic.R figure_incubation.R figure_reproduction_advantage_between.R figure_reproduction_advantage.R figure_compare_r_0.R figure_compare_rho.R figure_compare_main.R figure_diagram.R figure_compare_stratified.R
 
 figures: $(fscripts:%.R=%.Rout)
 
