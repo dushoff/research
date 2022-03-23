@@ -317,6 +317,9 @@ cygu_comp: https://github.com/CYGUBICKO/comp_exam.git
 XX. effects: https://github.com/mac-theobio/effects.git
 XX. effects/manuscript: 
 
+Nothing here yet!
+Orthogonality: https://github.com/mac-theobio/Orthogonality
+
 ### 141. cygufuns:  https://github.com/cygubicko/funs.git  ../cygu/funs/
 * Incorporate this by cloning into other repos?
 * Or should we do parallel again (but with a different name)
@@ -471,3 +474,5 @@ XX. SIRtest: https://github.com/aligharouni/SIRmodel.git
 ## Fadeouts (Earn invasion project)
 
 fadeouts: https://github.com/davidearn/fadeout-heuristic.git
+
+
