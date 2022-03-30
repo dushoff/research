@@ -151,6 +151,9 @@ MS:
 * R2R
 * https://docs.google.com/document/d/10UEzTAe8rlAFHD7ojoPO0GGZPh00QKF6BKNmXeURwOk/edit
 
+## Not invited!!
+ratioScales: https://github.com/mikeroswell/ratioScales.git
+
 ## Deprecated (do not clone; it's insanely huge)
 usedtobediversity:  https://github.com/dushoff/diversity_metrics.git  ../projects/diversity_metrics/ # NOALL
 ## Subsumed (AFAIK)
@@ -473,6 +476,7 @@ XX. SIRtest: https://github.com/aligharouni/SIRmodel.git
 
 ## Fadeouts (Earn invasion project)
 
-fadeouts: https://github.com/davidearn/fadeout-heuristic.git
+XX. fadeouts: https://github.com/davidearn/fadeout-heuristic.git
+
 
 
