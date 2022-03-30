@@ -25,11 +25,6 @@ XX. omsa: https://github.com/mac-theobio/RSAomicron
 
 XX. osac: https://github.com/SACEMA/omicronSA ## NOALL
 
-## Branched version of osac
-XX. saco: https://github.com/SACEMA/omicronSA ## NOALL
-
-XX. sacco: https://github.com/SACEMA/omicronSA ## NOALL
-
 XX. tmbfits: https://github.com/wzmli/covid_2022
 
 XX. ukcovid: https://github.com/wzmli/ukcovid.git
@@ -474,7 +469,5 @@ XX. SIRtest: https://github.com/aligharouni/SIRmodel.git
 ## Fadeouts (Earn invasion project)
 
 fadeouts: https://github.com/davidearn/fadeout-heuristic.git
-
-XX. harrisAsymp: https://github.com/dushoff/asymptomatic-spread-ms-revise-6.git
 
 
