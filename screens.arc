@@ -475,4 +475,6 @@ XX. SIRtest: https://github.com/aligharouni/SIRmodel.git
 
 fadeouts: https://github.com/davidearn/fadeout-heuristic.git
 
+XX. harrisAsymp: https://github.com/dushoff/asymptomatic-spread-ms-revise-6.git
+
 
