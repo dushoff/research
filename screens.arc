@@ -25,6 +25,11 @@ XX. omsa: https://github.com/mac-theobio/RSAomicron
 
 XX. osac: https://github.com/SACEMA/omicronSA ## NOALL
 
+## Branched version of osac
+XX. saco: https://github.com/SACEMA/omicronSA ## NOALL
+
+XX. sacco: https://github.com/SACEMA/omicronSA ## NOALL
+
 XX. tmbfits: https://github.com/wzmli/covid_2022
 
 XX. ukcovid: https://github.com/wzmli/ukcovid.git
@@ -147,7 +152,7 @@ MS:
 * https://docs.google.com/document/d/10UEzTAe8rlAFHD7ojoPO0GGZPh00QKF6BKNmXeURwOk/edit
 
 ## Not invited!!
-ratioScales: https://github.com/mikeroswell/ratioScales.git
+XX. ratioScales: https://github.com/mikeroswell/ratioScales.git
 
 ## Deprecated (do not clone; it's insanely huge)
 usedtobediversity:  https://github.com/dushoff/diversity_metrics.git  ../projects/diversity_metrics/ # NOALL
