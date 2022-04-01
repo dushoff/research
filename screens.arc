@@ -151,7 +151,6 @@ MS:
 * R2R
 * https://docs.google.com/document/d/10UEzTAe8rlAFHD7ojoPO0GGZPh00QKF6BKNmXeURwOk/edit
 
-## Not invited!!
 XX. ratioScales: https://github.com/mikeroswell/ratioScales.git
 
 ## Deprecated (do not clone; it's insanely huge)

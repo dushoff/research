@@ -10,6 +10,12 @@ vim_session:
 
 ######################################################################
 
+## Fucked up again!! Check before trying
+vignettes/Ratio_scales_and_centinels.html: vignettes/Ratio_scales_and_centinels.Rmd
+	$(rmdh_r)
+
+######################################################################
+
 ### Makestuff
 
 ## Sources += $(wildcard *.mk)
@@ -27,6 +33,8 @@ makestuff/Makefile:
 
 ## -include makestuff/pipeR.mk
 
+-include makestuff/rpkg.mk
+-include makestuff/rmd.mk
 -include makestuff/git.mk
 -include makestuff/visual.mk
 -include makestuff/projdir.mk
