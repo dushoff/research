@@ -477,5 +477,3 @@ XX. SIRtest: https://github.com/aligharouni/SIRmodel.git
 
 XX. fadeouts: https://github.com/davidearn/fadeout-heuristic.git
 
-
-
