@@ -24,6 +24,8 @@ main_asympspread_udpate021622.tex.pdf: main_asympspread_udpate021622.tex
 
 main_asympspread_udpate021622.pdf: main_asympspread_udpate021622.tex
 
+Ignore += *.dvi
+
 ### Makestuff
 
 ## Sources += $(wildcard *.mk)

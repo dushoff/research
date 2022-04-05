@@ -124,6 +124,7 @@ Weitz/Harris:
 * Changes through time with intervention
 * Then add age structure
 
+XX. harrisAsymp: https://github.com/dushoff/asymptomatic-spread-ms-revise-6.git
 
 ######################################################################
 
@@ -477,3 +478,6 @@ XX. SIRtest: https://github.com/aligharouni/SIRmodel.git
 
 ######################################################################
 
+Archivy stuff
+
+XX. stochChapter: https://github.com/dushoff/Stochasticity_chapter.git
