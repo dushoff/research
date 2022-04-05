@@ -360,6 +360,10 @@ plague_growth: https://github.com/davidearn/plague_growth.git
 ## devel branch, Makefile, ...
 epigrowthfit: https://github.com/davidearn/epigrowthfit.git ## NOALL
 
+## Fadeouts (Old invasion project)
+
+XX. fadeouts: https://github.com/davidearn/fadeout-heuristic.git
+
 ## Old, messy repo
 plague: https://github.com/davidearn/plague.git ## NOALL
 
@@ -472,8 +476,4 @@ huynh: https://github.com/huynhm7/MDD-Thesis.git
 XX. SIRtest: https://github.com/aligharouni/SIRmodel.git
 
 ######################################################################
-
-## Fadeouts (Earn invasion project)
-
-XX. fadeouts: https://github.com/davidearn/fadeout-heuristic.git
 
