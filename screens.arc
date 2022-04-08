@@ -361,6 +361,9 @@ plague_growth: https://github.com/davidearn/plague_growth.git
 ## devel branch, Makefile, ...
 epigrowthfit: https://github.com/davidearn/epigrowthfit.git ## NOALL
 
+## App
+egf_extra: 1. stochChapter: https://github.com/dushoff/egf_extra.git
+
 ## Fadeouts (Old invasion project)
 
 XX. fadeouts: https://github.com/davidearn/fadeout-heuristic.git
