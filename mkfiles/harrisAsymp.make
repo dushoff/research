@@ -1,6 +1,4 @@
 ## This is a _linked_ (mkfile) Makefile for harrisAsymp
-## https://www.overleaf.com/project/622a373c3c3682e6ab58afd6
-## https://github.com/dushoff/asymptomatic-spread-ms-revise-6.git
 ## resources/overleaf_ms.pdf
 
 current: target
@@ -21,7 +19,6 @@ resources:
 Sources += $(wildcard *.tex)
 ## main_asympspread_udpate021622.tex.log
 main_asympspread_udpate021622.tex.pdf: main_asympspread_udpate021622.tex
-
 main_asympspread_udpate021622.pdf: main_asympspread_udpate021622.tex
 
 Ignore += *.dvi

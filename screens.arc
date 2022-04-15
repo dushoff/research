@@ -124,7 +124,8 @@ Weitz/Harris:
 * Changes through time with intervention
 * Then add age structure
 
-XX. harrisAsymp: https://github.com/dushoff/asymptomatic-spread-ms-revise-6.git
+XX. harrisAsymp: https://git.overleaf.com/62582a90b1ccb334db127cc2
+* https://github.com/dushoff/asymptomatic-spread-ms-revise-6.git
 
 ######################################################################
 
