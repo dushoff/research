@@ -204,33 +204,22 @@ https://doi.org/10.1073/pnas.2011548118
 
 ## OUT
 exponential_framework:  https://github.com/parksw3/wuhan.git ../outbreak/park
+* Resubmitted JRSI 12 May 2020
+* Provisionally accepted 18 Jun
+* Accepted 2020 Jun 29 (Mon)
 * https://royalsocietypublishing.org/doi/10.1098/rsif.2020.0144
-
-## Speed and strength
-## REVISE in re-re-review for JRSI 2022 Mar 21 (Mon)
-XX. speed_public:  https://github.com/mac-theobio/Speed_and_strength
-XX. speed_public/code
-speedstrength:  https://github.com/parksw3/speedstrength.git  ../park/speed/
-
-######################################################################
-
-## Current (read gamma)
-
-XX. omicron_gens: https://github.com/parksw3/omicron-generation.git
-
-## Daniel and Sunky's individual/population speed/strength stuff
-## Invite co-authors (David, Ben, Sunky, Bryan, Joshua, Jess?, Funk?)
-## Submit to JRSI
-## Reap rewards
-XX. gamma: https://github.com/parksw3/individual_intervention.git
-
-XX. status: https://github.com/parksw3/immune-boosting
 
 XX. cereal: https://github.com/parksw3/serial2.git
 New drafty Rt stuff cloned 2020 Jul 01 (Wed) after a Lipsitch “scoop”
 
 ## R-Packaging some of the generation stufff
 XX. rRlinks: https://github.com/mac-theobio/rRlinks.git
+
+## Speed and strength
+## RETURNED 2022 Apr 13 (Wed)
+XX. speed_public:  https://github.com/mac-theobio/Speed_and_strength
+XX. speed_public/code
+speedstrength:  https://github.com/parksw3/speedstrength.git  ../park/speed/
 
 Korea:  https://github.com/parksw3/Korea-analysis.git  ../outbreak/Korea/
 * Accepted EID 2020 Aug 04 (Tue)
@@ -239,9 +228,20 @@ Korea:  https://github.com/parksw3/Korea-analysis.git  ../outbreak/Korea/
 ## Look at Table*xl* and serial*.R ## outdated? 2021 Jul 01 (Thu)
 interval_data: https://github.com/parksw3/serialdata.git
 
+## Daniel and Sunky's individual/population speed/strength stuff
+## Invite co-authors (David, Ben, Sunky, Bryan, Joshua, Jess?, Funk?)
+## Submit to JRSI
+## Reap rewards
+XX. gamma: https://github.com/parksw3/individual_intervention.git
+
 ## Quick new variant stuff
 ## Rejected PRSB ⇒ JRSI $#@!ed up rejection, appeal
+## IN review
 XX. ssvariant: https://github.com/parksw3/newvariant.git
+
+XX. status: https://github.com/parksw3/immune-boosting
+
+XX. omicron_gens: https://github.com/parksw3/omicron-generation.git
 
 ## Within- and between-group heterogeneity with Christophe Fraser et al.
 ## norepoyetshared
