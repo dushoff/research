@@ -11,17 +11,25 @@ vim_session:
 
 ######################################################################
 
-Makefile: | resources
-Ignore += resources
-resources:
-	/bin/ln -s ~/Dropbox/HarrisAsymp $@
-
 Sources += $(wildcard *.tex)
 ## main_asympspread_udpate021622.tex.log
 main_asympspread_udpate021622.tex.pdf: main_asympspread_udpate021622.tex
 main_asympspread_udpate021622.pdf: main_asympspread_udpate021622.tex
 
-Ignore += *.dvi
+Sources += library.bib
+
+######################################################################
+
+## Earlier versions used epstopdf on the fly and so I needed the stuff below.
+
+Makefile: | resources
+Ignore += resources
+resources:
+	/bin/ln -s ~/Dropbox/HarrisAsymp $@
+
+## Ignore += *.dvi
+
+######################################################################
 
 ### Makestuff
 
