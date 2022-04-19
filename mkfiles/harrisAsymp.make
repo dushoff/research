@@ -11,12 +11,17 @@ vim_session:
 
 ######################################################################
 
-Sources += $(wildcard *.tex)
+Sources += $(main_asympspread_udpate021622 *.tex)
 ## main_asympspread_udpate021622.tex.log
 main_asympspread_udpate021622.tex.pdf: main_asympspread_udpate021622.tex
 main_asympspread_udpate021622.pdf: main_asympspread_udpate021622.tex
 
 Sources += library.bib
+
+######################################################################
+
+Ignore += comp.tex
+comp.pdf: comp.tex
 
 ######################################################################
 
