@@ -24,6 +24,9 @@ figures: $(fscripts:%.R=%.Rout)
 
 figure_compare.Rout: figure_compare.R
 
+## R/ necessary functions (like for a package)
+## data/ 
+
 ######################################################################
 
 ### Makestuff
