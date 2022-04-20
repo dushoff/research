@@ -11,10 +11,13 @@ vim_session:
 
 ######################################################################
 
-Sources += $(main_asympspread_udpate021622 *.tex)
+## main_asympspread_udpate021622.tex.68a0186e8.oldfile:
+Sources += main_asympspread_udpate021622.tex
 ## main_asympspread_udpate021622.tex.log
 main_asympspread_udpate021622.tex.pdf: main_asympspread_udpate021622.tex
 main_asympspread_udpate021622.pdf: main_asympspread_udpate021622.tex
+
+## main_asympspread_udpate021622.ld.pdf: main_asympspread_udpate021622.tex
 
 Sources += library.bib
 
