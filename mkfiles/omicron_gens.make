@@ -12,9 +12,11 @@ vim_session:
 
 Sources += $(wildcard *.R *.tex)
 
-autopipeR = defined
+doc/omicron-generation.pdf: doc/omicron-generation.tex
 
-omicron-generation.pdf: omicron-generation.tex
+######################################################################
+
+autopipeR = defined
 
 fscripts=$(wildcard figure*.R)
 
@@ -23,9 +25,6 @@ fscripts = figure_compare.R figure_epidemic.R figure_incubation.R figure_reprodu
 figures: $(fscripts:%.R=%.Rout)
 
 figure_compare.Rout: figure_compare.R
-
-## R/ necessary functions (like for a package)
-## data/ 
 
 ######################################################################
 
