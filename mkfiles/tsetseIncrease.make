@@ -15,7 +15,7 @@ Sources += $(wildcard GrowthRateMS/*.tex GrowthRateMS/*.bib)
 Ignore += ms.pdf
 ms.pdf: GrowthRateMS/AveragingGrowthRate.tex
 	cd $(dir $<) && texi2pdf $(notdir $<)
-	$(CP) $(basename $<).pdf $@
+	$(MV) $(basename $<).pdf $@
 
 ######################################################################
 
