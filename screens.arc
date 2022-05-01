@@ -487,6 +487,8 @@ huynh: https://github.com/huynhm7/MDD-Thesis.git
 
 XX. SIRtest: https://github.com/aligharouni/SIRmodel.git
 
+XX. SIRpublic: https://github.com/mac-theobio/SIR_testing_model.git
+
 ######################################################################
 
 Archivy stuff
