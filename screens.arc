@@ -318,6 +318,7 @@ XX. tvsurvive: https://github.com/CYGUBICKO/pcoxtime.git
 tvsurvive/jss-article-tex
 
 XX. proview:  https://github.com/CYGUBICKO/proview.git
+XX. proview/manuscript
 
 XX. rehouse:  https://github.com/CYGUBICKO/hh-refactor.git
 XX. rehouse/simulation
