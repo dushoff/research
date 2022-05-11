@@ -133,6 +133,12 @@ harris7: https://git.overleaf.com/62582a90b1ccb334db127cc2
 harris6: https://github.com/dushoff/asymptomatic-spread-ms-revise-6.git
 harris5: https://git.overleaf.com/622a373c3c3682e6ab58afd6
 
+
+######################################################################
+## Paris 2022
+
+apeak: https://git.overleaf.com/627b89d8c687175fcbfd0fbb
+
 ######################################################################
 
 ## Roswell
