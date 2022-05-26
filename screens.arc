@@ -231,8 +231,8 @@ XX. rRlinks: https://github.com/mac-theobio/rRlinks.git
 
 ## Speed and strength
 ## RETURNED 2022 Apr 13 (Wed)
-XX. speed_public:  https://github.com/mac-theobio/Speed_and_strength
-XX. speed_public/code
+speed_public:  https://github.com/mac-theobio/Speed_and_strength
+speed_public/code
 speedstrength:  https://github.com/parksw3/speedstrength.git  ../park/speed/
 
 Korea:  https://github.com/parksw3/Korea-analysis.git  ../outbreak/Korea/
