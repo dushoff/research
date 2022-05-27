@@ -112,6 +112,10 @@ epi_cohort: https://github.com/aligharouni/epi_cohort.git
 
 ######################################################################
 
+## POX
+
+poxli: https://github.com/wzmli/macpan_mpx
+
 Weitz plateaus very Weitz-ish
 plateaus: https://github.com/jsweitz/covid19-git-plateaus.git
 * 2020 May 21 (Thu): submitted to PNAS
@@ -257,6 +261,8 @@ XX. status: https://github.com/parksw3/immune-boosting
 
 XX. omicron_gens: https://github.com/parksw3/omicron-generation.git
 
+shmomicron_gens: https://github.com/parksw3/omicron-generation.git
+
 ## Within- and between-group heterogeneity with Christophe Fraser et al.
 ## norepoyetshared
 
@@ -296,9 +302,9 @@ XX. awareness:  https://github.com/covid19awareness/Survey.git  ../coronavirus/s
 This was the github.io page, but C. may still be doing stuff here?
 websurvey:  https://github.com/covid19awareness/covid19awareness.github.io.git  ../coronavirus/websurvey/
 
-XX. youtube: https://github.com/covid19awareness/YouTube.git
-XX. youtube/rfigs:
-XX. youtube/drive_loading/
+youtube: https://github.com/covid19awareness/YouTube.git
+youtube/rfigs:
+youtube/drive_loading/
 
 misinformation: https://github.com/covid19awareness/misinformation
 
