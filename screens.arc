@@ -141,7 +141,7 @@ harris5: https://git.overleaf.com/622a373c3c3682e6ab58afd6
 ######################################################################
 ## Paris 2022
 
-XX. apeak: https://git.overleaf.com/627b89d8c687175fcbfd0fbb
+apeak: https://git.overleaf.com/627b89d8c687175fcbfd0fbb
 
 XX. avar: https://github.com/parksw3/asymptomaticvariant.git 
 
