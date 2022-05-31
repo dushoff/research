@@ -260,8 +260,7 @@ XX. ssvariant: https://github.com/parksw3/newvariant.git
 XX. status: https://github.com/parksw3/immune-boosting
 
 XX. omicron_gens: https://github.com/parksw3/omicron-generation.git
-
-shmomicron_gens: https://github.com/parksw3/omicron-generation.git
+## mv omicron_gens shmomicron_gens ##
 
 ## Within- and between-group heterogeneity with Christophe Fraser et al.
 ## norepoyetshared
@@ -321,6 +320,8 @@ fgc: https://github.com/fishforwish/fgc.git ## This has a corrupted submodule st
 ######################################################################
 
 ## Bicko Cygu
+
+XX. bicko: https://github.com/CYGUBICKO/thesis.git
 
 Bolker about structure for things like read.dta and read.xlsx
 
