@@ -114,7 +114,7 @@ epi_cohort: https://github.com/aligharouni/epi_cohort.git
 
 ## POX
 
-poxli: https://github.com/wzmli/macpan_mpx
+XX. poxli: https://github.com/wzmli/macpan_mpx
 
 Weitz plateaus very Weitz-ish
 plateaus: https://github.com/jsweitz/covid19-git-plateaus.git
@@ -141,8 +141,10 @@ harris5: https://git.overleaf.com/622a373c3c3682e6ab58afd6
 ######################################################################
 ## Paris 2022
 
+## Weitz overleaf
 apeak: https://git.overleaf.com/627b89d8c687175fcbfd0fbb
 
+## Park github
 XX. avar: https://github.com/parksw3/asymptomaticvariant.git 
 
 ######################################################################
