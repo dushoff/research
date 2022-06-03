@@ -102,16 +102,6 @@ wwdata: https://github.com/mac-theobio/wwdata
 
 ######################################################################
 
-## Other mac-cov
-
-## Ali
-
-SIRtest also includes SIRtest/cohort* -- stuff about merging vDDw with speedstrength. Ali to move.
-
-epi_cohort: https://github.com/aligharouni/epi_cohort.git
-
-######################################################################
-
 ## POX
 
 XX. poxli: https://github.com/wzmli/macpan_mpx
@@ -204,7 +194,7 @@ dates: https://github.com/mac-theobio/dateProcessing.git ## NOALL
 
 ######################################################################
 
-polarization:  https://github.com/dushoff/polarization.git  ../projects/polarization/
+polarization:  https://github.com/dushoff/polarization.git
 
 ######################################################################
 
@@ -356,6 +346,10 @@ Orthogonality: https://github.com/mac-theobio/Orthogonality
 
 ######################################################################
 
+### Sana
+
+######################################################################
+
 ### Elisha
 Mummies:  https://github.com/ElishaBayode/Babies_mummies_growth_rates_MS.git  ../projects/Mummies/
 Mummies/ms
@@ -504,9 +498,13 @@ huynh: https://github.com/huynhm7/MDD-Thesis.git
 
 ######################################################################
 
-XX. SIRtest: https://github.com/aligharouni/SIRmodel.git
+## Ali
 
-XX. SIRpublic: https://github.com/mac-theobio/SIR_testing_model.git
+SIRtest: https://github.com/aligharouni/SIRmodel.git
+
+SIRpublic: https://github.com/mac-theobio/SIR_testing_model.git
+
+epi_cohort: https://github.com/aligharouni/epi_cohort.git
 
 ######################################################################
 
