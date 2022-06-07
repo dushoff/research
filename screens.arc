@@ -34,6 +34,9 @@ XX. tmbfits: https://github.com/wzmli/covid_2022
 
 XX. ukcovid: https://github.com/wzmli/ukcovid.git
 
+## Something old! Mike accidentally thought he wanted it 2022 Jun 07 (Tue)
+corona: https://github.com/wzmli/corona.git 
+
 ######################################################################
 
 ## Covid forecasts
