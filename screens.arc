@@ -48,6 +48,8 @@ macpan/ontario ##
 ## Something about public vs. secret data
 ## Refactor all of this or suppress before starting next computer
 
+XX. macPlan: https://github.com/mac-theobio/macpan_planning.git
+
 state:  https://github.com/bbolker/NYScovid19.git ../coronavirus/state/
 
 TMB transition

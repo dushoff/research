@@ -1,4 +1,4 @@
-## This is a _linked_ (mkfile) Makefile for …
+## This is a _linked_ (mkfile) Makefile for ratio scales (Roswell package)
 
 current: target
 -include target.mk
@@ -12,6 +12,9 @@ vim_session:
 
 ## Fucked up again!! Check before trying
 vignettes/Ratio_scales_and_centinels.html: vignettes/Ratio_scales_and_centinels.Rmd
+	$(rmdh_r)
+
+vignettes/centiNels.html: vignettes/centiNels.Rmd
 	$(rmdh_r)
 
 ######################################################################
