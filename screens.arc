@@ -355,11 +355,7 @@ Orthogonality: https://github.com/mac-theobio/Orthogonality
 
 https://www.zotero.org/groups/
 
-Notes
-* https://www.overleaf.com/project/62a357a29c8253dd5ccf5158
-* Downloads/SanaNotes.pdf
-
-sanaNotes: https://git.overleaf.com/62a357a29c8253dd5ccf5158
+XX. sanaNotes: https://git.overleaf.com/62a357a29c8253dd5ccf5158
 
 
 ######################################################################
