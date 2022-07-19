@@ -406,6 +406,11 @@ EarnOp: https://github.com/davidearn/OpEd.git ## NOALL
 
 ######################################################################
 
+Dwyer co-evolution notes
+mothResist: https://git.overleaf.com/62669e328223bb2f4dbcf663
+
+######################################################################
+
 gos: https://github.com/mac-theobio/GOS_NMF.git
 
 ######################################################################
