@@ -111,6 +111,10 @@ wwdata: https://github.com/mac-theobio/wwdata
 
 XX. poxli: https://github.com/wzmli/macpan_mpx
 
+XX. bintr: https://github.com/wzmli/bintr
+
+######################################################################
+
 Weitz plateaus very Weitz-ish
 plateaus: https://github.com/jsweitz/covid19-git-plateaus.git
 * 2020 May 21 (Thu): submitted to PNAS
