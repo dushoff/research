@@ -76,7 +76,7 @@ PHAC model spreadsheet
 guelph: https://github.com/wzmli/macpan_canada.git
 
 MacPan paper and weird stuff from Mike
-base: https://github.com/wzmli/macpan_base.git
+XX. base: https://github.com/wzmli/macpan_base.git
 
 ## 2021 Nov 19 (Fri) New Mike-bus workflow
 XX. macflow: https://github.com/wzmli/macpan_flow.git
