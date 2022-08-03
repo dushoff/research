@@ -177,7 +177,6 @@ XX. ratioScales: https://github.com/mikeroswell/ratioScales.git
 ## Deprecated (do not clone; it's insanely huge)
 usedtobediversity:  https://github.com/dushoff/diversity_metrics.git  ../projects/diversity_metrics/ # NOALL
 ## Subsumed (AFAIK)
-
 * http://dushoff.github.io/notebook/diversity.html
 
 ######################################################################
