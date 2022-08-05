@@ -391,7 +391,7 @@ ON_age:  https://github.com/davidearn/covid_age.git ## private
 On_ageBMC: https://github.com/papsti/covid-age ## NOALL
 
 ## Plague
-XX. plague_growth: https://github.com/davidearn/plague_growth.git
+plague_growth: https://github.com/davidearn/plague_growth.git
 
 ## devel branch, Makefile, ...
 epigrowthfit: https://github.com/davidearn/epigrowthfit.git ## NOALL
