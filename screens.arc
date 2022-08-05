@@ -392,18 +392,17 @@ On_ageBMC: https://github.com/papsti/covid-age ## NOALL
 
 ## Plague
 plague_growth: https://github.com/davidearn/plague_growth.git
+plague: https://github.com/davidearn/plague.git ## NOALL; Old, messy repo
 
 ## devel branch, Makefile, ...
 epigrowthfit: https://github.com/davidearn/epigrowthfit.git ## NOALL
 
-## active canmod app
-XX. egf_extra: https://github.com/dushoff/egf_extra.git
+## Mikael canmod app
+egf_extra: https://github.com/dushoff/egf_extra.git
 
 ## Fadeouts (Old invasion project) Parsons-led now
 XX. fadeouts: https://github.com/davidearn/fadeout-heuristic.git
-
-## Old, messy repo
-plague: https://github.com/davidearn/plague.git ## NOALL
+XX. burnout: https://github.com/davidearn/burnout ## NOALL
 
 EarnOp: https://github.com/davidearn/OpEd.git ## NOALL
 
