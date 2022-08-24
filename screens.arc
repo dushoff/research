@@ -321,8 +321,12 @@ fgc: https://github.com/fishforwish/fgc.git ## This has a corrupted submodule st
 
 ## Bicko Cygu moved to separate screen 2022 Jun 08 (Wed)
 
-bicko: https://github.com/CYGUBICKO/thesis.git
+## Do not clone this here; it is a repo-repo
+## bicko: https://github.com/CYGUBICKO/thesis.git
 
+XX. varpred: https://github.com/CYGUBICKO/varpred.git
+
+## Everything below is probably outdated or migrated
 Bolker about structure for things like read.dta and read.xlsx
 
 cache documentation and implementation
