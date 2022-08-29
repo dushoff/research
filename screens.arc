@@ -21,18 +21,18 @@ XX. sandbox: https://github.com/dushoff/ResearchSandbox.git
 
 XX. omike: https://github.com/wzmli/mvRt
 
-XX. omsa: https://github.com/mac-theobio/RSAomicron
+omsa: https://github.com/mac-theobio/RSAomicron
 
-XX. osac: https://github.com/SACEMA/omicronSA ## NOALL
+osac: https://github.com/SACEMA/omicronSA ## NOALL
 
 ## Branched version of osac
-XX. saco: https://github.com/SACEMA/omicronSA ## NOALL
+saco: https://github.com/SACEMA/omicronSA ## NOALL
 
-XX. sacco: https://github.com/SACEMA/omicronSA ## NOALL
+sacco: https://github.com/SACEMA/omicronSA ## NOALL
 
-XX. tmbfits: https://github.com/wzmli/covid_2022
+tmbfits: https://github.com/wzmli/covid_2022
 
-XX. ukcovid: https://github.com/wzmli/ukcovid.git
+ukcovid: https://github.com/wzmli/ukcovid.git
 
 ## Something old! Mike accidentally thought he wanted it 2022 Jun 07 (Tue)
 corona: https://github.com/wzmli/corona.git 
@@ -63,11 +63,11 @@ corrections: https://github.com/wzmli/correct_testing.git
 
 XX. Canada:  https://github.com/wzmli/COVID19-Canada.git ../coronavirus/Canada/ Mike's Canadian data
 
-XX. table:  https://github.com/davidearn/OntarioModellingTable.git  ../coronavirus/table/
+table:  https://github.com/davidearn/OntarioModellingTable.git  ../coronavirus/table/
 * ICES Data Dictionary https://ssl.ices.on.ca 
 
 ## Current Manuscripts; working with Mike to build in a good way
-XX. PHAC: https://github.com/mac-theobio/PHAC_covid.git
+PHAC: https://github.com/mac-theobio/PHAC_covid.git
 
 PHAC model spreadsheet
 * https://docs.google.com/spreadsheets/d/1P-2EKmYPlVwOz-Y20cIxqo8ZL8ZVj9yj5z6HjikTxp0/edit#gid=130126832
@@ -79,11 +79,11 @@ MacPan paper and weird stuff from Mike
 XX. base: https://github.com/wzmli/macpan_base.git
 
 ## 2021 Nov 19 (Fri) New Mike-bus workflow
-XX. macflow: https://github.com/wzmli/macpan_flow.git
+macflow: https://github.com/wzmli/macpan_flow.git
 
-XX. MacOMT: https://github.com/wzmli/MacOMT_report.git
+MacOMT: https://github.com/wzmli/MacOMT_report.git
 
-XX. MacOMT/forecast_blog
+MacOMT/forecast_blog
 
 newforecast: https://github.com/papsti/MacOMT_forecast.git ## NOALL
 
@@ -227,7 +227,7 @@ exponential_framework:  https://github.com/parksw3/wuhan.git ../outbreak/park
 * Accepted 2020 Jun 29 (Mon)
 * https://royalsocietypublishing.org/doi/10.1098/rsif.2020.0144
 
-XX. cereal: https://github.com/parksw3/serial2.git
+cereal: https://github.com/parksw3/serial2.git
 New drafty Rt stuff cloned 2020 Jul 01 (Wed) after a Lipsitch “scoop”
 
 ## R-Packaging some of the generation stufff
@@ -296,7 +296,6 @@ tz_vaccine: https://github.com/wzmli/TZrabies_vaccine.git
 
 ## Chyun 
 
-XX. awareness:  https://github.com/covid19awareness/Survey.git  ../coronavirus/survey/
 
 This was the github.io page, but C. may still be doing stuff here?
 websurvey:  https://github.com/covid19awareness/covid19awareness.github.io.git  ../coronavirus/websurvey/
@@ -311,7 +310,7 @@ Google_News: https://github.com/covid19awareness/Google_News.git
 
 comms_proposal: (spring 2020):  https://github.com/cfshi/coronavirus.git  ../outbreak/ccall/
 
-XX. awareness_proposal: https://github.com/covid19awareness/CIHR_call.git
+awareness_proposal: https://github.com/covid19awareness/CIHR_call.git
 
 ### pre-covid
 
@@ -472,9 +471,9 @@ SACEMA_project:  https://github.com/SACEMA/covidProjections.git  ../coronavirus/
 ## PP-style Makefile (horrified face)
 [reinfections.tmp]
 
-XX. reinfections: https://github.com/SACEMA/reinfections.git ## NOALL
+reinfections: https://github.com/SACEMA/reinfections.git ## NOALL
 
-XX. public_reinf: https://github.com/jrcpulliam/reinfections ## NOALL
+public_reinf: https://github.com/jrcpulliam/reinfections ## NOALL
 
 ######################################################################
 
