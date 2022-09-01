@@ -115,6 +115,10 @@ XX. bintr: https://github.com/wzmli/bintr
 
 ######################################################################
 
+XX. cohorts: https://github.com/dushoff/cohorts
+
+######################################################################
+
 Weitz plateaus very Weitz-ish
 plateaus: https://github.com/jsweitz/covid19-git-plateaus.git
 * 2020 May 21 (Thu): submitted to PNAS
@@ -321,12 +325,8 @@ fgc: https://github.com/fishforwish/fgc.git ## This has a corrupted submodule st
 
 ## Bicko Cygu moved to separate screen 2022 Jun 08 (Wed)
 
-## Do not clone this here; it is a repo-repo
-## bicko: https://github.com/CYGUBICKO/thesis.git
+bicko: https://github.com/CYGUBICKO/thesis.git
 
-XX. varpred: https://github.com/CYGUBICKO/varpred.git
-
-## Everything below is probably outdated or migrated
 Bolker about structure for things like read.dta and read.xlsx
 
 cache documentation and implementation
