@@ -300,7 +300,7 @@ tz_vaccine: https://github.com/wzmli/TZrabies_vaccine.git
 This was the github.io page, but C. may still be doing stuff here?
 websurvey:  https://github.com/covid19awareness/covid19awareness.github.io.git  ../coronavirus/websurvey/
 
-survey: https://github.com/covid19awareness/Survey.git
+awareness: https://github.com/covid19awareness/Survey.git
 
 youtube: https://github.com/covid19awareness/YouTube.git
 youtube/rfigs:
