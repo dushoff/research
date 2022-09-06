@@ -117,6 +117,8 @@ XX. bintr: https://github.com/wzmli/bintr
 
 XX. cohorts: https://github.com/dushoff/cohorts
 
+XX. undercount: https://github.com/wzmli/undercount
+
 ######################################################################
 
 Weitz plateaus very Weitz-ish
@@ -341,7 +343,6 @@ proview:  https://github.com/CYGUBICKO/proview.git
 proview/manuscript
 
 rehouse:  https://github.com/CYGUBICKO/hh-refactor.git
-rehouse/simulation
 rehouse/manuscript
 
 ## Steve's calculations and writing for the comprehensive exam and the proposal
