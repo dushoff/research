@@ -408,7 +408,7 @@ egf_extra: https://github.com/dushoff/egf_extra.git
 
 ## Fadeouts (Old invasion project) Parsons-led now
 XX. fadeouts: https://github.com/davidearn/fadeout-heuristic.git
-XX. burnout: https://github.com/davidearn/burnout ## NOALL
+XX. burnout: https://github.com/davidearn/burnout ## NOALL 
 
 EarnOp: https://github.com/davidearn/OpEd.git ## NOALL
 
