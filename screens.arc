@@ -55,6 +55,8 @@ state:  https://github.com/bbolker/NYScovid19.git ../coronavirus/state/
 TMB transition
 XX. on_mptmb: https://github.com/wzmli/on_mptmb.git
 
+XX. li_immune: https://github.com/wzmli/immunity.git
+
 ######################################################################
 
 ## Covid data
