@@ -418,6 +418,12 @@ EarnOp: https://github.com/davidearn/OpEd.git ## NOALL
 
 ######################################################################
 
+## FlynnPrimrose
+
+productModel: https://github.com/Flynn-Primrose/Product-Model-Paper.git
+
+######################################################################
+
 Dwyer co-evolution notes
 mothResist: https://git.overleaf.com/62669e328223bb2f4dbcf663
 
