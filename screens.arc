@@ -70,7 +70,7 @@ table:  https://github.com/davidearn/OntarioModellingTable.git  ../coronavirus/t
 
 ## Current Manuscripts; working with Mike to build in a good way
 ## When did I say that??
-PHAC: https://github.com/mac-theobio/PHAC_covid.git
+XX. PHAC: https://github.com/mac-theobio/PHAC_covid.git
 
 PHAC model spreadsheet
 * https://docs.google.com/spreadsheets/d/1P-2EKmYPlVwOz-Y20cIxqo8ZL8ZVj9yj5z6HjikTxp0/edit#gid=130126832
@@ -367,7 +367,7 @@ Orthogonality: https://github.com/mac-theobio/Orthogonality
 
 https://www.zotero.org/groups/
 
-XX. sanaNotes: https://git.overleaf.com/62a357a29c8253dd5ccf5158
+sanaNotes: https://git.overleaf.com/62a357a29c8253dd5ccf5158
 
 XX. mmrImmunity: https://github.com/s-jahed/waning-vaccine-induced-immunity
 
