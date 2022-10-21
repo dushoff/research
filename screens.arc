@@ -17,6 +17,9 @@ content.list
 
 XX. sandbox: https://github.com/dushoff/ResearchSandbox.git
 
+## 2022 Oct 21 (Fri) Resurrecting because it has qbd stuff?
+scratch: https://github.com/dushoff/scratch.git
+
 ######################################################################
 
 XX. omike: https://github.com/wzmli/mvRt
