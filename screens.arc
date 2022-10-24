@@ -492,6 +492,10 @@ reinfections: https://github.com/SACEMA/reinfections.git ## NOALL
 
 public_reinf: https://github.com/jrcpulliam/reinfections ## NOALL
 
+Larisse Bolton
+
+bump: https://github.com/BoltonL/BloodUsageModel.git
+
 ######################################################################
 
 # PNAS response letter
@@ -501,9 +505,7 @@ goldstein: https://github.com/Outbreak-analysis/VaccinationLetter.git
 
 packagemaker: https://github.com/ComputationalProteomicsUnit/maker.git
 
-## Obsolete
-
-households:  https://github.com/CYGUBICKO/hh.git  ## replaced by rehouse
+######################################################################
 
 2021 theses
 
