@@ -1,5 +1,9 @@
 ## This is a _linked_ (mkfile) Makefile for ratio scales (Roswell package)
 
+## https://mikeroswell.github.io/ratioScales/
+## Right now, this is the same README page as we get through back end (gH)
+## Mike wants me to stop arguing about this for a while
+
 current: target
 -include target.mk
 
@@ -10,12 +14,16 @@ vim_session:
 
 ######################################################################
 
-## Fucked up again!! Check before trying
-vignettes/Ratio_scales_and_centinels.html: vignettes/Ratio_scales_and_centinels.Rmd
+Ignore += README.html
+README.html: README.Rmd
 	$(rmdh_r)
 
-vignettes/centiNels.html: vignettes/centiNels.Rmd
+vignettes/%.html: vignettes/%.Rmd
 	$(rmdh_r)
+
+## vignettes/centiNels.html: vignettes/centiNels.Rmd
+## vignettes/divMult.Rmd ## Just a skeleton
+## vignettes/Ratio_scales_and_centinels.Rmd ## Older
 
 ######################################################################
 
@@ -38,6 +46,7 @@ makestuff/Makefile:
 
 -include makestuff/rpkg.mk
 -include makestuff/rmd.mk
+## -include makestuff/pipeR.mk
 -include makestuff/git.mk
 -include makestuff/visual.mk
 -include makestuff/projdir.mk
