@@ -547,6 +547,10 @@ SIRpublic: https://github.com/mac-theobio/SIR_testing_model.git
 
 epi_cohort: https://github.com/aligharouni/epi_cohort.git
 
+fish_connect: https://github.com/aligharouni/connectivity.git
+make fish_connect/makefile  ##
+make fish_connect.all  ##
+
 ######################################################################
 
 Archivy stuff
