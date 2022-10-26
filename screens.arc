@@ -336,26 +336,28 @@ fgc: https://github.com/fishforwish/fgc.git ## This has a corrupted submodule st
 
 bicko: https://github.com/CYGUBICKO/thesis.git
 
+XX. pcoxtime: https://github.com/CYGUBICKO/pcoxtime.git
+pcoxtime/jss-article-tex:
+
+XX. proview:  https://github.com/CYGUBICKO/proview.git
+XX. proview/manuscript:
+
+XX. effects: https://github.com/mac-theobio/effects.git
+XX. effects/manuscript: 
+
+XX. rehouse:  https://github.com/CYGUBICKO/hh-refactor.git
+XX. rehouse/manuscript
+
+############# Previous Bicko
+
 Bolker about structure for things like read.dta and read.xlsx
 
 cache documentation and implementation
 
 Cox stuff for JSS with Ben
-tvsurvive: https://github.com/CYGUBICKO/pcoxtime.git
-
-tvsurvive/jss-article-tex
-
-proview:  https://github.com/CYGUBICKO/proview.git
-proview/manuscript
-
-rehouse:  https://github.com/CYGUBICKO/hh-refactor.git
-rehouse/manuscript
 
 ## Steve's calculations and writing for the comprehensive exam and the proposal
 cygu_comp: https://github.com/CYGUBICKO/comp_exam.git
-
-effects: https://github.com/mac-theobio/effects.git
-effects/manuscript: 
 
 Nothing here yet!
 Orthogonality: https://github.com/mac-theobio/Orthogonality
