@@ -166,10 +166,11 @@ Todo list:
 * https://docs.google.com/document/d/1cqjKMvk4qV1paSwkiRnCRZldU1fuPBvlmJlZQvlhDjo/edit?ts=60240871
 
 ## Going to be a package
-XX. checkPlots:  https://github.com/dushoff/checkPlots.git  ../projects/checkPlots/
+XX. checkPlots:  https://github.com/dushoff/checkPlots.git
+checkplots:  https://github.com/dushoff/checkplots.git
 
 ## Going to be a MS
-CheckDiv:  https://github.com/mikeroswell/CheckDiv.git ## NOALL
+CheckDiv:  https://github.com/mikeroswell/CheckDiv.git 
 
 ## This package is coming out with the OikosR1S2
 ## Should be submitted soon-ish to MEE or JSS
@@ -339,7 +340,7 @@ bicko: https://github.com/CYGUBICKO/thesis.git
 XX. pcoxtime: https://github.com/CYGUBICKO/pcoxtime.git
 pcoxtime/jss-article-tex:
 
-XX. proview:  https://github.com/CYGUBICKO/proview.git
+XX. proview: https://github.com/CYGUBICKO/proview.git
 XX. proview/manuscript:
 
 XX. effects: https://github.com/mac-theobio/effects.git

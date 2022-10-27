@@ -1,15 +1,12 @@
-## This is a _linked_ WRAPPER makefile for fish_connect
-## https://github.com/aligharouni/connectivity.git
+## This is a _linked_ (mkfile) Makefile for …
 
 current: target
 -include target.mk
 
+# -include makestuff/perl.def
+
 vim_session:
 	bash -cl "vmt"
-
-######################################################################
-
-include Makefile
 
 ######################################################################
 
@@ -18,7 +15,7 @@ include Makefile
 ## Sources += $(wildcard *.mk)
 ## include $(wildcard *.mk)
 
-Ignore += makefile
+Ignore += Makefile
 Ignore += makestuff
 msrepo = https://github.com/dushoff
 Makefile: makestuff/Makefile
@@ -28,5 +25,8 @@ makestuff/Makefile:
 
 -include makestuff/os.mk
 
+## -include makestuff/pipeR.mk
+
 -include makestuff/git.mk
 -include makestuff/visual.mk
+-include makestuff/projdir.mk
