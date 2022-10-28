@@ -427,7 +427,7 @@ EarnOp: https://github.com/davidearn/OpEd.git ## NOALL
 
 ## FlynnPrimrose
 
-productModel: https://github.com/Flynn-Primrose/Product-Model-Paper.git
+XX. productModel: https://github.com/Flynn-Primrose/Product-Model-Paper.git
 
 ######################################################################
 
