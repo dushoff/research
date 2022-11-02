@@ -16,6 +16,8 @@ Sources += $(wildcard *.tex)
 Draft_3.pdf: Draft_3.tex
 Draft_3.tex.pdf: Draft_3.tex
 
+Sources += $(wildcard images/*.png)
+
 names:
 	rename "s/ /_/g" images/*
 
