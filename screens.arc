@@ -60,6 +60,8 @@ XX. on_mptmb: https://github.com/wzmli/on_mptmb.git
 
 XX. li_immune: https://github.com/wzmli/immunity.git
 
+bbmisc: https://github.com/bbolker/bbmisc
+
 ######################################################################
 
 ## Covid data
