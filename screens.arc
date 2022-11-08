@@ -353,6 +353,8 @@ XX. effects/manuscript:
 XX. rehouse:  https://github.com/CYGUBICKO/hh-refactor.git
 XX. rehouse/manuscript
 
+XX. varpred: https://github.com/CYGUBICKO/varpred.git
+
 ############# Previous Bicko
 
 Bolker about structure for things like read.dta and read.xlsx
