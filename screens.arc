@@ -383,6 +383,7 @@ sanaNotes: https://git.overleaf.com/62a357a29c8253dd5ccf5158
 
 XX. mmrImmunity: https://github.com/s-jahed/waning-vaccine-induced-immunity
 
+XX. mmrImmunity/Simulations:
 
 ######################################################################
 
@@ -393,7 +394,7 @@ Mummies/ms
 
 Mummies/GrowthRateMS/
 
-XX. tsetseIncrease: https://git.overleaf.com/60e7b466aa8c80ad3b6ef80e
+tsetseIncrease: https://git.overleaf.com/60e7b466aa8c80ad3b6ef80e
 
 ######################################################################
 

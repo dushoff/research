@@ -13,8 +13,7 @@ vim_session:
 Sources += $(wildcard *.tex *.bib)
 
 ## latexdiff_submitted_revised.pdf: latexdiff_submitted_revised.tex
-## main_asympspread_udpate102822.pdf: main_asympspread_udpate102822.tex
-## #main_asympspread_udpate021622#.tex
+main_asympspread_udpate110922.tex.pdf: main_asympspread_udpate110922.tex
 
 ######################################################################
 
