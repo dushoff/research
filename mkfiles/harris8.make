@@ -11,6 +11,7 @@ vim_session:
 ######################################################################
 
 Sources += $(wildcard *.tex *.bib)
+Ignore += *.out ## why?
 
 ## latexdiff_submitted_revised.pdf: latexdiff_submitted_revised.tex
 main_asympspread_udpate110922.tex.pdf: main_asympspread_udpate110922.tex
