@@ -125,6 +125,7 @@ XX. bintr: https://github.com/wzmli/bintr
 
 XX. cohorts: https://github.com/dushoff/cohorts
 
+## Monkeypox stupid-paper response
 XX. undercount: https://github.com/wzmli/undercount
 
 ######################################################################
@@ -417,6 +418,7 @@ On_ageBMC: https://github.com/papsti/covid-age ## NOALL
 ## Plague
 plague_growth: https://github.com/davidearn/plague_growth.git
 plague: https://github.com/davidearn/plague.git ## NOALL; Old, messy repo
+louseplague: https://github.com/bbolker/louseplague.git
 
 ## devel branch, Makefile, ...
 epigrowthfit: https://github.com/davidearn/epigrowthfit.git ## NOALL
