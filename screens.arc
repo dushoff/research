@@ -339,40 +339,7 @@ fgc: https://github.com/fishforwish/fgc.git ## This has a corrupted submodule st
 ######################################################################
 
 ## Bicko Cygu moved to separate screen 2022 Jun 08 (Wed)
-
-bicko: https://github.com/CYGUBICKO/thesis.git
-
-XX. pcoxtime: https://github.com/CYGUBICKO/pcoxtime.git
-pcoxtime/jss-article-tex:
-
-XX. proview: https://github.com/CYGUBICKO/proview.git
-XX. proview/manuscript:
-
-XX. effects: https://github.com/mac-theobio/effects.git
-XX. effects/manuscript: 
-
-XX. rehouse:  https://github.com/CYGUBICKO/hh-refactor.git
-XX. rehouse/manuscript
-
-XX. varpred: https://github.com/CYGUBICKO/varpred.git
-
-############# Previous Bicko
-
-Bolker about structure for things like read.dta and read.xlsx
-
-cache documentation and implementation
-
-Cox stuff for JSS with Ben
-
-## Steve's calculations and writing for the comprehensive exam and the proposal
-cygu_comp: https://github.com/CYGUBICKO/comp_exam.git
-
-Nothing here yet!
-Orthogonality: https://github.com/mac-theobio/Orthogonality
-
-### 141. cygufuns:  https://github.com/cygubicko/funs.git  ../cygu/funs/
-* Incorporate this by cloning into other repos?
-* Or should we do parallel again (but with a different name)
+## All Bicko stuff up to and including thesis (and derived papers)
 
 ######################################################################
 
