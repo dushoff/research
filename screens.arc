@@ -424,6 +424,12 @@ intermittent.tmp
 
 ######################################################################
 
+## Stelmach Sophie
+
+https://github.com/davidearn/SophieStelmach.git
+
+######################################################################
+
 ## Grant support
 
 dime: https://github.com/davidearn/EIDM_platforms.git
