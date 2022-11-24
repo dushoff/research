@@ -167,7 +167,7 @@ XX. avar: https://github.com/parksw3/asymptomaticvariant.git
 
 ## Roswell
 
-Todo list:
+Todo list: probably obsolete (Roswell 2022 Nov 23 (Wed))
 * https://docs.google.com/document/d/1cqjKMvk4qV1paSwkiRnCRZldU1fuPBvlmJlZQvlhDjo/edit?ts=60240871
 
 ## Going to be a package

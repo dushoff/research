@@ -14,6 +14,8 @@ vim_session:
 
 ######################################################################
 
+## quickinstall:
+
 Ignore += README.html
 README.html: README.Rmd
 	$(rmdh_r)
