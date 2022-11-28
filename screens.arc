@@ -426,7 +426,7 @@ intermittent.tmp
 
 ## Stelmach Sophie
 
-https://github.com/davidearn/SophieStelmach.git
+sophie: https://github.com/davidearn/SophieStelmach.git
 
 ######################################################################
 
