@@ -312,8 +312,14 @@ tz_vaccine: https://github.com/wzmli/TZrabies_vaccine.git
 
 ######################################################################
 
-## Chyun 
+London school
 
+## Bosse-led log_or_not
+scoreTransform: https://git.overleaf.com/61436ea81fed8f4b5e8a8be8
+
+######################################################################
+
+## Chyun 
 
 This was the github.io page, but C. may still be doing stuff here?
 websurvey:  https://github.com/covid19awareness/covid19awareness.github.io.git  ../coronavirus/websurvey/

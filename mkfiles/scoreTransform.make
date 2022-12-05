@@ -1,4 +1,4 @@
-## This is a _linked_ (mkfile) Makefile for harris 2022 Nov
+## This is a _linked_ (mkfile) Makefile for …
 
 current: target
 -include target.mk
@@ -10,16 +10,9 @@ vim_session:
 
 ######################################################################
 
-Sources += $(wildcard *.tex *.bib)
-Ignore += *.out ## why?
+Ignore += big.tex
 
-## latexdiff_submitted_revised.pdf: latexdiff_submitted_revised.tex
-
-## main_asympspread_udpate120222_working.pdf: main_asympspread_udpate120222_working.tex
-
-latexdiff_revised1_revised2.pdf: latexdiff_revised1_revised2.tex
-
-######################################################################
+big.pdf: big.tex
 
 ### Makestuff
 
@@ -37,6 +30,7 @@ makestuff/Makefile:
 -include makestuff/os.mk
 
 -include makestuff/texi.mk
+## -include makestuff/pipeR.mk
 
 -include makestuff/git.mk
 -include makestuff/visual.mk
