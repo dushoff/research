@@ -12,6 +12,7 @@ vim_session:
 
 Sources += $(wildcard *.tex *.bib)
 Ignore += *.out ## why?
+Ignore += *.pdf
 
 ## latexdiff_submitted_revised.pdf: latexdiff_submitted_revised.tex
 

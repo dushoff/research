@@ -1,4 +1,4 @@
-## This is a _linked_ (mkfile) Makefile for ratio scales (Roswell package)
+# This is a _linked_ (mkfile) Makefile for ratio scales (Roswell package)
 
 ## https://mikeroswell.github.io/ratioScales/
 ## Right now, this is the same README page as we get through back end (gH)
@@ -23,9 +23,18 @@ README.html: README.Rmd
 vignettes/%.html: vignettes/%.Rmd
 	$(rmdh_r)
 
+Sources += README.Rmd
+
+ignoreFigs:
+	git checkout HEAD whatever
+
 ## vignettes/centiNels.html: vignettes/centiNels.Rmd
 ## vignettes/divMult.Rmd ## Just a skeleton
 ## vignettes/Ratio_scales_and_centinels.Rmd ## Older
+
+######################################################################
+
+## .github/ ## Github actions!
 
 ######################################################################
 
