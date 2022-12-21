@@ -543,4 +543,4 @@ make fish_connect.all  ##
 
 Archivy stuff
 
-XX. stochChapter: https://github.com/dushoff/Stochasticity_chapter.git
+stochChapter: https://github.com/dushoff/Stochasticity_chapter.git
