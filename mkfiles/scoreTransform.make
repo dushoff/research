@@ -10,9 +10,12 @@ vim_session:
 
 ######################################################################
 
-Ignore += big.tex
+Ignore += *.12.tex
+## main.12.pdf: 
+%.12.tex: %.tex
+	perl -pe "s/\\documentclass[^{]*/\\documentclass[12pt]/" $< > $@
 
-big.pdf: big.tex
+######################################################################
 
 ### Makestuff
 
