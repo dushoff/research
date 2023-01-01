@@ -250,7 +250,7 @@ New drafty Rt stuff cloned 2020 Jul 01 (Wed) after a Lipsitch “scoop”
 XX. rRlinks: https://github.com/mac-theobio/rRlinks.git
 
 ## Speed and strength
-## RETURNED 2022 Apr 13 (Wed)
+## OUT
 speed_public:  https://github.com/mac-theobio/Speed_and_strength
 speed_public/code
 speedstrength:  https://github.com/parksw3/speedstrength.git  ../park/speed/
