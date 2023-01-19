@@ -60,6 +60,9 @@ XX. on_mptmb: https://github.com/wzmli/on_mptmb.git
 
 XX. li_immune: https://github.com/wzmli/immunity.git
 
+## Explanations for Walker
+XX. cohorts: https://github.com/dushoff/cohorts
+
 bbmisc: https://github.com/bbolker/bbmisc
 
 ######################################################################
@@ -121,12 +124,8 @@ XX. poxli: https://github.com/wzmli/macpan_mpx
 
 XX. bintr: https://github.com/wzmli/bintr
 
-######################################################################
-
-XX. cohorts: https://github.com/dushoff/cohorts
-
 ## Monkeypox stupid-paper response
-XX. undercount: https://github.com/wzmli/undercount
+undercount: https://github.com/wzmli/undercount
 
 ######################################################################
 
@@ -194,6 +193,13 @@ XX. ratioScales: https://github.com/mikeroswell/ratioScales.git
 usedtobediversity:  https://github.com/dushoff/diversity_metrics.git  ../projects/diversity_metrics/ # NOALL
 ## Subsumed (AFAIK)
 * http://dushoff.github.io/notebook/diversity.html
+
+######################################################################
+
+London
+
+XX. logScore: https://git.overleaf.com/63bc15cec041a313afbfa3a2 
+logScore.vscreen
 
 ######################################################################
 
