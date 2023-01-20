@@ -198,7 +198,7 @@ usedtobediversity:  https://github.com/dushoff/diversity_metrics.git  ../project
 
 London
 
-XX. logScore: https://git.overleaf.com/63bc15cec041a313afbfa3a2 
+logScore: https://git.overleaf.com/63bc15cec041a313afbfa3a2 
 logScore.vscreen
 
 ######################################################################
