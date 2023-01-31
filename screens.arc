@@ -348,8 +348,7 @@ fgc: https://github.com/fishforwish/fgc.git ## This has a corrupted submodule st
 
 ######################################################################
 
-## Bicko Cygu moved to separate screen 2022 Jun 08 (Wed)
-## All Bicko stuff up to and including thesis (and derived papers)
+agronahPower: https://github.com/magronah/PhD_Projects.git ## NOALL
 
 ######################################################################
 
@@ -406,7 +405,7 @@ egf_extra: https://github.com/dushoff/egf_extra.git
 
 ## Fadeouts (Old invasion project) Parsons-led now
 XX. fadeouts: https://github.com/davidearn/fadeout-heuristic.git
-XX. burnout: https://github.com/davidearn/burnout ## NOALL 
+burnout: https://github.com/davidearn/burnout ## NOALL 
 
 EarnOp: https://github.com/davidearn/OpEd.git ## NOALL
 
