@@ -13,7 +13,7 @@ vim_session:
 autowrapR = defined
 
 Power_Analysis/R_files/Main.Rout: Power_Analysis/R_files/Main.R
-
+Power_Analysis/R_files/Functions.R:
 ######################################################################
 
 ### Makestuff
