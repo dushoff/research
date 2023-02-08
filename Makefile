@@ -16,8 +16,10 @@ screen_session: screens.update
 ######################################################################
 
 Ignore += time.tmp
-time.tmp: /proc/uptime
-	ls -t */all.time > $@
+time.tmp: phony
+	ls -lt */Makefile > $@
+
+phony: ;
 
 ### Makestuff
 

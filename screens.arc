@@ -22,7 +22,7 @@ scratch: https://github.com/dushoff/scratch.git
 
 ######################################################################
 
-XX. omike: https://github.com/wzmli/mvRt
+omike: https://github.com/wzmli/mvRt
 
 omsa: https://github.com/mac-theobio/RSAomicron
 
@@ -44,24 +44,24 @@ corona: https://github.com/wzmli/corona.git
 
 ## Covid forecasts
 
-XX. macpan:  https://github.com/bbolker/McMasterPandemic.git ../coronavirus/mac/
+macpan:  https://github.com/bbolker/McMasterPandemic.git ../coronavirus/mac/
 macpan/notes ## This is inaesthetic
 macpan/ontario ## 
 ## The two Dushoff subdirs each make their own cachestuff; also, what's the relationship with macpan_ontario?
 ## Something about public vs. secret data
 ## Refactor all of this or suppress before starting next computer
 
-XX. macPlan: https://github.com/mac-theobio/macpan_planning.git
+macPlan: https://github.com/mac-theobio/macpan_planning.git
 
 state:  https://github.com/bbolker/NYScovid19.git ../coronavirus/state/
 
 TMB transition
-XX. on_mptmb: https://github.com/wzmli/on_mptmb.git
+on_mptmb: https://github.com/wzmli/on_mptmb.git
 
 XX. li_immune: https://github.com/wzmli/immunity.git
 
 ## Explanations for Walker
-XX. cohorts: https://github.com/dushoff/cohorts
+cohorts: https://github.com/dushoff/cohorts
 
 bbmisc: https://github.com/bbolker/bbmisc
 
@@ -71,14 +71,14 @@ bbmisc: https://github.com/bbolker/bbmisc
 
 corrections: https://github.com/wzmli/correct_testing.git
 
-XX. Canada:  https://github.com/wzmli/COVID19-Canada.git ../coronavirus/Canada/ Mike's Canadian data
+Canada:  https://github.com/wzmli/COVID19-Canada.git ../coronavirus/Canada/ Mike's Canadian data
 
 table:  https://github.com/davidearn/OntarioModellingTable.git  ../coronavirus/table/
 * ICES Data Dictionary https://ssl.ices.on.ca 
 
 ## Current Manuscripts; working with Mike to build in a good way
 ## When did I say that??
-XX. PHAC: https://github.com/mac-theobio/PHAC_covid.git
+PHAC: https://github.com/mac-theobio/PHAC_covid.git
 
 PHAC model spreadsheet
 * https://docs.google.com/spreadsheets/d/1P-2EKmYPlVwOz-Y20cIxqo8ZL8ZVj9yj5z6HjikTxp0/edit#gid=130126832
@@ -87,7 +87,7 @@ PHAC model spreadsheet
 guelph: https://github.com/wzmli/macpan_canada.git
 
 MacPan paper and weird stuff from Mike
-XX. base: https://github.com/wzmli/macpan_base.git
+base: https://github.com/wzmli/macpan_base.git
 
 ## 2021 Nov 19 (Fri) New Mike-bus workflow
 macflow: https://github.com/wzmli/macpan_flow.git
@@ -120,9 +120,9 @@ wwdata: https://github.com/mac-theobio/wwdata
 
 ## POX
 
-XX. poxli: https://github.com/wzmli/macpan_mpx
+poxli: https://github.com/wzmli/macpan_mpx
 
-XX. bintr: https://github.com/wzmli/bintr
+bintr: https://github.com/wzmli/bintr
 
 ## Monkeypox stupid-paper response
 undercount: https://github.com/wzmli/undercount
@@ -168,7 +168,7 @@ Todo list: probably obsolete (Roswell 2022 Nov 23 (Wed))
 * https://docs.google.com/document/d/1cqjKMvk4qV1paSwkiRnCRZldU1fuPBvlmJlZQvlhDjo/edit?ts=60240871
 
 ## Going to be a package
-XX. checkPlots:  https://github.com/dushoff/checkPlots.git
+checkPlots:  https://github.com/dushoff/checkPlots.git
 checkplots:  https://github.com/dushoff/checkplots.git
 
 ## Going to be a MS
@@ -176,7 +176,7 @@ CheckDiv:  https://github.com/mikeroswell/CheckDiv.git
 
 ## This package is coming out with the OikosR1S2
 ## Should be submitted soon-ish to MEE or JSS
-XX. rarity: https://github.com/mikeroswell/MeanRarity.git
+rarity: https://github.com/mikeroswell/MeanRarity.git
 
 ## Published
 Diversity_Guide: https://github.com/mikeroswell/Diversity_Guide.git
@@ -187,7 +187,7 @@ MS:
 * R2R
 * https://docs.google.com/document/d/10UEzTAe8rlAFHD7ojoPO0GGZPh00QKF6BKNmXeURwOk/edit
 
-XX. ratioScales: https://github.com/mikeroswell/ratioScales.git
+ratioScales: https://github.com/mikeroswell/ratioScales.git
 
 ## Deprecated (do not clone; it's insanely huge)
 usedtobediversity:  https://github.com/dushoff/diversity_metrics.git  ../projects/diversity_metrics/ # NOALL
@@ -198,16 +198,13 @@ usedtobediversity:  https://github.com/dushoff/diversity_metrics.git  ../project
 
 London
 
-logScore: https://git.overleaf.com/63bc15cec041a313afbfa3a2 
-logScore.vscreen
-
 ######################################################################
 
 ## JD projects
 
-XX. stochInv: https://github.com/dushoff/stochInv.git
+stochInv: https://github.com/dushoff/stochInv.git
 
-XX. predictions: https://github.com/dushoff/predictions.git
+predictions: https://github.com/dushoff/predictions.git
 
 ######################################################################
 
@@ -253,7 +250,7 @@ cereal: https://github.com/parksw3/serial2.git
 New drafty Rt stuff cloned 2020 Jul 01 (Wed) after a Lipsitch “scoop”
 
 ## R-Packaging some of the generation stufff
-XX. rRlinks: https://github.com/mac-theobio/rRlinks.git
+rRlinks: https://github.com/mac-theobio/rRlinks.git
 
 ## Speed and strength
 ## OUT
@@ -277,7 +274,7 @@ XX. gamma: https://github.com/parksw3/individual_intervention.git
 ## Quick new variant stuff
 ## Rejected PRSB ⇒ JRSI $#@!ed up rejection, appeal
 ## IN review
-XX. ssvariant: https://github.com/parksw3/newvariant.git
+ssvariant: https://github.com/parksw3/newvariant.git
 
 XX. status: https://github.com/parksw3/immune-boosting
 
@@ -319,7 +316,10 @@ tz_vaccine: https://github.com/wzmli/TZrabies_vaccine.git
 London school
 
 ## Bosse-led log_or_not
-scoreTransform: https://git.overleaf.com/61436ea81fed8f4b5e8a8be8
+XX. scoreTransform: https://git.overleaf.com/61436ea81fed8f4b5e8a8be8
+
+logScore: https://git.overleaf.com/63bc15cec041a313afbfa3a2 
+logScore.vscreen
 
 ######################################################################
 
@@ -348,7 +348,7 @@ fgc: https://github.com/fishforwish/fgc.git ## This has a corrupted submodule st
 
 ######################################################################
 
-agronahPower: https://github.com/magronah/PhD_Projects.git ## NOALL
+XX. agronahPower: https://github.com/magronah/PhD_Projects.git ## NOALL
 
 ######################################################################
 
@@ -356,7 +356,7 @@ agronahPower: https://github.com/magronah/PhD_Projects.git ## NOALL
 
 https://www.zotero.org/groups/
 
-sanaNotes: https://git.overleaf.com/62a357a29c8253dd5ccf5158
+XX. sanaNotes: https://git.overleaf.com/62a357a29c8253dd5ccf5158
 https://www.overleaf.com/2769168425brnwqpfzjrrw
 
 XX. mmrImmunity: https://github.com/s-jahed/waning-vaccine-induced-immunity
@@ -378,7 +378,7 @@ tsetseIncrease: https://git.overleaf.com/60e7b466aa8c80ad3b6ef80e
 
 Villyen 
 
-XX. rubellaSA:  https://github.com/ICI3D/rubellaSA.git  ../projects/rubella/
+rubellaSA:  https://github.com/ICI3D/rubellaSA.git  ../projects/rubella/
 * https://docs.google.com/document/d/17M46gbe4Fx9QhsLqGqccbW6UFzF6oHSwk7LsVP_ysO4/edit
 
 ######################################################################
@@ -404,7 +404,7 @@ epigrowthfit: https://github.com/davidearn/epigrowthfit.git ## NOALL
 egf_extra: https://github.com/dushoff/egf_extra.git
 
 ## Fadeouts (Old invasion project) Parsons-led now
-XX. fadeouts: https://github.com/davidearn/fadeout-heuristic.git
+fadeouts: https://github.com/davidearn/fadeout-heuristic.git
 burnout: https://github.com/davidearn/burnout ## NOALL 
 
 EarnOp: https://github.com/davidearn/OpEd.git ## NOALL
@@ -413,7 +413,7 @@ EarnOp: https://github.com/davidearn/OpEd.git ## NOALL
 
 ## FlynnPrimrose
 
-XX. productModel: https://github.com/Flynn-Primrose/Product-Model-Paper.git
+productModel: https://github.com/Flynn-Primrose/Product-Model-Paper.git
 
 ######################################################################
 
@@ -489,7 +489,7 @@ public_reinf: https://github.com/jrcpulliam/reinfections ## NOALL
 
 Larisse Bolton
 
-bump: https://github.com/BoltonL/BloodUsageModel.git
+XX. bump: https://github.com/BoltonL/BloodUsageModel.git
 
 ######################################################################
 
