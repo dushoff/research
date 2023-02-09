@@ -17,6 +17,8 @@ Ignore += *.12.tex
 
 ######################################################################
 
+Ignore += big.tex
+
 ### Makestuff
 
 ## Sources += $(wildcard *.mk)
