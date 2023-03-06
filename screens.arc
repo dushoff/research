@@ -501,7 +501,7 @@ XX. bump: https://github.com/BoltonL/BloodUsageModel.git
 
 Abbott/Park
 
-truncation: https://git.overleaf.com/63d00636ca448b850dcc82cc
+XX. truncation: https://git.overleaf.com/63d00636ca448b850dcc82cc
 * https://www.overleaf.com/project/63d00636ca448b850dcc82cc/detacher
 * https://www.overleaf.com/project/63d00636ca448b850dcc82cc/detached
 
