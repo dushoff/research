@@ -22,6 +22,8 @@ scratch: https://github.com/dushoff/scratch.git
 
 ######################################################################
 
+tec: https://github.com/wzmli/tec_effs
+
 omike: https://github.com/wzmli/mvRt
 
 omsa: https://github.com/mac-theobio/RSAomicron
