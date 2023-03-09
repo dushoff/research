@@ -22,7 +22,7 @@ scratch: https://github.com/dushoff/scratch.git
 
 ######################################################################
 
-tec: https://github.com/wzmli/tec_effs
+XX. tec: https://github.com/wzmli/tec_effs
 
 omike: https://github.com/wzmli/mvRt
 
