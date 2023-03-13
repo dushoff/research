@@ -15,6 +15,8 @@ Sources += main.tex dynamicaltruncation.bib
 main.pdf: main.tex
 main.tex.pdf: main.tex
 
+jd.pdf: jd.tex
+
 ######################################################################
 
 ### Makestuff
