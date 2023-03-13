@@ -15,7 +15,14 @@ Sources += main.tex dynamicaltruncation.bib
 main.pdf: main.tex
 main.tex.pdf: main.tex
 
-jd.pdf: jd.tex
+Sources += jd.tex
+
+## jd.pdf: jd.tex
+## jdiff01.pdf: jd.tex
+
+Ignore += jdiff*.tex
+jdiff%.tex: main.tex jd.tex
+	$(latexdiff)
 
 ######################################################################
 
