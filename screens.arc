@@ -67,6 +67,8 @@ cohorts: https://github.com/dushoff/cohorts
 
 bbmisc: https://github.com/bbolker/bbmisc
 
+XX. macEndemic: https://github.com/wzmli/macpan_endemic
+
 ######################################################################
 
 ## Covid data
