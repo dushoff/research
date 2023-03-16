@@ -179,7 +179,6 @@ Todo list: probably obsolete (Roswell 2022 Nov 23 (Wed))
 
 ## Going to be a package
 checkPlots:  https://github.com/dushoff/checkPlots.git
-checkplots:  https://github.com/dushoff/checkplots.git
 
 ## Going to be a MS
 CheckDiv:  https://github.com/mikeroswell/CheckDiv.git 
