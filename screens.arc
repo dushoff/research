@@ -205,10 +205,6 @@ usedtobediversity:  https://github.com/dushoff/diversity_metrics.git  ../project
 
 ######################################################################
 
-London
-
-######################################################################
-
 ## JD projects
 
 stochInv: https://github.com/dushoff/stochInv.git
