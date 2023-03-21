@@ -442,7 +442,9 @@ intermittent.tmp
 ## Stelmach Sophie
 
 sophie: https://github.com/davidearn/SophieStelmach.git
-macSurvey: https://github.com/davidearn/covid-survey.git
+
+XX. macSurvey: https://git.overleaf.com/63234b917bd9e40887d0d291
+https://www.overleaf.com/1129955835kzxmjtwmgmvz
 
 ######################################################################
 
