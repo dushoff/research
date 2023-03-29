@@ -184,8 +184,16 @@ checkPlots:  https://github.com/dushoff/checkPlots.git
 CheckDiv:  https://github.com/mikeroswell/CheckDiv.git 
 
 ## This package is coming out with the OikosR1S2
-## Should be submitted soon-ish to MEE or JSS
+## Should be submitted soon-ish to MEE or JSS ## re-upped 2023 Mar 28 (Tue)
+## seesaws are also here
 rarity: https://github.com/mikeroswell/MeanRarity.git
+
+## 2023 Mar 28 (Tue) Goals
+* Rarity JSS
+* ratioScales
+* checkPlots paper or manifesto (invite Li and Bolker)
+* checkPlots package
+* fancier packages with heavy-lifting stuff (both diversity-specific and not)
 
 ## Published
 Diversity_Guide: https://github.com/mikeroswell/Diversity_Guide.git
