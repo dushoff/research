@@ -569,6 +569,8 @@ make fish_connect.all  ##
 
 ######################################################################
 
+leisure: https://github.com/dushoff/LeisurelyStatistics
+
 Archivy stuff
 
 stochChapter: https://github.com/dushoff/Stochasticity_chapter.git
@@ -577,4 +579,3 @@ stochChapter: https://github.com/dushoff/Stochasticity_chapter.git
 
 Orphans
 
-leisure:
