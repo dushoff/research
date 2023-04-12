@@ -188,6 +188,8 @@ CheckDiv:  https://github.com/mikeroswell/CheckDiv.git
 ## seesaws are also here
 rarity: https://github.com/mikeroswell/MeanRarity.git
 
+God's estimator is here
+
 ## 2023 Mar 28 (Tue) Goals
 * Rarity JSS
 * ratioScales
