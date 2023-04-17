@@ -186,7 +186,7 @@ CheckDiv:  https://github.com/mikeroswell/CheckDiv.git
 ## This package is coming out with the OikosR1S2
 ## Should be submitted soon-ish to MEE or JSS ## re-upped 2023 Mar 28 (Tue)
 ## seesaws are also here
-rarity: https://github.com/mikeroswell/MeanRarity.git
+XX. rarity: https://github.com/mikeroswell/MeanRarity.git
 
 God's estimator is here
 
@@ -418,8 +418,8 @@ epigrowthfit: https://github.com/davidearn/epigrowthfit.git ## NOALL
 egf_extra: https://github.com/dushoff/egf_extra.git
 
 ## Fadeouts (Old invasion project) Parsons-led now
-fadeouts: https://github.com/davidearn/fadeout-heuristic.git
-burnout: https://github.com/davidearn/burnout ## NOALL 
+fadeouts: https://github.com/davidearn/fadeout-heuristic ## MS
+burnout: https://github.com/davidearn/burnout ## NOALL  ## package
 
 EarnOp: https://github.com/davidearn/OpEd.git ## NOALL
 
