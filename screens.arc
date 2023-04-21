@@ -131,6 +131,7 @@ XX. ortho: https://github.com/dushoff/orthogonality
 ## POX
 
 poxli: https://github.com/wzmli/macpan_mpx
+notinvitedpoxli: https://github.com/wzmli/mpx_canada
 
 bintr: https://github.com/wzmli/bintr
 
