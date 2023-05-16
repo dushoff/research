@@ -15,8 +15,8 @@ Sources += main.tex dynamicaltruncation.bib
 main.pdf: main.tex
 main.tex.pdf: main.tex
 
+## Work on overleaf or else use this file to preserve the weird overleaf comments
 Sources += jd.tex
-
 ## jd.pdf: jd.tex
 ## jdiff01.pdf: jd.tex
 
