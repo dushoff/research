@@ -21,6 +21,13 @@ Sources += $(wildcard images/*.png)
 names:
 	rename "s/ /_/g" images/*
 
+## JOMB_formatted.ld.pdf: JOMB_formatted.tex.37fa7855f.oldfile JOMB_formatted.tex
+
+## Annoying, eliminate when not needed
+Ignore += images/Macpan_Base_actual.png
+images/Macpan_Base_actual.png: images/macpan_base_actual.png
+	$(link)
+
 ######################################################################
 
 ### Makestuff
