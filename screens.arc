@@ -403,6 +403,8 @@ rubellaSA:  https://github.com/ICI3D/rubellaSA.git  ../projects/rubella/
 
 ## Earn 
 
+oncovid: https://github.com/davidearn/oncovid.git
+
 covidgrowthfit: https://github.com/davidearn/covidgrowthfit.git
 * Patterns of little r
 
@@ -422,7 +424,7 @@ epigrowthfit: https://github.com/davidearn/epigrowthfit.git ## NOALL
 egf_extra: https://github.com/dushoff/egf_extra.git
 
 ## Fadeouts (Old invasion project) Parsons-led now
-fadeouts: https://github.com/davidearn/fadeout-heuristic ## MS
+XX. fadeouts: https://github.com/davidearn/fadeout-heuristic ## MS
 burnout: https://github.com/davidearn/burnout ## NOALL  ## package
 
 EarnOp: https://github.com/davidearn/OpEd.git ## NOALL
