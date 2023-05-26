@@ -13,6 +13,7 @@ vim_session:
 Sources += README.md
 Sources += $(wildcard *.tex)
 
+Ignore += *.ld.*
 ## JOMB_formatted.pdf: JOMB_formatted.tex
 ## JOMB_formatted.log: JOMB_formatted.tex
 ## JOMB_formatted.tex.pdf: JOMB_formatted.tex
