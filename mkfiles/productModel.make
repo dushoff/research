@@ -29,6 +29,8 @@ Ignore += images/Macpan_Base_actual.png
 images/Macpan_Base_actual.png: images/macpan_base_actual.png
 	$(link)
 
+Ignore += svg-inkscape
+
 ######################################################################
 
 ### Makestuff
@@ -47,6 +49,7 @@ makestuff/Makefile:
 -include makestuff/os.mk
 
 ## -include makestuff/pipeR.mk
+latex = pdflatex --shell-escape
 -include makestuff/texi.mk
 
 -include makestuff/git.mk
