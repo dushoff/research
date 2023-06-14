@@ -456,7 +456,7 @@ intermittent.tmp
 
 ## Stelmach Sophie
 
-sophie: https://github.com/davidearn/SophieStelmach.git
+XX. sophie: https://github.com/davidearn/SophieStelmach.git
 
 XX. macSurvey: https://git.overleaf.com/63234b917bd9e40887d0d291
 https://www.overleaf.com/1129955835kzxmjtwmgmvz
