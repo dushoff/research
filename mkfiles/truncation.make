@@ -15,16 +15,25 @@ Sources += main.tex dynamicaltruncation.bib
 main.pdf: main.tex
 main.tex.pdf: main.tex
 
-
 ## Work on overleaf or else use this file to preserve the weird overleaf comments
-Sources += jd.tex
-update:
-	$(CPF) main.tex jd.tex
-## jd.pdf: jd.tex
-## jdiff01.pdf: jd.tex
+## What is the detach stuff about? 2023 Jun 14 (Wed)
+# https://www.overleaf.com/project/63d00636ca448b850dcc82cc/detacher
+# https://www.overleaf.com/project/63d00636ca448b850dcc82cc/detached
 
+Sources += jd.tex jdbase.tex
+update: commit.time
+	$(RMF) jdbase.tex
+	$(CPF) main.tex jd.tex
+	$(CPF) main.tex jdbase.tex
+	$(RO) jdbase.tex
+
+## jd.pdf: jd.tex
+## jdiff02.pdf: jd.tex
+## jdiff02.pdf.pdf: jd.tex
+
+## Re-do with standard ld technol
 Ignore += jdiff*.tex
-jdiff%.tex: main.tex jd.tex
+jdiff02.tex: jdbase.tex jd.tex
 	$(latexdiff)
 
 ######################################################################
