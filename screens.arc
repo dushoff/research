@@ -172,7 +172,9 @@ harris5: https://git.overleaf.com/622a373c3c3682e6ab58afd6
 apeak: https://git.overleaf.com/627b89d8c687175fcbfd0fbb
 
 ## Park github
-XX. avar: https://github.com/parksw3/asymptomaticvariant.git 
+avar: https://github.com/parksw3/asymptomaticvariant.git 
+
+Published
 
 ######################################################################
 
@@ -287,7 +289,7 @@ interval_data: https://github.com/parksw3/serialdata.git
 ## Daniel and Sunky's individual/population speed/strength stuff
 ## Invite co-authors (David, Ben, Sunky, Bryan, Joshua, Jess?, Funk?)
 ## Submit to JRSI
-## Reap rewards
+## Reap rewards (Daniel calls this the Rt paper)
 XX. gamma: https://github.com/parksw3/individual_intervention.git
 
 ## Quick new variant stuff
@@ -297,7 +299,8 @@ ssvariant: https://github.com/parksw3/newvariant.git
 
 XX. status: https://github.com/parksw3/immune-boosting
 
-XX. omicron_gens: https://github.com/parksw3/omicron-generation.git
+## Published
+omicron_gens: https://github.com/parksw3/omicron-generation.git
 
 ## Within- and between-group heterogeneity with Christophe Fraser et al.
 ## norepoyetshared
