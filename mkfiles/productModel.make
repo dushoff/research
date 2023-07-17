@@ -6,12 +6,12 @@ current: target
 # -include makestuff/perl.def
 
 vim_session:
-	bash -cl "vmt"
+	bash -cl "vmt README.md"
 
 ######################################################################
 
 Sources += README.md
-Sources += $(wildcard *.tex)
+Sources += $(wildcard *.tex *.sh)
 
 Ignore += *.ld.*
 ## JOMB_formatted.pdf: JOMB_formatted.tex
