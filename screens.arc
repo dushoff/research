@@ -1,4 +1,5 @@
 
+
 makestuff/listdir.md
 content.list
 
@@ -239,6 +240,8 @@ predictions: https://github.com/dushoff/predictions.git
 
 Defunct-ish, unfortunately. Doesn't really have a clear Make structure
 dates: https://github.com/mac-theobio/dateProcessing.git ## NOALL
+
+XX. discretization: https://github.com/bbolker/discretization.git
 
 ######################################################################
 
