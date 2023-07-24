@@ -12,15 +12,13 @@ vim_session:
 
 Sources += main.tex dynamicaltruncation.bib
 
-main.pdf: main.tex
-main.tex.pdf: main.tex
+## main.tex.pdf: main.tex
+## main.pdf: main.tex
 
 ######################################################################
 
 ## Work on overleaf or else use this file to preserve the weird overleaf comments
-## What is the detach stuff about? 2023 Jun 14 (Wed)
-# https://www.overleaf.com/project/63d00636ca448b850dcc82cc/detacher
-# https://www.overleaf.com/project/63d00636ca448b850dcc82cc/detached
+# https://www.overleaf.com/project/63d00636ca448b850dcc82cc
 
 ## jd.pdf: jd.tex
 ## jdiff.pdf: jdbase.tex jd.tex
