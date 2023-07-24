@@ -188,7 +188,7 @@ Todo list: probably obsolete (Roswell 2022 Nov 23 (Wed))
 XX. checkPlots:  https://github.com/dushoff/checkPlots.git
 
 ## Going to be a MS
-CheckDiv:  https://github.com/mikeroswell/CheckDiv.git 
+XX. CheckDiv:  https://github.com/mikeroswell/CheckDiv.git 
 
 ## This package is coming out with the OikosR1S2
 ## Should be submitted soon-ish to MEE or JSS ## re-upped 2023 Mar 28 (Tue)
