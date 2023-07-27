@@ -19,6 +19,7 @@ Sources += main.tex dynamicaltruncation.bib
 
 ## Work on overleaf or else use this file to preserve the weird overleaf comments
 # https://www.overleaf.com/project/63d00636ca448b850dcc82cc
+## 2023 Jul 27 (Thu) Stop using this whole repo in the absence of support from Daniel -- work on overleaf via PlanningH
 
 ## jd.pdf: jd.tex
 ## jdiff.pdf: jdbase.tex jd.tex
