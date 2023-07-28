@@ -1,7 +1,11 @@
 
 
+
 makestuff/listdir.md
 content.list
+
+earnAlliance: https://github.com/davidearn/NSERC_Alliance
+## earnAlliance/hubs/application.vscreen
 
 ######################################################################
 
