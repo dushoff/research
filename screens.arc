@@ -1,6 +1,4 @@
 
-
-
 makestuff/listdir.md
 content.list
 
