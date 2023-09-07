@@ -1,6 +1,4 @@
 
-
-
 makestuff/listdir.md
 content.list
 
@@ -46,6 +44,9 @@ ukcovid: https://github.com/wzmli/ukcovid.git
 
 ## Something old! Mike accidentally thought he wanted it 2022 Jun 07 (Tue)
 corona: https://github.com/wzmli/corona.git 
+
+## 2023 Sep 06 (Wed)
+li_cross: https://github.com/wzmli/cross_immunity_prod.git
 
 ######################################################################
 
