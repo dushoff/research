@@ -576,6 +576,12 @@ huynh: https://github.com/huynhm7/MDD-Thesis.git
 
 ######################################################################
 
+## Ningrui
+
+XX. nxThesis: https://github.com/Tiffany-Xie/Thesis_NX
+
+######################################################################
+
 ## Ali
 
 SIRtest: https://github.com/aligharouni/SIRmodel.git
