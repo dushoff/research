@@ -1,3 +1,6 @@
+## Outdated and deprecated!!!
+## This is a _linked_ (mkfile) Makefile for DARREN's Product Model paper
+
 current: target
 -include target.mk
 
@@ -36,7 +39,7 @@ Ignore += svg-inkscape
 ## Sources += $(wildcard *.mk)
 ## include $(wildcard *.mk)
 
-Sources += Makefile
+Ignore += Makefile
 Ignore += makestuff
 msrepo = https://github.com/dushoff
 

@@ -446,7 +446,9 @@ EarnOp: https://github.com/davidearn/OpEd.git ## NOALL
 
 ## FlynnPrimrose
 
-XX. productModel: https://git.overleaf.com/62c47733b38f39223ce3d7ec
+XX. productModel: https://git.overleaf.com/64f0d175326cfbdad8ace76c
+
+productModelDeprecated: https://git.overleaf.com/62c47733b38f39223ce3d7ec
 
 ######################################################################
 
