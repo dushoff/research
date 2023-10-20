@@ -202,8 +202,6 @@ XX. CheckDiv:  https://github.com/mikeroswell/CheckDiv.git
 ## seesaws are also here
 XX. rarity: https://github.com/mikeroswell/MeanRarity.git
 
-richness: https://github.com/mikeroswell/Richness_abundance_sampling.git
-
 God's estimator is here
 
 ## 2023 Mar 28 (Tue) Goals
@@ -251,6 +249,9 @@ Defunct-ish, unfortunately. Doesn't really have a clear Make structure
 dates: https://github.com/mac-theobio/dateProcessing.git ## NOALL
 
 XX. discretization: https://github.com/bbolker/discretization.git
+
+SIR fitting
+https://github.com/bbolker/fitsir/
 
 ######################################################################
 
