@@ -211,7 +211,7 @@ God's estimator is here
 * checkPlots package
 * fancier packages with heavy-lifting stuff (both diversity-specific and not)
 
-richness: https://github.com/mikeroswell/Richness_abundance_sampling.git
+XX. richness: https://github.com/mikeroswell/Richness_abundance_sampling.git
 
 ## Published
 Diversity_Guide: https://github.com/mikeroswell/Diversity_Guide.git
