@@ -55,7 +55,7 @@ Walker> macpan2 repo is here https://github.com/canmod/macpan2.
 
 ## Covid forecasts
 
-macpan:  https://github.com/bbolker/McMasterPandemic.git ../coronavirus/mac/
+macpan1:  https://github.com/bbolker/McMasterPandemic.git ../coronavirus/mac/
 macpan/notes ## This is inaesthetic
 macpan/ontario ## 
 ## The two Dushoff subdirs each make their own cachestuff; also, what's the relationship with macpan_ontario?
