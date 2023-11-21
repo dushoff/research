@@ -449,6 +449,8 @@ burnout: https://github.com/davidearn/burnout ## NOALL  ## package
 
 EarnOp: https://github.com/davidearn/OpEd.git ## NOALL
 
+final: https://github.com/toddlparsons/final-size ## NOALL
+
 ######################################################################
 
 ## FlynnPrimrose
