@@ -347,6 +347,8 @@ rabies_report
 
 tz_vaccine: https://github.com/wzmli/TZrabies_vaccine.git
 
+rrNotes: https://github.com/mikeroswell/RabiesNotes
+
 ######################################################################
 
 London school
@@ -445,7 +447,12 @@ egf_extra: https://github.com/dushoff/egf_extra.git
 XX. fadeouts: https://github.com/davidearn/fadeout-heuristic ## MS
 burnout: https://github.com/davidearn/burnout ## NOALL  ## package
 
+recurrent: https://github.com/toddlparsons/fadeout-SIRS
+
 EarnOp: https://github.com/davidearn/OpEd.git ## NOALL
+
+## Bologna 2023 project
+immuneStatus: https://github.com/dushoff/immuneStatus
 
 ######################################################################
 
