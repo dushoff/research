@@ -325,6 +325,8 @@ Milo and Sender (the Rons)
 * https://docs.google.com/presentation/d/1lVSU9aRttmwt2C_WqvfPt40qJNXyUjG1uxBcT7W372U/edit?usp=sharing_eip_m&ts=61275a87
 * Downloads/rons_update.pdf
 
+rsv: https://github.com/parksw3/rsv-immunity.git
+
 ######################################################################
 
 ## Rabies
@@ -451,7 +453,9 @@ recurrent: https://github.com/toddlparsons/fadeout-SIRS
 
 EarnOp: https://github.com/davidearn/OpEd.git ## NOALL
 
-## Bologna 2023 project
+final: https://github.com/toddlparsons/final-size ## NOALL
+
+## Bologna 2023 project Not even a repo yet!
 immuneStatus: https://github.com/dushoff/immuneStatus
 
 ######################################################################
@@ -593,6 +597,8 @@ huynh: https://github.com/huynhm7/MDD-Thesis.git
 ## Ningrui
 
 XX. nxThesis: https://github.com/Tiffany-Xie/Thesis_NX
+
+XX. pePackage: https://github.com/Tiffany-Xie/pseudoErlang
 
 ######################################################################
 
