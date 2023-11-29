@@ -314,6 +314,13 @@ ssvariant: https://github.com/parksw3/newvariant.git
 
 XX. status: https://github.com/parksw3/immune-boosting
 
+## Park Bologna
+diagrams directory
+fit directory
+figure directory
+XX. boost: https://github.com/parksw3/boosting-coexistence
+XX. rsv: https://github.com/parksw3/rsv-immunity
+
 ## Published
 omicron_gens: https://github.com/parksw3/omicron-generation.git
 
@@ -324,8 +331,6 @@ Milo and Sender (the Rons)
 * https://docs.google.com/document/d/1fsH-7ZsmUOATfVGcEtr0fPFJYKNCFXMA77Rjya5m7Qs/edit
 * https://docs.google.com/presentation/d/1lVSU9aRttmwt2C_WqvfPt40qJNXyUjG1uxBcT7W372U/edit?usp=sharing_eip_m&ts=61275a87
 * Downloads/rons_update.pdf
-
-rsv: https://github.com/parksw3/rsv-immunity.git
 
 ######################################################################
 
@@ -453,9 +458,7 @@ recurrent: https://github.com/toddlparsons/fadeout-SIRS
 
 EarnOp: https://github.com/davidearn/OpEd.git ## NOALL
 
-final: https://github.com/toddlparsons/final-size ## NOALL
-
-## Bologna 2023 project Not even a repo yet!
+## Bologna 2023 project
 immuneStatus: https://github.com/dushoff/immuneStatus
 
 ######################################################################
@@ -597,8 +600,6 @@ huynh: https://github.com/huynhm7/MDD-Thesis.git
 ## Ningrui
 
 XX. nxThesis: https://github.com/Tiffany-Xie/Thesis_NX
-
-XX. pePackage: https://github.com/Tiffany-Xie/pseudoErlang
 
 ######################################################################
 

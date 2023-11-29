@@ -1,4 +1,4 @@
-## This is a _linked_ (mkfile) Makefile for Park rsv-immunity
+## This is a _linked_ (mkfile) Makefile for Daniel's boosting-coexistence
 
 current: target
 -include target.mk
@@ -6,14 +6,18 @@ current: target
 # -include makestuff/perl.def
 
 vim_session:
-	bash -cl "vmt README.md"
+	bash -cl "vmt"
 
 ######################################################################
 
-## figure/
-## figure/figure_npi_cpp.pdf
-## figure/figure_confint_simulate_npi_cpp.pdf
-## figure/figure_confint_simulate_cpp.pdf
+Sources += bologna/*.R
+
+%.Rout: bologna/*.R
+	$(pipeR)
+
+params.Rout: bologna/params.R fit/fit_beta_hcov_boosting.rda
+## params.Rout. fit/fit_beta_hcov_leaky.rda
+
 ### Makestuff
 
 ## Sources += $(wildcard *.mk)
@@ -29,7 +33,7 @@ makestuff/Makefile:
 
 -include makestuff/os.mk
 
-## -include makestuff/pipeR.mk
+-include makestuff/pipeR.mk
 
 -include makestuff/git.mk
 -include makestuff/visual.mk
