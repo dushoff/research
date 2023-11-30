@@ -315,10 +315,10 @@ ssvariant: https://github.com/parksw3/newvariant.git
 XX. status: https://github.com/parksw3/immune-boosting
 
 ## Park Bologna
+XX. boost: https://github.com/parksw3/boosting-coexistence
 diagrams directory
 fit directory
 figure directory
-XX. boost: https://github.com/parksw3/boosting-coexistence
 XX. rsv: https://github.com/parksw3/rsv-immunity
 
 ## Published
@@ -459,7 +459,7 @@ recurrent: https://github.com/toddlparsons/fadeout-SIRS
 EarnOp: https://github.com/davidearn/OpEd.git ## NOALL
 
 ## Bologna 2023 project
-immuneStatus: https://github.com/dushoff/immuneStatus
+XX. immuneStatus: https://github.com/dushoff/immuneStatus
 
 ######################################################################
 
