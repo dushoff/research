@@ -10,6 +10,8 @@ vim_session:
 
 ######################################################################
 
+Sources += README.md
+
 ## figure/
 ## figure/figure_npi_cpp.pdf
 ## figure/figure_confint_simulate_npi_cpp.pdf
