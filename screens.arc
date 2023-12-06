@@ -601,7 +601,7 @@ huynh: https://github.com/huynhm7/MDD-Thesis.git
 
 XX. nxThesis: https://github.com/Tiffany-Xie/Thesis_NX
 
-XX. nxPackage: https://github.com/Tiffany-Xie/pseudoErlang
+XX. pePackage: https://github.com/Tiffany-Xie/pseudoErlang
 
 ######################################################################
 
