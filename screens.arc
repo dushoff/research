@@ -461,6 +461,7 @@ EarnOp: https://github.com/davidearn/OpEd.git ## NOALL
 ## Bologna 2023 project
 XX. immuneStatus: https://github.com/dushoff/immuneStatus
 
+
 ######################################################################
 
 ## FlynnPrimrose
@@ -600,8 +601,6 @@ huynh: https://github.com/huynhm7/MDD-Thesis.git
 ## Ningrui
 
 XX. nxThesis: https://github.com/Tiffany-Xie/Thesis_NX
-
-XX. pePackage: https://github.com/Tiffany-Xie/pseudoErlang
 
 ######################################################################
 
