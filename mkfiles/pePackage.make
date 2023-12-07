@@ -1,5 +1,5 @@
 ## This is a _linked_ (mkfile) Makefile for Xie Ningrui pePackage
-## The package is called PseudoE (should change to match repo name PseudoErlang)
+## The package is called PseudoErlang
 
 current: target
 -include target.mk
@@ -8,6 +8,13 @@ current: target
 
 vim_session:
 	bash -cl "vmt"
+
+######################################################################
+
+## quickinstall: 
+## pkgall:
+
+Sources += DESCRIPTION $(wildcard *.R) .Rbuildignore
 
 ######################################################################
 
@@ -29,5 +36,6 @@ makestuff/Makefile:
 ## -include makestuff/pipeR.mk
 
 -include makestuff/git.mk
+-include makestuff/rpkg.mk
 -include makestuff/visual.mk
 -include makestuff/projdir.mk
