@@ -458,9 +458,10 @@ recurrent: https://github.com/toddlparsons/fadeout-SIRS
 
 EarnOp: https://github.com/davidearn/OpEd.git ## NOALL
 
-## Bologna 2023 project
+## Bologna 2023 project (not uploaded!)
 XX. immuneStatus: https://github.com/dushoff/immuneStatus
 
+XX. immuneExplore: https://github.com/dushoff/immuneExplore
 
 ######################################################################
 
