@@ -45,8 +45,12 @@ ukcovid: https://github.com/wzmli/ukcovid.git
 ## Something old! Mike accidentally thought he wanted it 2022 Jun 07 (Tue)
 corona: https://github.com/wzmli/corona.git 
 
-## 2023 Sep 06 (Wed)
+XX. li_immune: https://github.com/wzmli/immunity.git
 li_cross: https://github.com/wzmli/cross_immunity_prod.git
+
+## Bologna 2023 project (not uploaded!)
+XX. immuneStatus: https://github.com/dushoff/immuneStatus
+XX. immuneExplore: https://github.com/dushoff/immuneExplore
 
 ######################################################################
 
@@ -68,8 +72,6 @@ state:  https://github.com/bbolker/NYScovid19.git ../coronavirus/state/
 
 TMB transition
 on_mptmb: https://github.com/wzmli/on_mptmb.git
-
-XX. li_immune: https://github.com/wzmli/immunity.git
 
 ## Explanations for Walker
 cohorts: https://github.com/dushoff/cohorts
@@ -404,9 +406,9 @@ https://www.zotero.org/groups/
 sanaNotes: https://git.overleaf.com/62a357a29c8253dd5ccf5158
 https://www.overleaf.com/2769168425brnwqpfzjrrw
 
-XX. mmrImmunity: https://github.com/s-jahed/waning-vaccine-induced-immunity
+mmrImmunity: https://github.com/s-jahed/waning-vaccine-induced-immunity
 
-XX. mmrImmunity/Simulations:
+mmrImmunity/Simulations:
 
 ######################################################################
 
@@ -458,10 +460,6 @@ recurrent: https://github.com/toddlparsons/fadeout-SIRS
 
 EarnOp: https://github.com/davidearn/OpEd.git ## NOALL
 
-## Bologna 2023 project (not uploaded!)
-XX. immuneStatus: https://github.com/dushoff/immuneStatus
-
-XX. immuneExplore: https://github.com/dushoff/immuneExplore
 
 ######################################################################
 
