@@ -45,7 +45,10 @@ ukcovid: https://github.com/wzmli/ukcovid.git
 ## Something old! Mike accidentally thought he wanted it 2022 Jun 07 (Tue)
 corona: https://github.com/wzmli/corona.git 
 
+## For looking at seroprevalence data:
 XX. li_immune: https://github.com/wzmli/immunity.git
+
+## All the weird diagrams from late 2023
 li_cross: https://github.com/wzmli/cross_immunity_prod.git
 
 ## Bologna 2023 project (not uploaded!)
