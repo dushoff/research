@@ -570,35 +570,10 @@ packagemaker: https://github.com/ComputationalProteomicsUnit/maker.git
 
 ######################################################################
 
-2021 theses
 
-## So
+## Tuan
 
-## ICES project (Just reporting from Matthew)
-icesvacc: https://github.com/matthewcso/vaccine_effectiveness_ontario  ## NOALL
-
-## Junior project
-So_lysogeny:  https://github.com/Apeirogons/3BM6-Modelling.git 
-
-## Thesis
-So_thesis: https://github.com/Apeirogons/COVID-math-thesis ## NOALL
-* https://docs.google.com/document/d/105QZAGMzl7m6JZiXGLuycXWrZcsydqJ_/edit#
-
-## Patient-level data
-So_lags: https://github.com/Apeirogons/covid-time-lag ## NOALL
-
-## Population-level data
-So_regression:  https://github.com/Apeirogons/covid-time-lag-regression.git ## NOALL
-
-## Geetha
-
-test_positivity:  https://github.com/GeethaJey/COVID-TPR.git ./test_positivity
-
-## Michelle Huynh
-
-huynh: https://github.com/huynhm7/MDD-Thesis.git
-
-######################################################################
+XX. tuanProjects: https://github.com/dushoff/tuanProjects
 
 ## Ningrui
 
@@ -629,6 +604,36 @@ leisure: https://github.com/dushoff/LeisurelyStatistics
 Archivy stuff
 
 stochChapter: https://github.com/dushoff/Stochasticity_chapter.git
+
+######################################################################
+
+2021 theses
+
+## So
+
+## ICES project (Just reporting from Matthew)
+icesvacc: https://github.com/matthewcso/vaccine_effectiveness_ontario  ## NOALL
+
+## Junior project
+So_lysogeny:  https://github.com/Apeirogons/3BM6-Modelling.git 
+
+## Thesis
+So_thesis: https://github.com/Apeirogons/COVID-math-thesis ## NOALL
+* https://docs.google.com/document/d/105QZAGMzl7m6JZiXGLuycXWrZcsydqJ_/edit#
+
+## Patient-level data
+So_lags: https://github.com/Apeirogons/covid-time-lag ## NOALL
+
+## Population-level data
+So_regression:  https://github.com/Apeirogons/covid-time-lag-regression.git ## NOALL
+
+## Geetha
+
+test_positivity:  https://github.com/GeethaJey/COVID-TPR.git ./test_positivity
+
+## Michelle Huynh
+
+huynh: https://github.com/huynhm7/MDD-Thesis.git
 
 ######################################################################
 
