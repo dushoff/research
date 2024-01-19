@@ -317,6 +317,7 @@ XX. gamma: https://github.com/parksw3/individual_intervention.git
 ## IN review
 ssvariant: https://github.com/parksw3/newvariant.git
 
+## Rejected PNAS months ago 2024 Jan 19 (Fri)
 XX. status: https://github.com/parksw3/immune-boosting
 
 ## Park Bologna
