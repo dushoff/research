@@ -57,7 +57,6 @@ XX. immuneExplore: https://github.com/dushoff/immuneExplore
 
 ######################################################################
 
-
 Walker> macpan2 repo is here https://github.com/canmod/macpan2. 
 
 ## Covid forecasts
@@ -464,7 +463,6 @@ recurrent: https://github.com/toddlparsons/fadeout-SIRS
 
 EarnOp: https://github.com/davidearn/OpEd.git ## NOALL
 
-
 ######################################################################
 
 ## FlynnPrimrose
@@ -570,7 +568,6 @@ goldstein: https://github.com/Outbreak-analysis/VaccinationLetter.git
 packagemaker: https://github.com/ComputationalProteomicsUnit/maker.git
 
 ######################################################################
-
 
 ## Tuan
 
