@@ -582,7 +582,7 @@ Working on mid-year report, not yet shared 2024 Jan 04 (Thu)
 
 XX. nxThesis: https://github.com/Tiffany-Xie/Thesis_NX
 
-XX. pePackage https://github.com/Tiffany-Xie/pseudoErlang
+XX. pePackage: https://github.com/Tiffany-Xie/pseudoErlang
 
 ######################################################################
 
@@ -639,4 +639,6 @@ huynh: https://github.com/huynhm7/MDD-Thesis.git
 ######################################################################
 
 Orphans
+
+
 
