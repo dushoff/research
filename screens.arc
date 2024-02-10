@@ -401,7 +401,7 @@ fgc: https://github.com/fishforwish/fgc.git ## This has a corrupted submodule st
 
 ######################################################################
 
-XX. agronahPower: https://github.com/magronah/PhD_Projects.git ## NOALL
+agronahPower: https://github.com/magronah/PhD_Projects.git ## NOALL
 
 ######################################################################
 
