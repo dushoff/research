@@ -52,7 +52,7 @@ XX. li_immune: https://github.com/wzmli/immunity.git
 li_cross: https://github.com/wzmli/cross_immunity_prod.git
 
 ## Misc
-XX. wz: https://github.com/wzmli/misc.git
+XX. vaxsims: https://github.com/wzmli/misc.git
 
 ## Bologna 2023 project (not uploaded!)
 XX. immuneStatus: https://github.com/dushoff/immuneStatus
