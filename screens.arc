@@ -54,6 +54,8 @@ li_cross: https://github.com/wzmli/cross_immunity_prod.git
 ## Misc
 XX. vaxsims: https://github.com/wzmli/misc.git
 
+XX. liMeasles: https://github.com/wzmli/macpan2_measles
+
 ## Bologna 2023 project (not uploaded!)
 XX. immuneStatus: https://github.com/dushoff/immuneStatus
 XX. immuneExplore: https://github.com/dushoff/immuneExplore
