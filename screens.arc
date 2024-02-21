@@ -52,7 +52,7 @@ XX. li_immune: https://github.com/wzmli/immunity.git
 li_cross: https://github.com/wzmli/cross_immunity_prod.git
 
 ## Misc
-XX. vaxsims: https://github.com/wzmli/misc.git
+XX. vaxsims: https://github.com/wzmli/vaxsims
 
 ## Bologna 2023 project (not uploaded!)
 XX. immuneStatus: https://github.com/dushoff/immuneStatus
@@ -346,7 +346,9 @@ Milo and Sender (the Rons)
 
 Epidemics, BMC Public Health? PLoS NTDs
 * Ask Ben; talk to Mike
-rabies_R0:  https://github.com/wzmli/rabies_R0.git  ../outbreak/rabies_R0/
+rabies_R0:  https://github.com/wzmli/rabies_R0
+
+rabiesThesis:  https://github.com/wzmli/mli_thesis
 
 rabies_correlations:  https://github.com/wzmli/rabies_correlations.git  ../rabies/correlations/
 
