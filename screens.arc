@@ -195,6 +195,8 @@ Published
 
 ## Roswell
 
+XX. epiExplore: https://github.com/mikeroswell/epiExplore
+
 Todo list: probably obsolete (Roswell 2022 Nov 23 (Wed))
 * https://docs.google.com/document/d/1cqjKMvk4qV1paSwkiRnCRZldU1fuPBvlmJlZQvlhDjo/edit?ts=60240871
 
