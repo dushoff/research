@@ -62,6 +62,10 @@ XX. immuneExplore: https://github.com/dushoff/immuneExplore
 
 ######################################################################
 
+XX. plague_virulence: https://github.com/bbolker/plague_virulence
+
+######################################################################
+
 Walker> macpan2 repo is here https://github.com/canmod/macpan2. 
 
 ## Covid forecasts
