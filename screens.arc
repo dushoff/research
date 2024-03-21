@@ -444,7 +444,9 @@ XX. rubellaSA:  https://github.com/Villyen/rubellaSA.git
 
 ## Earn 
 
-oncovid: https://github.com/davidearn/oncovid.git
+oncovid: https://github.com/davidearn/oncovid.git ## NOALL
+
+oncovid/covid-age-master:
 
 covidgrowthfit: https://github.com/davidearn/covidgrowthfit.git
 * Patterns of little r
@@ -503,8 +505,12 @@ intermittent.tmp
 
 XX. sophie: https://github.com/davidearn/SophieStelmach.git
 
+
 XX. macSurvey: https://git.overleaf.com/63234b917bd9e40887d0d291
 https://www.overleaf.com/1129955835kzxmjtwmgmvz
+Sophie to report back about this; then David and Jonathan decide what to do.
+
+oncovid repo listed below
 
 ######################################################################
 
