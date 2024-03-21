@@ -18,6 +18,8 @@ Learn_distributions.Rout: Learn_distributions.R
 
 geometric.Rout: geometric.R
 
+nbtest.Rout: nbtest.R
+
 ######################################################################
 
 ### Makestuff
