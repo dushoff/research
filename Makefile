@@ -13,6 +13,8 @@ vim_session:
 screen_session: screens.update
 	$(MAKE) $(vscreens)
 
+Ignore += screenlog.32
+
 ######################################################################
 
 Ignore += time.tmp
