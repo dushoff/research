@@ -354,6 +354,10 @@ Milo and Sender (the Rons)
 
 ## Rabies
 
+rabiesBias: https://github.com/RowanDurrant/rabies-codon-bias
+
+----------------------------------------------------------------------
+
 Epidemics, BMC Public Health? PLoS NTDs
 * Ask Ben; talk to Mike
 rabies_R0:  https://github.com/wzmli/rabies_R0
