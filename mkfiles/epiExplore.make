@@ -20,6 +20,10 @@ geometric.Rout: geometric.R
 
 nbtest.Rout: nbtest.R
 
+eightyPercentGeometric.Rout: eightyPercentGeometric.R
+
+80.Rout: 80.R
+
 ######################################################################
 
 ### Makestuff
