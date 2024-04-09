@@ -14,14 +14,28 @@ Sources += $(wildcard *.R)
 
 autopipeR = defined
 
+######################################################################
+
+## Lloyd
+
+myLloyd-Smith.Rout: myLloyd-Smith.R
+
+######################################################################
+
 Learn_distributions.Rout: Learn_distributions.R
 
 geometric.Rout: geometric.R
 
 nbtest.Rout: nbtest.R
 
+######################################################################
+
+## 80-20
+
+## Roswell-Weitz pgeom
 eightyPercentGeometric.Rout: eightyPercentGeometric.R
 
+## Simpler from JD
 80.Rout: 80.R
 
 ######################################################################
