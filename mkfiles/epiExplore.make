@@ -6,13 +6,19 @@ current: target
 # -include makestuff/perl.def
 
 vim_session:
-	bash -cl "vmt"
+	bash -cl "vmt drop.md"
 
 ######################################################################
 
 Sources += $(wildcard *.R)
 
 autopipeR = defined
+
+######################################################################
+
+Sources += $(wildcard *.md)
+
+## drop.filemerge: drop.md
 
 ######################################################################
 
@@ -56,6 +62,7 @@ makestuff/Makefile:
 -include makestuff/os.mk
 
 -include makestuff/pipeR.mk
+-include makestuff/ldrop.mk
 
 -include makestuff/git.mk
 -include makestuff/visual.mk

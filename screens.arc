@@ -201,6 +201,8 @@ Published
 
 ## Roswell
 
+Heterogeneity stuff with Weitz lab
+
 XX. epiExplore: https://github.com/mikeroswell/epiExplore
 
 Todo list: probably obsolete (Roswell 2022 Nov 23 (Wed))
