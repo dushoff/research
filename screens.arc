@@ -415,7 +415,7 @@ awareness_proposal: https://github.com/covid19awareness/CIHR_call.git
 
 ### pre-covid
 
-fgc: https://github.com/fishforwish/fgc.git
+fgc: https://github.com/fishforwish/fgc.git ## This has a corrupted submodule structure
 
 ######################################################################
 
@@ -488,11 +488,10 @@ EarnOp: https://github.com/davidearn/OpEd.git ## NOALL
 
 ######################################################################
 
-## FlynnPrimrose
+## productModel (no current name, to avoid using the old directories)
 
-XX. productModel: https://git.overleaf.com/64f0d175326cfbdad8ace76c
-
-productModelDeprecated: https://git.overleaf.com/62c47733b38f39223ce3d7ec
+https://git.overleaf.com/64f0d175326cfbdad8ace76c
+https://www.overleaf.com/project/64f0d175326cfbdad8ace76c (title:
 
 ######################################################################
 
