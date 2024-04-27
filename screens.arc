@@ -358,8 +358,6 @@ Milo and Sender (the Rons)
 
 rabiesBias: https://github.com/RowanDurrant/rabies-codon-bias
 
-----------------------------------------------------------------------
-
 Epidemics, BMC Public Health? PLoS NTDs
 * Ask Ben; talk to Mike
 rabies_R0:  https://github.com/wzmli/rabies_R0
@@ -607,6 +605,8 @@ Working on mid-year report, not yet shared 2024 Jan 04 (Thu)
 XX. nxThesis: https://github.com/Tiffany-Xie/Thesis_NX
 
 XX. pePackage: https://github.com/Tiffany-Xie/pseudoErlang
+
+XX. nxOE3: https://git.overleaf.com/66268f28e03157f92bd95391  ## NOALL
 
 ######################################################################
 
