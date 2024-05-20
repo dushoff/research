@@ -1,60 +1,4 @@
-
-makestuff/listdir.md
-content.list
-
-earnAlliance: https://github.com/davidearn/NSERC_Alliance
-## earnAlliance/hubs/application.vscreen
-
-######################################################################
-
-## Keywords
-
-## WAIT
-## REVISE
-## RESUBMIT
-## SUBMIT
-## POST
-## DRAFT
-
-## Research sandbox
-
-XX. sandbox: https://github.com/dushoff/ResearchSandbox.git
-
-## 2022 Oct 21 (Fri) Resurrecting because it has qbd stuff?
-scratch: https://github.com/dushoff/scratch.git
-
-######################################################################
-
-XX. tec: https://github.com/wzmli/tec_effs
-
-omike: https://github.com/wzmli/mvRt
-
-omsa: https://github.com/mac-theobio/RSAomicron
-
-osac: https://github.com/SACEMA/omicronSA ## NOALL
-
-## Branched version of osac
-saco: https://github.com/SACEMA/omicronSA ## NOALL
-
-sacco: https://github.com/SACEMA/omicronSA ## NOALL
-
-tmbfits: https://github.com/wzmli/covid_2022
-
-ukcovid: https://github.com/wzmli/ukcovid.git
-
-## Something old! Mike accidentally thought he wanted it 2022 Jun 07 (Tue)
-corona: https://github.com/wzmli/corona.git 
-
-## For looking at seroprevalence data:
-XX. li_immune: https://github.com/wzmli/immunity.git
-
-## All the weird diagrams from late 2023
-li_cross: https://github.com/wzmli/cross_immunity_prod.git
-
-## Misc
-XX. vaxsims: https://github.com/wzmli/vaxsims
-
-XX. liMeasles: https://github.com/wzmli/macpan2_measles
+macpan2_measles
 
 ## Bologna 2023 project (not uploaded!)
 XX. immuneStatus: https://github.com/dushoff/immuneStatus
@@ -379,6 +323,8 @@ rabies_report
 tz_vaccine: https://github.com/wzmli/TZrabies_vaccine.git
 
 rrNotes: https://github.com/mikeroswell/RabiesNotes
+
+Serengeti_vacc_impacts: https://github.com/eaferguson/Serengeti_vacc_impacts ## NOALL
 
 ######################################################################
 
