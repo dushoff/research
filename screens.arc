@@ -20,6 +20,9 @@ earnAlliance: https://github.com/davidearn/NSERC_Alliance
 
 XX. sandbox: https://github.com/dushoff/ResearchSandbox.git
 
+## projects with Miriam (private!)
+XX. mmdcl: https://github.com/dushoff/mmdcl.git
+
 ## 2022 Oct 21 (Fri) Resurrecting because it has qbd stuff?
 scratch: https://github.com/dushoff/scratch.git
 
