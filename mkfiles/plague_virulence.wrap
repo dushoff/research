@@ -4,9 +4,12 @@ current: target
 -include target.mk
 
 vim_session:
-	bash -cl "vmt"
+	bash -cl "vmt makefile"
 
 ######################################################################
+
+Sources += Makefile $(wildcard *.qmd)
+Ignore += *.html
 
 include Makefile
 
