@@ -1,4 +1,4 @@
-## This is a _linked_ (mkfile) Makefile for …
+## This is a _linked_ (mkfile) Makefile for … Serengeti_vacc_impacts
 
 current: target
 -include target.mk
@@ -23,6 +23,7 @@ Lmeans.Rout: R/Functions/Lmeans.R
 datRead.Rout: R/Functions/datRead.R
 	$(wrapR)
 
+## pcomp.Rout: R/pcomp.R R/Functions/Lmeans.R
 pcomp.Rout: R/pcomp.R Lmeans.rda pfuns.rda datRead.rda
 	$(pipeR)
 
