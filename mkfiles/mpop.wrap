@@ -1,0 +1,39 @@
+## This is a _linked_ WRAPPER makefile for mpop (Weitz-led grant application)
+
+current: target
+-include target.mk
+
+vim_session:
+	bash -cl "vmt"
+
+######################################################################
+
+Sources += $(wildcard *.tex)
+Ignore += Makefile
+
+## main.pdf: main.tex
+
+-include makestuff/texi.mk
+
+######################################################################
+
+### Makestuff
+
+## Sources += $(wildcard *.mk)
+## include $(wildcard *.mk)
+
+Makefile: 
+	$(touch)
+
+Ignore += makefile
+Ignore += makestuff
+msrepo = https://github.com/dushoff
+makefile: makestuff/Makefile
+makestuff/Makefile:
+	ln -s ../makestuff .
+	ls makestuff/Makefile
+
+-include makestuff/os.mk
+
+-include makestuff/git.mk
+-include makestuff/visual.mk
