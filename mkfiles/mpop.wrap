@@ -4,11 +4,13 @@ current: target
 -include target.mk
 
 vim_session:
-	bash -cl "vim makefile target.mk"
+	bash -cl "vim makefile target.mk sections/*.tex"
 
 ######################################################################
 
 Sources += $(wildcard *.tex)
+Sources += $(wildcard sections/*.tex)
+Sources += $(wildcard *.cls)
 Ignore += Makefile
 
 ## main.pdf: main.tex
