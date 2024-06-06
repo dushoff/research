@@ -461,7 +461,7 @@ XX. rubellaSA:  https://github.com/Villyen/rubellaSA.git
 
 ## Earn 
 
-oncovid: https://github.com/davidearn/oncovid.git ## NOALL
+oncovid: https://github.com/davidearn/oncovid.git 
 
 oncovid/covid-age-master:
 
