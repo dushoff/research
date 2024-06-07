@@ -10,13 +10,16 @@ vim_session:
 
 ######################################################################
 
+## Replicate Elaine's stuff more or less exactly (by accident)
 Sources += $(wildcard R/*.R R/Functions/*.R)
 powers.Rout: R/powers.R
 	$(pipeR)
 
+## Calculate meas susceptibilities and do fits
 pfuns.Rout: R/Functions/pfuns.R
 	$(wrapR)
 
+## Calculate power means and balanced power means
 Lmeans.Rout: R/Functions/Lmeans.R
 	$(wrapR)
 
@@ -24,7 +27,16 @@ datRead.Rout: R/Functions/datRead.R
 	$(wrapR)
 
 ## pcomp.Rout: R/pcomp.R R/Functions/Lmeans.R
+## Play with alternatives
 pcomp.Rout: R/pcomp.R Lmeans.rda pfuns.rda datRead.rda
+	$(pipeR)
+
+## Index-based likelihood using bpMean
+indlik.Rout: R/indlik.R Lmeans.rda pfuns.rda datRead.rda
+	$(pipeR)
+
+## p-based likelihood using powMean
+powlik.Rout: R/powlik.R Lmeans.rda pfuns.rda datRead.rda
 	$(pipeR)
 
 ######################################################################
