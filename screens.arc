@@ -167,12 +167,17 @@ undercount: https://github.com/wzmli/undercount
 
 ######################################################################
 
+Weitz 2024 summer grant with Roswell
+
 XX. mpop: https://git.overleaf.com/66508900c720b8dcdf64aea0
 
 Weitz plateaus very Weitz-ish
 plateaus: https://github.com/jsweitz/covid19-git-plateaus.git
 * 2020 May 21 (Thu): submitted to PNAS
 * https://docs.google.com/document/d/1SnvpniWc8wyMob1xWFxrShOAV6n7B_s1cYhR7Dih3r8/edit
+
+Epidemics paper referred to below (Park took over from Weitz? But it's on my org??)
+asymptime: https://github.com/mac-theobio/coronavirus_asymptomatic
 
 Weitz heterogeneity two papers 
 * Downloads/WeitzOrder.pdf
