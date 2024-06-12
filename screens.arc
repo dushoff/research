@@ -2,9 +2,6 @@
 makestuff/listdir.md
 content.list
 
-earnAlliance: https://github.com/davidearn/NSERC_Alliance
-## earnAlliance/hubs/application.vscreen
-
 ######################################################################
 
 ## Keywords
@@ -460,6 +457,12 @@ XX. rubellaSA:  https://github.com/Villyen/rubellaSA.git
 ######################################################################
 
 ## Earn 
+
+
+https://github.com/davidearn/eeid2024
+
+earnAlliance: https://github.com/davidearn/NSERC_Alliance
+## earnAlliance/hubs/application.vscreen
 
 oncovid: https://github.com/davidearn/oncovid.git 
 
