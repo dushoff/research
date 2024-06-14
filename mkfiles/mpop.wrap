@@ -13,7 +13,7 @@ Sources += $(wildcard sections/*.tex)
 Sources += $(wildcard *.cls)
 Ignore += Makefile
 
-## main.pdf: main.tex
+## main.deps.pdf: main.tex
 
 -include makestuff/texi.mk
 
