@@ -15,6 +15,11 @@ Ignore += Makefile
 
 ## main.deps.pdf: main.tex
 
+Ignore += *.TEX
+sections.TEX: $(wildcard sections/*.*)
+	cat $^ > $@
+	$(readonly)
+
 -include makestuff/texi.mk
 
 ######################################################################
