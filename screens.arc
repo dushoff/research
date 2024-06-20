@@ -470,10 +470,6 @@ https://github.com/davidearn/eeid2024
 earnAlliance: https://github.com/davidearn/NSERC_Alliance
 ## earnAlliance/hubs/application.vscreen
 
-oncovid: https://github.com/davidearn/oncovid.git 
-
-oncovid/covid-age-master:
-
 covidgrowthfit: https://github.com/davidearn/covidgrowthfit.git
 * Patterns of little r
 
@@ -536,7 +532,9 @@ XX. macSurvey: https://git.overleaf.com/63234b917bd9e40887d0d291
 https://www.overleaf.com/1129955835kzxmjtwmgmvz
 Sophie to report back about this; then David and Jonathan decide what to do.
 
-oncovid repo listed below
+XX. oncovid: https://github.com/davidearn/oncovid.git 
+
+oncovid/covid-age-master:
 
 ######################################################################
 
