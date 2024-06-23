@@ -15,6 +15,12 @@ autopipeR = defined
 
 ######################################################################
 
+## ./covid-age-master/figures_sophie/fatal_probs_variants.pdf
+## ./covid-age-master/figures_sophie/fatal_probs_variants_test_noprev.pdf
+## ./covid-age-master/figures_sophie/fatal_probs_variants_test.pdf
+
+######################################################################
+
 ### Makestuff
 
 ## Sources += $(wildcard *.mk)
