@@ -1,17 +1,14 @@
-## This is a _linked_ (mkfile) Makefile for …
+## This is a _linked_ WRAPPER makefile for tsetseIncrease
 
 current: target
 -include target.mk
-
-# -include makestuff/perl.def
 
 vim_session:
 	bash -cl "vmt"
 
 ######################################################################
 
-Sources += $(wildcard GrowthRateMS/*.tex)
-Sources += GrowthRateMS/AveragingGrowthRate.tex
+## Content is in a subdirectory: GrowthRateMS
 
 Ignore += bib
 bib: GrowthRateMS/Growthrate.bib
@@ -22,8 +19,6 @@ ms.pdf: GrowthRateMS/AveragingGrowthRate.tex
 	cd GrowthRateMS && pdflatex AveragingGrowthRate
 	cp GrowthRateMS/AveragingGrowthRate.pdf $@
 
-Ignore += *.aux *.bbl *.blg *.log *.pdf
-
 ######################################################################
 
 ### Makestuff
@@ -31,18 +26,15 @@ Ignore += *.aux *.bbl *.blg *.log *.pdf
 ## Sources += $(wildcard *.mk)
 ## include $(wildcard *.mk)
 
-Ignore += Makefile
+Ignore += makefile
 Ignore += makestuff
 msrepo = https://github.com/dushoff
-Makefile: makestuff/Makefile
+makefile: makestuff/Makefile
 makestuff/Makefile:
 	ln -s ../makestuff .
 	ls makestuff/Makefile
 
 -include makestuff/os.mk
 
-## -include makestuff/pipeR.mk
-
 -include makestuff/git.mk
 -include makestuff/visual.mk
--include makestuff/projdir.mk
