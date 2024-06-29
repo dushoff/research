@@ -264,6 +264,8 @@ stochInv: https://github.com/dushoff/stochInv.git
 
 predictions: https://github.com/dushoff/predictions.git
 
+forkutzaThesis: https://github.com/GregForkutza/Thesis.git
+
 ######################################################################
 
 ## Stats with Bolker
