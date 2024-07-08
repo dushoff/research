@@ -1,4 +1,4 @@
-## This is a _linked_ (mkfile) Makefile for …
+## This is a _linked_ (mkfile) Makefile for mpop (Roswell-Weitz grant overleaf)
 
 current: target
 -include target.mk
