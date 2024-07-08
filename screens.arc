@@ -390,7 +390,10 @@ tz_vaccine: https://github.com/wzmli/TZrabies_vaccine.git
 
 rrNotes: https://github.com/mikeroswell/RabiesNotes
 
+## Elaine Ferguson
+
 Serengeti_vacc_impacts: https://github.com/eaferguson/Serengeti_vacc_impacts ## NOALL
+Serengeti_vacc_impacts.vscreen
 
 ######################################################################
 

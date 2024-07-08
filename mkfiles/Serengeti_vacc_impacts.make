@@ -41,6 +41,13 @@ powlik.Rout: R/powlik.R Lmeans.rda pfuns.rda datRead.rda
 
 ######################################################################
 
+## Get a sense of how power means play with fake data
+
+fakeMeans.Rout: R/fakeMeans.R Lmeans.rda
+	$(pipeR)
+
+######################################################################
+
 ### Makestuff
 
 ## Sources += $(wildcard *.mk)
