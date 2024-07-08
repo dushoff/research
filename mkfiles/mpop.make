@@ -31,6 +31,7 @@ makestuff/Makefile:
 -include makestuff/os.mk
 
 -include makestuff/pipeR.mk
+-include makestuff/texi.mk
 
 -include makestuff/git.mk
 -include makestuff/visual.mk
