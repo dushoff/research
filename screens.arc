@@ -367,6 +367,7 @@ Milo and Sender (the Rons)
 ## Rabies
 
 rabiesBias: https://github.com/RowanDurrant/rabies-codon-bias
+XX. rabiesBranches: https://github.com/RowanDurrant/branch_lengths
 
 Epidemics, BMC Public Health? PLoS NTDs
 * Ask Ben; talk to Mike
@@ -502,6 +503,8 @@ recurrent: https://github.com/toddlparsons/fadeout-SIRS
 EarnOp: https://github.com/davidearn/OpEd.git ## NOALL
 
 ######################################################################
+
+XX. cmProduct: https://github.com/canmod/productModel.git
 
 ## productModel (no current name, to avoid using the old directories)
 ## rm -fr productModel
