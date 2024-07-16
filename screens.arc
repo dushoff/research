@@ -509,7 +509,7 @@ XX. cmProduct: https://github.com/canmod/productModel.git
 ## productModel (no current name, to avoid using the old directories)
 ## rm -fr productModel
 
-XX. productModel: https://git.overleaf.com/64f0d175326cfbdad8ace76c
+productModel: https://git.overleaf.com/64f0d175326cfbdad8ace76c
 https://www.overleaf.com/project/64f0d175326cfbdad8ace76c
 
 ######################################################################
