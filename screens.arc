@@ -508,12 +508,6 @@ EarnOp: https://github.com/davidearn/OpEd.git ## NOALL
 
 XX. cmProduct: https://github.com/canmod/productModel.git
 
-## productModel (no current name, to avoid using the old directories)
-## rm -fr productModel
-
-productModel: https://git.overleaf.com/64f0d175326cfbdad8ace76c
-https://www.overleaf.com/project/64f0d175326cfbdad8ace76c
-
 ######################################################################
 
 Dwyer co-evolution notes
