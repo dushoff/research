@@ -13,6 +13,10 @@ Ignore += *.html
 
 include Makefile
 
+Ignore += *.pdf
+Ignore += *.docx
+Ignore += *_files/
+
 ######################################################################
 
 ### Makestuff
