@@ -25,8 +25,6 @@ scratch: https://github.com/dushoff/scratch.git
 
 ######################################################################
 
-XX. tec: https://github.com/wzmli/tec_effs
-
 omike: https://github.com/wzmli/mvRt
 
 omsa: https://github.com/mac-theobio/RSAomicron
@@ -52,15 +50,15 @@ XX. li_immune: https://github.com/wzmli/immunity.git
 li_cross: https://github.com/wzmli/cross_immunity_prod.git
 
 ## Misc
-XX. vaxsims: https://github.com/wzmli/vaxsims
+vaxsims: https://github.com/wzmli/vaxsims
 
-XX. liMeasles: https://github.com/wzmli/macpan2_measles
+liMeasles: https://github.com/wzmli/macpan2_measles
 
 ## Bologna 2023 project (not uploaded!)
 XX. immuneStatus: https://github.com/dushoff/immuneStatus
 
 ## PHAC contract stuff
-XX. immuneExplore: https://github.com/dushoff/immuneExplore
+immuneExplore: https://github.com/dushoff/immuneExplore
 
 ######################################################################
 
@@ -150,6 +148,10 @@ wwdata: https://github.com/mac-theobio/wwdata
 
 XX. ortho: https://github.com/dushoff/orthogonality
 
+## Technical “effects”, with Mike
+XX. tec: https://github.com/wzmli/tec_effs
+
+
 ######################################################################
 
 ## POX
@@ -166,7 +168,7 @@ undercount: https://github.com/wzmli/undercount
 
 Weitz 2024 summer grant with Roswell
 
-XX. mpop: https://git.overleaf.com/66508900c720b8dcdf64aea0
+mpop: https://git.overleaf.com/66508900c720b8dcdf64aea0
 * https://www.overleaf.com/project/66508900c720b8dcdf64aea0
 
 git clone https://git@git.overleaf.com/66508900c720b8dcdf64aea0 ##
@@ -229,7 +231,7 @@ XX. CheckDiv:  https://github.com/mikeroswell/CheckDiv.git
 ## This package is coming out with the OikosR1S2
 ## Should be submitted soon-ish to MEE or JSS ## re-upped 2023 Mar 28 (Tue)
 ## seesaws are also here
-XX. rarity: https://github.com/mikeroswell/MeanRarity.git
+rarity: https://github.com/mikeroswell/MeanRarity.git
 
 God's estimator is here
 
@@ -278,16 +280,17 @@ forkutzaThesis: https://github.com/GregForkutza/Thesis.git
 * https://hackmd.io/@LionelH/SySOUWiR8
 	* https://hackmd.io/s/features
 
-Defunct-ish, unfortunately. Doesn't really have a clear Make structure
+## Defunct-ish, unfortunately. Doesn't really have a clear Make structure
 dates: https://github.com/mac-theobio/dateProcessing.git ## NOALL
 
-XX. discretization: https://github.com/bbolker/discretization.git
+discretization: https://github.com/bbolker/discretization.git
 
 SIR fitting
 https://github.com/bbolker/fitsir/
 
 ######################################################################
 
+## ASU 2020 conference
 polarization:  https://github.com/dushoff/polarization.git
 
 ######################################################################
@@ -344,14 +347,17 @@ XX. gamma: https://github.com/parksw3/individual_intervention.git
 ssvariant: https://github.com/parksw3/newvariant.git
 
 ## Rejected PNAS months ago 2024 Jan 19 (Fri)
+## JRSI? Review 2024 March
+## Poked Daniel 2024 Jul
 XX. status: https://github.com/parksw3/immune-boosting
 
 ## Park Bologna
-XX. boost: https://github.com/parksw3/boosting-coexistence
+boost: https://github.com/parksw3/boosting-coexistence
 diagrams directory
 fit directory
 figure directory
-XX. rsv: https://github.com/parksw3/rsv-immunity
+
+rsv: https://github.com/parksw3/rsv-immunity
 
 ## Published
 omicron_gens: https://github.com/parksw3/omicron-generation.git
@@ -381,7 +387,7 @@ rabies_correlations:  https://github.com/wzmli/rabies_correlations.git  ../rabie
 
 rabies_cihr:  https://github.com/wzmli/rabies_cihr.git  ../rabies/grant/
 
-## Actively working with Glasgow on analysis and cleaning
+## Actively working with Glasgow on analysis and cleaning 2020 Oct
 rabies_db_pipeline
 * sds ~/gitroot/rabies_db_pipeline ##
 
@@ -403,7 +409,7 @@ Serengeti_vacc_impacts.vscreen
 London school
 
 ## Bosse-led log_or_not
-XX. scoreTransform: https://git.overleaf.com/61436ea81fed8f4b5e8a8be8
+scoreTransform: https://git.overleaf.com/61436ea81fed8f4b5e8a8be8
 
 logScore: https://git.overleaf.com/63bc15cec041a313afbfa3a2 
 logScore.vscreen
@@ -465,7 +471,7 @@ tsetseIncrease: https://git.overleaf.com/60e7b466aa8c80ad3b6ef80e
 
 Villyen 
 
-XX. rubellaSA:  https://github.com/Villyen/rubellaSA.git 
+rubellaSA:  https://github.com/Villyen/rubellaSA.git 
 * https://docs.google.com/document/d/17M46gbe4Fx9QhsLqGqccbW6UFzF6oHSwk7LsVP_ysO4/edit
 
 ######################################################################
@@ -497,7 +503,7 @@ epigrowthfit: https://github.com/davidearn/epigrowthfit.git ## NOALL
 egf_extra: https://github.com/dushoff/egf_extra.git
 
 ## Fadeouts (Old invasion project) Parsons-led now
-XX. fadeouts: https://github.com/davidearn/fadeout-heuristic ## MS
+fadeouts: https://github.com/davidearn/fadeout-heuristic ## MS
 burnout: https://github.com/davidearn/burnout ## NOALL  ## package
 
 recurrent: https://github.com/toddlparsons/fadeout-SIRS
@@ -506,6 +512,7 @@ EarnOp: https://github.com/davidearn/OpEd.git ## NOALL
 
 ######################################################################
 
+Flynn-Primrose product model moved from Overleaf
 XX. cmProduct: https://github.com/canmod/productModel.git
 
 ######################################################################
@@ -529,10 +536,9 @@ intermittent.tmp
 
 ## Stelmach Sophie
 
-XX. sophie: https://github.com/davidearn/SophieStelmach.git
-
-
-XX. macSurvey: https://git.overleaf.com/63234b917bd9e40887d0d291
+## Survey project
+sophie: https://github.com/davidearn/SophieStelmach.git
+macSurvey: https://git.overleaf.com/63234b917bd9e40887d0d291
 https://www.overleaf.com/1129955835kzxmjtwmgmvz
 Sophie to report back about this; then David and Jonathan decide what to do.
 
@@ -591,7 +597,7 @@ public_reinf: https://github.com/jrcpulliam/reinfections ## NOALL
 
 Larisse Bolton
 
-XX. bump: https://github.com/BoltonL/BloodUsageModel.git
+bump: https://github.com/BoltonL/BloodUsageModel.git
 
 ######################################################################
 
@@ -611,10 +617,6 @@ goldstein: https://github.com/Outbreak-analysis/VaccinationLetter.git
 packagemaker: https://github.com/ComputationalProteomicsUnit/maker.git
 
 ######################################################################
-
-## Tuan
-
-XX. tuanProjects: https://github.com/dushoff/tuanProjects
 
 ## Ningrui
 
@@ -678,6 +680,12 @@ test_positivity:  https://github.com/GeethaJey/COVID-TPR.git ./test_positivity
 ## Michelle Huynh
 
 huynh: https://github.com/huynhm7/MDD-Thesis.git
+
+######################################################################
+
+## Tuan
+
+tuanProjects: https://github.com/dushoff/tuanProjects
 
 ######################################################################
 
