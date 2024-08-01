@@ -215,7 +215,9 @@ Published
 
 Heterogeneity stuff with Weitz lab
 
-XX. epiExplore: https://github.com/mikeroswell/epiExplore
+XX. epiExplore: https://github.com/mikeroswell/epiExplore ## latex currently elsewhere
+https://www.overleaf.com/1682588653jcxjjsxrrzcy#5012f2
+rwHeterogeneity: https://git.overleaf.com/6656039e718682018f3b43f2
 
 Todo list: probably obsolete (Roswell 2022 Nov 23 (Wed))
 * https://docs.google.com/document/d/1cqjKMvk4qV1paSwkiRnCRZldU1fuPBvlmJlZQvlhDjo/edit?ts=60240871
