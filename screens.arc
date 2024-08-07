@@ -439,7 +439,7 @@ awareness_proposal: https://github.com/covid19awareness/CIHR_call.git
 
 ### pre-covid
 
-fgc: https://github.com/fishforwish/fgc.git ## This has a corrupted submodule structure
+XX. fgc: https://github.com/fishforwish/fgc.git
 
 ######################################################################
 
