@@ -171,8 +171,6 @@ Weitz 2024 summer grant with Roswell
 mpop: https://git.overleaf.com/66508900c720b8dcdf64aea0
 * https://www.overleaf.com/project/66508900c720b8dcdf64aea0
 
-git clone https://git@git.overleaf.com/66508900c720b8dcdf64aea0 ##
-
 Weitz plateaus very Weitz-ish
 plateaus: https://github.com/jsweitz/covid19-git-plateaus.git
 * 2020 May 21 (Thu): submitted to PNAS
@@ -217,7 +215,9 @@ Heterogeneity stuff with Weitz lab
 
 XX. epiExplore: https://github.com/mikeroswell/epiExplore ## latex currently elsewhere
 https://www.overleaf.com/1682588653jcxjjsxrrzcy#5012f2
+
 XX. rwHeterogeneity: https://git.overleaf.com/6656039e718682018f3b43f2
+* Roswell's emergentHeterogeneity overleaf
 
 Todo list: probably obsolete (Roswell 2022 Nov 23 (Wed))
 * https://docs.google.com/document/d/1cqjKMvk4qV1paSwkiRnCRZldU1fuPBvlmJlZQvlhDjo/edit?ts=60240871
