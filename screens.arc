@@ -514,7 +514,6 @@ EarnOp: https://github.com/davidearn/OpEd.git ## NOALL
 
 ######################################################################
 
-Flynn-Primrose product model moved from Overleaf
 XX. cmProduct: https://github.com/canmod/productModel.git
 
 ######################################################################
@@ -698,3 +697,4 @@ Orphans
 
 wz: 
 
+productModel:
