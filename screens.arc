@@ -151,7 +151,6 @@ XX. ortho: https://github.com/dushoff/orthogonality
 ## Technical “effects”, with Mike
 XX. tec: https://github.com/wzmli/tec_effs
 
-
 ######################################################################
 
 ## POX
@@ -480,11 +479,9 @@ rubellaSA:  https://github.com/Villyen/rubellaSA.git
 
 ## Earn 
 
-
 https://github.com/davidearn/eeid2024
 
 earnAlliance: https://github.com/davidearn/NSERC_Alliance
-## earnAlliance/hubs/application.vscreen
 
 covidgrowthfit: https://github.com/davidearn/covidgrowthfit.git
 * Patterns of little r
