@@ -12,7 +12,7 @@ vim_session:
 
 Ignore += *.lo*
 
-Sources += $(wildcard *.tex */*.tex)
+Sources += $(wildcard *.tex */*.tex) simpthesis.sty
 
 Thesis_Main.force.pdf: Thesis_Main.tex
 Thesis_Main.pdf: Thesis_Main.tex
