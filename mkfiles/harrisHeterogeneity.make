@@ -19,7 +19,7 @@ jd.pdf: jd.tex
 
 ### Makestuff
 
-## Sources += $(wildcard *.mk)
+Sources += $(wildcard *.tex)
 ## include $(wildcard *.mk)
 
 Ignore += Makefile
