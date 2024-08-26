@@ -178,7 +178,10 @@ plateaus: https://github.com/jsweitz/covid19-git-plateaus.git
 Epidemics paper referred to below (Park took over from Weitz? But it's on my org??)
 asymptime: https://github.com/mac-theobio/coronavirus_asymptomatic
 
-Weitz heterogeneity two papers 
+## Ugly overleaf problems (bad commands, eps figures not recognized somehow)
+XX. harrisHeterogeneity: https://git.overleaf.com/62bf40f3ae952729f5916136 
+
+Weitz heterogeneity two older papers 
 * Downloads/WeitzOrder.pdf
 * Downloads/WeitzContagion.pdf
 
