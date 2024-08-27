@@ -3,7 +3,7 @@
 current: target
 -include target.mk
 
-# -include makestuff/perl.def
+-include makestuff/perl.def
 
 vim_session:
 	bash -cl "vmt"
@@ -14,6 +14,8 @@ Sources += $(wildcard *.R *.md *.rmd)
 autopipeR = defined
 
 jd.pdf: jd.tex
+
+## drop.filemerge: drop.md
 
 ######################################################################
 
@@ -33,6 +35,7 @@ makestuff/Makefile:
 -include makestuff/os.mk
 
 -include makestuff/texj.mk
+-include makestuff/ldrop.mk
 
 -include makestuff/git.mk
 -include makestuff/visual.mk
