@@ -11,13 +11,14 @@ vim_session:
 ######################################################################
 
 Sources += $(wildcard *.R *.md *.rmd)
-autopipeR = defined
 
 jd.pdf: jd.tex
 
 ## drop.filemerge: drop.md
 
 ######################################################################
+
+Ignore += Figures/*eps-converted-to.pdf
 
 ### Makestuff
 
