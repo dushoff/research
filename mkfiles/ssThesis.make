@@ -14,8 +14,11 @@ Ignore += *.lo*
 
 Sources += $(wildcard *.tex */*.tex) simpthesis.sty
 
-Thesis_Main.pdf: Thesis_Main.tex
+## Thesis_Main.pdf: Thesis_Main.tex
 ## Thesis_Main.force.pdf: Thesis_Main.tex
+
+## This is not working; what would be needed would be to checkout the whole repo as of the first posting to this new location
+## submitted.pdf: submitted.tex
 
 ######################################################################
 

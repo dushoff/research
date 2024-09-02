@@ -547,10 +547,11 @@ XX. oncovid: https://github.com/davidearn/oncovid.git
 
 oncovid/covid-age-master:
 
-XX. stelmachThesis: https://git.overleaf.com/66620ce07ed69fe4a6db53ae
+## Development version
+stelmachThesis: https://git.overleaf.com/66620ce07ed69fe4a6db53ae
 * https://www.overleaf.com/6175474398vnbhbkhyjnwc
 
-
+## Sumbission version
 https://www.overleaf.com/5166392895whhxbdykgkvc#8e7548
 XX. ssThesis: https://git.overleaf.com/66cf78116ff0562c2f393210
 
