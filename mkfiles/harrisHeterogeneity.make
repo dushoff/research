@@ -1,4 +1,5 @@
 ## This is a _linked_ (mkfile) Makefile for Harris heterogeneity (Weitz group 2024 Aug 26 (Mon))
+## https://www.overleaf.com/project/62bf40f3ae952729f5916136
 
 current: target
 -include target.mk
@@ -12,8 +13,7 @@ vim_session:
 
 Sources += $(wildcard *.R *.md *.rmd)
 
-jd.pdf: jd.tex
-
+## elsarticle-template-harv.pdf: elsarticle-template-harv.tex
 ## drop.filemerge: drop.md
 
 ######################################################################

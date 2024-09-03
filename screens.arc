@@ -180,6 +180,7 @@ asymptime: https://github.com/mac-theobio/coronavirus_asymptomatic
 
 ## Ugly overleaf problems (bad commands, eps figures not recognized somehow)
 XX. harrisHeterogeneity: https://git.overleaf.com/62bf40f3ae952729f5916136 
+* https://www.overleaf.com/project/62bf40f3ae952729f5916136
 
 Weitz heterogeneity two older papers 
 * Downloads/WeitzOrder.pdf
