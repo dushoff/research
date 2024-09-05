@@ -63,6 +63,7 @@ immuneExplore: https://github.com/dushoff/immuneExplore
 ######################################################################
 
 XX. plague_virulence: https://github.com/bbolker/plague_virulence
+* Work in support of Hendrik 2024 August
 
 ######################################################################
 
@@ -70,7 +71,8 @@ Walker> macpan2 repo is here https://github.com/canmod/macpan2.
 
 ## Covid forecasts
 
-macpan:  https://github.com/bbolker/McMasterPandemic.git ../coronavirus/mac/
+## This is ancient stuff; new repo is under canmod
+macpan:  https://github.com/bbolker/McMasterPandemic.git
 macpan/notes ## This is inaesthetic
 macpan/ontario ## 
 ## The two Dushoff subdirs each make their own cachestuff; also, what's the relationship with macpan_ontario?
@@ -279,19 +281,22 @@ forkutzaThesis: https://github.com/GregForkutza/Thesis.git
 
 ## Stats with Bolker
 
-### Multifactorial
+Multifactorial
+* https://github.com/bbolker/discretization.git
+* published in Entropy; we cuold consider following up)
+
+Other discretization:
 * https://app.slack.com/client/T016QKNS5BK/C015X8VQPCP
 * https://docs.google.com/document/d/1lBbS--qF_XHSnbcLcDnm9KdNL2at6qEOKh5iRRMqOF8/
-* https://hackmd.io/@LionelH/SySOUWiR8
-	* https://hackmd.io/s/features
-
-## Defunct-ish, unfortunately. Doesn't really have a clear Make structure
-dates: https://github.com/mac-theobio/dateProcessing.git ## NOALL
-
-discretization: https://github.com/bbolker/discretization.git
+	* Work with Hartig and others, may have petered out
+	* Or they may have done it without both of us?
 
 SIR fitting
-https://github.com/bbolker/fitsir/
+https://github.com/bbolker/fitode/
+
+## Defunct-ish, unfortunately. Doesn't really have a clear Make structure
+## Is this Bolker even?
+dates: https://github.com/mac-theobio/dateProcessing.git ## NOALL
 
 ######################################################################
 
@@ -498,6 +503,8 @@ On_ageBMC: https://github.com/papsti/covid-age ## NOALL
 plague_growth: https://github.com/davidearn/plague_growth.git
 plague: https://github.com/davidearn/plague.git ## NOALL; Old, messy repo
 louseplague: https://github.com/bbolker/louseplague.git
+	* In the wind, Daniel might be interested? 2024 Sep 05 (Thu)
+	* Jason Pekos's Masters project shows that Li et al. moment matching breaks down outside a narrow window
 
 ## devel branch, Makefile, ...
 epigrowthfit: https://github.com/davidearn/epigrowthfit.git ## NOALL
