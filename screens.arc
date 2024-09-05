@@ -282,7 +282,7 @@ forkutzaThesis: https://github.com/GregForkutza/Thesis.git
 ## Stats with Bolker
 
 Multifactorial
-* https://github.com/bbolker/discretization.git
+discretization: https://github.com/bbolker/discretization.git
 * published in Entropy; we cuold consider following up)
 
 Other discretization:
