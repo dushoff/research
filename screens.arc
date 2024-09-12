@@ -551,11 +551,12 @@ macSurvey: https://git.overleaf.com/63234b917bd9e40887d0d291
 https://www.overleaf.com/1129955835kzxmjtwmgmvz
 Sophie to report back about this; then David and Jonathan decide what to do.
 
+## oncovid README is the place to keep track of Sophie thesis projecs
 XX. oncovid: https://github.com/davidearn/oncovid.git 
 
 oncovid/covid-age-master:
 
-## Development version
+## Development version Deprecated 2024 Sep 12 (Thu)
 stelmachThesis: https://git.overleaf.com/66620ce07ed69fe4a6db53ae
 * https://www.overleaf.com/6175474398vnbhbkhyjnwc
 
