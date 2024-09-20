@@ -71,6 +71,8 @@ Walker> macpan2 repo is here https://github.com/canmod/macpan2.
 
 ## Covid forecasts
 
+retro: https://github.com/papsti/macpan_retro
+
 ## This is ancient stuff; new repo is under canmod
 macpan:  https://github.com/bbolker/McMasterPandemic.git
 macpan/notes ## This is inaesthetic
