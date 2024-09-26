@@ -297,7 +297,8 @@ SIR fitting
 https://github.com/bbolker/fitode/
 
 Fitting test positivity with beta distributions (and maybe other approaches)
-betaTesting: https://github.com/bbolker/testing_bias_distribution
+This is no longer just beta! 2024 Sep 26 (Thu)
+XX. betaTesting: https://github.com/bbolker/testing_bias_distribution
 
 ## Defunct-ish, unfortunately. Doesn't really have a clear Make structure
 ## Is this Bolker even?
@@ -667,6 +668,10 @@ make fish_connect/makefile  ##
 make fish_connect.all  ##
 
 ######################################################################
+
+Hutchinson thesis
+
+hutchThesis: https://github.com/amyhh/Thesis
 
 leisure: https://github.com/dushoff/LeisurelyStatistics
 
