@@ -298,6 +298,7 @@ https://github.com/bbolker/fitode/
 
 Fitting test positivity with beta distributions (and maybe other approaches)
 This is no longer just beta! 2024 Sep 26 (Thu)
+Working with Sicheng Richard Zhao
 XX. betaTesting: https://github.com/bbolker/testing_bias_distribution
 
 ## Defunct-ish, unfortunately. Doesn't really have a clear Make structure
