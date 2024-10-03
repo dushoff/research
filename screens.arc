@@ -671,7 +671,7 @@ make fish_connect.all  ##
 
 Hutchinson thesis
 
-hutchThesis: https://github.com/amyhh/Thesis
+XX. hutchThesis: https://github.com/amyhh/Thesis
 
 leisure: https://github.com/dushoff/LeisurelyStatistics
 
