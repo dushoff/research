@@ -298,7 +298,6 @@ https://github.com/bbolker/fitode/
 
 Fitting test positivity with beta distributions (and maybe other approaches)
 This is no longer just beta! 2024 Sep 26 (Thu)
-Working with Sicheng Richard Zhao
 XX. betaTesting: https://github.com/bbolker/testing_bias_distribution
 
 ## Defunct-ish, unfortunately. Doesn't really have a clear Make structure
@@ -570,6 +569,8 @@ stelmachThesis: https://git.overleaf.com/66620ce07ed69fe4a6db53ae
 ## Sumbission version
 https://www.overleaf.com/5166392895whhxbdykgkvc#8e7548
 XX. ssThesis: https://git.overleaf.com/66cf78116ff0562c2f393210
+
+ssOntario: https://git@git.overleaf.com/66cf78116ff0562c2f393210
 
 ######################################################################
 
