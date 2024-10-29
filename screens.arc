@@ -71,7 +71,7 @@ Walker> macpan2 repo is here https://github.com/canmod/macpan2.
 
 ## Covid forecasts
 
-retro: https://github.com/papsti/macpan_retro
+XX. retro: https://github.com/papsti/macpan_retro ## NOALL
 
 ## This is ancient stuff; new repo is under canmod
 macpan:  https://github.com/bbolker/McMasterPandemic.git
@@ -94,6 +94,8 @@ cohorts: https://github.com/dushoff/cohorts
 bbmisc: https://github.com/bbolker/bbmisc
 
 XX. macEndemic: https://github.com/wzmli/macpan_endemic
+
+XX. macVax: https://github.com/wzmli/macpan2_vaccines_paper
 
 ######################################################################
 
