@@ -568,11 +568,14 @@ oncovid/covid-age-master:
 stelmachThesis: https://git.overleaf.com/66620ce07ed69fe4a6db53ae
 * https://www.overleaf.com/6175474398vnbhbkhyjnwc
 
-## Sumbission version
+## Sumbission version (two different login methods)
 https://www.overleaf.com/5166392895whhxbdykgkvc#8e7548
-XX. ssThesis: https://git.overleaf.com/66cf78116ff0562c2f393210
-
+ssThesis: https://git.overleaf.com/66cf78116ff0562c2f393210
 ssOntario: https://git@git.overleaf.com/66cf78116ff0562c2f393210
+
+XX. ssMS: https://git@git.overleaf.com/66fed91f515eb245a6dce913
+https://www.overleaf.com/5922153474pxhyvdrtrkrk#db370b
+https://www.overleaf.com/5922153474pxhyvdrtrkrk
 
 ######################################################################
 
