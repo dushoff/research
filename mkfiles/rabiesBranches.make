@@ -15,6 +15,10 @@ autopipeR = defined
 
 ######################################################################
 
+Sources += $(wildcard code/*.sh)
+make_trees: code/make_trees.sh
+	bash < $<
+
 ### Makestuff
 
 ## Sources += $(wildcard *.mk)
