@@ -9,7 +9,7 @@ fishforwish	fishforwish
 haskellcraigz
 huynhm7 Michelle H
 jaganmn Mikael Jagan
-JCSzamosi
+JCSzamosi	Jake
 judychen7652
 michael-chong
 morgankain	Morgan Kain
@@ -23,3 +23,4 @@ ZachLevine-11 Zach
 stevencarlislewalker Steve Walker
 samaramanzin
 FadyAbdelmalek Fred Abdelmalek
+Todd Parsons toddlparsons

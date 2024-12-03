@@ -302,6 +302,8 @@ Fitting test positivity with beta distributions (and maybe other approaches)
 This is no longer just beta! 2024 Sep 26 (Thu)
 XX. betaTesting: https://github.com/bbolker/testing_bias_distribution
 
+XX. phenHet: https://github.com/dushoff/phenHet/
+
 ## Defunct-ish, unfortunately. Doesn't really have a clear Make structure
 ## Is this Bolker even?
 dates: https://github.com/mac-theobio/dateProcessing.git ## NOALL
