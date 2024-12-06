@@ -93,6 +93,8 @@ cohorts: https://github.com/dushoff/cohorts
 
 bbmisc: https://github.com/bbolker/bbmisc
 
+XX. predictInterval: https://github.com/dushoff/predictInterval-vs-bootMer
+
 XX. macEndemic: https://github.com/wzmli/macpan_endemic
 
 XX. macVax: https://github.com/wzmli/macpan2_vaccines_paper
