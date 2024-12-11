@@ -462,7 +462,7 @@ awareness_proposal: https://github.com/covid19awareness/CIHR_call.git
 ### pre-covid
 
 XX. fgc: https://github.com/fishforwish/fgc.git
-XX. fgcc: https://github.com/cfshi/fgc.git
+DO NOT USE https://github.com/cfshi/fgc.git
 
 ######################################################################
 
