@@ -1,0 +1,42 @@
+## This is a _linked_ WRAPPER makefile for IIDDA MS directory
+
+current: target
+-include target.mk
+
+vim_session:
+	bash -cl "vmt makefile"
+
+######################################################################
+
+## https://canmod.github.io/iidda-tools/
+
+include Makefile
+
+######################################################################
+
+Sources += $(wildcard *.tex)
+
+## ms.pdf: ms.tex
+
+## Not working (grump)
+## output/ms.pdf: ms.tex
+
+######################################################################
+
+### Makestuff
+
+## Sources += $(wildcard *.mk)
+## include $(wildcard *.mk)
+
+Ignore += makefile
+Ignore += makestuff
+msrepo = https://github.com/dushoff
+Makefile: makestuff/Makefile
+makestuff/Makefile:
+	ln -s ../makestuff .
+	ls makestuff/Makefile
+
+-include makestuff/os.mk
+
+-include makestuff/git.mk
+-include makestuff/visual.mk
