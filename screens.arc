@@ -573,18 +573,22 @@ XX. oncovid: https://github.com/davidearn/oncovid.git
 
 oncovid/covid-age-master:
 
-## Development version Deprecated 2024 Sep 12 (Thu)
+## Thesis Development version Deprecated 2024 Sep 12 (Thu)
 stelmachThesis: https://git.overleaf.com/66620ce07ed69fe4a6db53ae
 * https://www.overleaf.com/6175474398vnbhbkhyjnwc
 
-## Sumbission version (two different login methods)
+## Thesis submission version (two different login methods); finished
 https://www.overleaf.com/5166392895whhxbdykgkvc#8e7548
 ssThesis: https://git.overleaf.com/66cf78116ff0562c2f393210
 ssOntario: https://git@git.overleaf.com/66cf78116ff0562c2f393210
 
-XX. ssMS: https://git@git.overleaf.com/66fed91f515eb245a6dce913
-https://www.overleaf.com/5922153474pxhyvdrtrkrk#db370b
+## First MS version, Deprecated 2024 Dec 16 (Mon)
+ssMS: https://git@git.overleaf.com/66fed91f515eb245a6dce913
 https://www.overleaf.com/5922153474pxhyvdrtrkrk
+
+## Fancy (pay) MS version
+XX. ssFancy: https://git@git.overleaf.com/6760b9bbaf594837c3e4a147
+https://www.overleaf.com/project/6760b9bbaf594837c3e4a147
 
 ######################################################################
 
