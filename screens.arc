@@ -569,7 +569,7 @@ https://www.overleaf.com/1129955835kzxmjtwmgmvz
 Sophie to report back about this; then David and Jonathan decide what to do.
 
 ## oncovid README is the place to keep track of Sophie thesis projecs
-XX. oncovid: https://github.com/davidearn/oncovid.git 
+oncovid: https://github.com/davidearn/oncovid.git 
 
 oncovid/covid-age-master:
 
