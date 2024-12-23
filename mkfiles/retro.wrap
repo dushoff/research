@@ -30,6 +30,8 @@ makestuff/Makefile:
 	ln -s ../makestuff .
 	ls makestuff/Makefile
 
+-include makestuff/texj.mk
+
 -include makestuff/os.mk
 
 -include makestuff/git.mk
