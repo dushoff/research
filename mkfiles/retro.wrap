@@ -1,4 +1,4 @@
-## This is a _linked_ WRAPPER makefile for …
+## This is a _linked_ WRAPPER makefile for retro
 
 current: target
 -include target.mk
