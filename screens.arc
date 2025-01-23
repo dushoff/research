@@ -21,6 +21,7 @@ XX. sandbox: https://github.com/dushoff/ResearchSandbox.git
 XX. mmdcl: https://github.com/dushoff/mmdcl.git
 
 ## 2022 Oct 21 (Fri) Resurrecting because it has qbd stuff?
+## 2025 Jan 23 (Thu) No idea what that meant!
 scratch: https://github.com/dushoff/scratch.git
 
 ######################################################################
@@ -54,8 +55,9 @@ vaxsims: https://github.com/wzmli/vaxsims
 
 liMeasles: https://github.com/wzmli/macpan2_measles
 
-## Bologna 2023 project (not uploaded!)
-XX. immuneStatus: https://github.com/dushoff/immuneStatus
+## Bologna 2023 project
+## Very little here of interest, and kind of a smell of lost work?
+immuneStatus: https://github.com/dushoff/immuneStatus
 
 ## PHAC contract stuff
 immuneExplore: https://github.com/dushoff/immuneExplore
@@ -666,9 +668,9 @@ packagemaker: https://github.com/ComputationalProteomicsUnit/maker.git
 
 Working on mid-year report, not yet shared 2024 Jan 04 (Thu)
 
-XX. nxThesis: https://github.com/Tiffany-Xie/Thesis_NX
+nxThesis: https://github.com/Tiffany-Xie/Thesis_NX
 
-XX. pePackage: https://github.com/Tiffany-Xie/pseudoErlang
+pePackage: https://github.com/Tiffany-Xie/pseudoErlang
 
 ## Just a poster, I think 2024 May 01 (Wed)
 nxOE3: https://git.overleaf.com/66268f28e03157f92bd95391  ## NOALL
