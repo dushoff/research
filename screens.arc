@@ -26,6 +26,10 @@ scratch: https://github.com/dushoff/scratch.git
 
 ######################################################################
 
+ariData: https://github.com/dushoff/ariData.git
+ariData.newrepo
+######################################################################
+
 omike: https://github.com/wzmli/mvRt
 
 omsa: https://github.com/mac-theobio/RSAomicron
