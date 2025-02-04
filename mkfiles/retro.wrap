@@ -17,6 +17,12 @@ Sources += $(wildcard *.tex)
 
 ######################################################################
 
+Ignore += altms.tex
+altms.tex: | ms.tex
+	$(lnp)
+
+## altms.pdf: altms.tex
+
 ### Makestuff
 
 ## Sources += $(wildcard *.mk)
