@@ -238,6 +238,9 @@ Heterogeneity stuff with Weitz lab
 XX. epiExplore: https://github.com/mikeroswell/epiExplore ## latex currently elsewhere
 https://www.overleaf.com/1682588653jcxjjsxrrzcy#5012f2
 
+## Also found for now in Talks; give this some thought
+XX. SIR_simulations:  https://github.com/dushoff/SIR_simulations
+
 XX. rwHeterogeneity: https://git.overleaf.com/6656039e718682018f3b43f2
 * Roswell's emergentHeterogeneity overleaf
 
