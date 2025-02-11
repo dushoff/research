@@ -17,7 +17,7 @@ Sources += $(wildcard *.tex)
 
 ######################################################################
 
-Ignore += altms.tex
+Ignore += altms.tex dump.md
 altms.tex: | ms.tex
 	$(lnp)
 
