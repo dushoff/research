@@ -547,6 +547,8 @@ burnout: https://github.com/davidearn/burnout ## NOALL  ## package
 
 recurrent: https://github.com/toddlparsons/fadeout-SIRS
 
+toddSize: https://github.com/toddlparsons/final-size 
+
 EarnOp: https://github.com/davidearn/OpEd.git ## NOALL
 
 ######################################################################
