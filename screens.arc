@@ -60,7 +60,7 @@ vaxsims: https://github.com/wzmli/vaxsims
 
 XX. liMeasles: https://github.com/wzmli/macpan2_measles
 
-XX. 
+mpWorkshop: https://github.com/canmod/macpan-workshop
 
 ## Bologna 2023 project
 ## Very little here of interest, and kind of a smell of lost work?
@@ -712,6 +712,11 @@ leisure: https://github.com/dushoff/LeisurelyStatistics
 Archivy stuff
 
 stochChapter: https://github.com/dushoff/Stochasticity_chapter.git
+
+######################################################################
+
+## Fork
+juulComment: https://github.com/dushoff/commentsFBD
 
 ######################################################################
 
