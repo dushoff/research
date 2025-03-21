@@ -85,6 +85,7 @@ cgHurford: https://github.com/wzmli/controllability-generalization
 ## Covid forecasts
 
 XX. retro: https://github.com/papsti/macpan_retro
+Expandify has been merged into here, do not use it.
 
 ## This is ancient stuff; new repo is under canmod
 macpan:  https://github.com/bbolker/McMasterPandemic.git
@@ -158,7 +159,6 @@ linelists: https://github.com/wzmli/ontario_linelist_explore
 
 ## https://github.com/wzmli/uk_delta ## NOALL
 
-expandify: https://github.com/papsti/macpan_expandify_ms ## NOALL
 
 ## ON wastewater
 wwdata: https://github.com/mac-theobio/wwdata
