@@ -28,7 +28,6 @@ scratch: https://github.com/dushoff/scratch.git
 
 ## Spring 2025 CIHR project grant attempt
 XX. ariData: https://github.com/dushoff/ariData.git
-XX. ariCanada: https://github.com/dushoff/ariCanada.git
 
 ######################################################################
 
@@ -78,6 +77,8 @@ XX. plague_virulence: https://github.com/bbolker/plague_virulence
 ######################################################################
 
 Walker> macpan2 repo is here https://github.com/canmod/macpan2. 
+
+
 
 XX. candid: https://github.com/canmod/iidda-ms
 
