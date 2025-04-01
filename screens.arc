@@ -29,6 +29,8 @@ scratch: https://github.com/dushoff/scratch.git
 ## Spring 2025 CIHR project grant attempt
 XX. ariData: https://github.com/dushoff/ariData.git
 
+XX. ariCanada: https://github.com/dushoff/ariCanada
+
 ######################################################################
 
 omike: https://github.com/wzmli/mvRt
