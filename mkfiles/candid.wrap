@@ -8,6 +8,8 @@ vim_session:
 
 ######################################################################
 
+Sources += Makefile
+
 ## Don't use this unless there is already a Makefile
 include Makefile
 
