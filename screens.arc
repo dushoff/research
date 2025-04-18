@@ -2,6 +2,10 @@
 makestuff/listdir.md
 content.list
 
+## To make a new repo
+#### Add the list line 
+#### `make <name>.newrepo
+
 ######################################################################
 
 ## Keywords
@@ -455,6 +459,13 @@ scoreTransform: https://git.overleaf.com/61436ea81fed8f4b5e8a8be8
 
 logScore: https://git.overleaf.com/63bc15cec041a313afbfa3a2 
 logScore.vscreen
+
+######################################################################
+
+## side projects?
+
+3SA.newrepo:
+3SA: https://github.com/dushoff/3SA.git
 
 ######################################################################
 
