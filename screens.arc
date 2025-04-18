@@ -82,8 +82,6 @@ XX. plague_virulence: https://github.com/bbolker/plague_virulence
 
 Walker> macpan2 repo is here https://github.com/canmod/macpan2. 
 
-
-
 XX. candid: https://github.com/canmod/iidda-ms
 
 cgHurford: https://github.com/wzmli/controllability-generalization
@@ -164,7 +162,6 @@ iphis: https://github.com/wzmli/iphis_dat.git ## Giant archive
 linelists: https://github.com/wzmli/ontario_linelist_explore
 
 ## https://github.com/wzmli/uk_delta ## NOALL
-
 
 ## ON wastewater
 wwdata: https://github.com/mac-theobio/wwdata
