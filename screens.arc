@@ -492,7 +492,7 @@ awareness_proposal: https://github.com/covid19awareness/CIHR_call.git
 
 Don't go to fgc_data, run it from fgc
 XX. fgc: https://github.com/fishforwish/fgc.git
-* fgc_data: https://github.com/dushoff/fgc_data.git
+fgc_data: https://github.com/dushoff/fgc_data.git
 
 DO NOT USE https://github.com/cfshi/fgc.git
 
