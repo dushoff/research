@@ -249,7 +249,9 @@ XX. epiExplore: https://github.com/mikeroswell/epiExplore ## latex currently els
 https://www.overleaf.com/1682588653jcxjjsxrrzcy#5012f2
 
 ## Also found for now in Talks; give this some thought
+## I asked Roswell to fork this because there is talk stuff in the old one
 XX. SIR_simulations:  https://github.com/dushoff/SIR_simulations
+XX. roswell_Simulations:  https://github.com/mikeroswell/SIR_simulations
 
 XX. rwHeterogeneity: https://git.overleaf.com/6656039e718682018f3b43f2
 * Roswell's emergentHeterogeneity overleaf
