@@ -27,7 +27,7 @@ Ignore += jdiff.curr.pdf
 jdiff.curr.pdf: jdiff.pdf
 	pdfjam -o $@ $< -10
 
-Sources += jd.tex jdbase.tex
+## Sources += jd.tex jdbase.tex
 update: commit.time
 	- $(RMF) jdbase.tex
 	$(CPF) main.tex jd.tex
