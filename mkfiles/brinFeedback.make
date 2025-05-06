@@ -14,7 +14,8 @@ vim_session:
 ## Just noodling around here; actually working on overleaf
 ## Useful though to drop the geometry and make a nice big document.
 main.pdf: main.tex
-Sources += jd.tex tex.md
+Ignore += jd.tex
+Sources += tex.md
 jd.pdf: jd.tex
 
 ######################################################################
