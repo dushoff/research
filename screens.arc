@@ -702,7 +702,7 @@ packagemaker: https://github.com/ComputationalProteomicsUnit/maker.git
 
 Working on mid-year report, not yet shared 2024 Jan 04 (Thu)
 
-nxThesis: https://github.com/Tiffany-Xie/Thesis_NX
+XX. nxThesis: https://github.com/Tiffany-Xie/Thesis_NX
 
 pePackage: https://github.com/Tiffany-Xie/pseudoErlang
 
