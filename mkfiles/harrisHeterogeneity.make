@@ -13,6 +13,7 @@ vim_session:
 
 Sources += $(wildcard *.R *.md *.rmd)
 
+Ignore += elsarticle-template-harv.pdf jd.pdf
 ## elsarticle-template-harv.pdf: elsarticle-template-harv.tex
 ## drop.filemerge: drop.md
 
