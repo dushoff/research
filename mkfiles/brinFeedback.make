@@ -15,6 +15,8 @@ vim_session:
 ## Useful though to drop the geometry and make a nice big document.
 main.pdf: main.tex
 Ignore += jd.tex
+jd.tex: main.tex
+	$(copy)
 Sources += tex.md
 jd.pdf: jd.tex
 
