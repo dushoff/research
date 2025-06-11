@@ -454,6 +454,9 @@ rrNotes: https://github.com/mikeroswell/RabiesNotes
 Serengeti_vacc_impacts: https://github.com/eaferguson/Serengeti_vacc_impacts ## NOALL
 Serengeti_vacc_impacts.vscreen
 
+## This is the successor to Wise Monkey
+ct_cleaning: https://github.com/RabiesResearch/ct_cleaning
+
 ######################################################################
 
 London school
