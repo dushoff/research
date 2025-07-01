@@ -38,6 +38,8 @@ XX. ariCanada: https://github.com/dushoff/ariCanada
 
 ######################################################################
 
+XX. covid_sero: https://github.com/wzmli/covid_sero
+
 omike: https://github.com/wzmli/mvRt
 
 omsa: https://github.com/mac-theobio/RSAomicron
