@@ -1,4 +1,5 @@
 ## This is a _linked_ (mkfile) Makefile for Harris heterogeneity (Weitz group 2024 Aug 26 (Mon))
+## It is now in two locations and seems kind of terrible
 ## https://www.overleaf.com/project/62bf40f3ae952729f5916136
 
 current: target
@@ -8,6 +9,14 @@ current: target
 
 vim_session:
 	bash -cl "vmt"
+
+######################################################################
+
+## revision_June2025 subdirectory only! Older stuff below
+
+main.pdf: main.tex
+
+jd_suggestion.pdf: jd_suggestion.tex
 
 ######################################################################
 
