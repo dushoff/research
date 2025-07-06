@@ -14,6 +14,8 @@ vim_session:
 
 ## revision_June2025 subdirectory only! Older stuff below
 
+Ignore += revision_June2025/
+
 main.pdf: main.tex
 
 jd_suggestion.pdf: jd_suggestion.tex
