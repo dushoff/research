@@ -96,7 +96,6 @@ cgHurford: https://github.com/wzmli/controllability-generalization
 ## Covid forecasts
 
 XX. retro: https://github.com/papsti/macpan_retro
-Expandify has been merged into here, do not use it.
 
 ## This is ancient stuff; new repo is under canmod
 macpan:  https://github.com/bbolker/McMasterPandemic.git
