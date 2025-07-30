@@ -21,6 +21,7 @@ Ignore += altms.tex dump.md
 altms.tex: | ms.tex
 	$(lnp)
 
+Sources += figs_files/*/*.png
 ## altms.pdf: altms.tex
 
 ### Makestuff
