@@ -87,7 +87,7 @@ XX. plague_virulence: https://github.com/bbolker/plague_virulence
 
 ######################################################################
 
-XX. macpan2: https://github.com/canmod/macpan2
+XX. macpan2: https://github.com/canmod/macpan2 ## NOALL
 
 XX. candid: https://github.com/canmod/iidda-ms
 
