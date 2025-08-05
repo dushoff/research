@@ -21,6 +21,8 @@ content.list
 
 XX. sandbox: https://github.com/dushoff/ResearchSandbox.git
 
+## Fiddle with other people's stuff (private)
+
 ## projects with Miriam (private!)
 XX. mmdcl: https://github.com/dushoff/mmdcl.git
 
