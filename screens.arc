@@ -19,7 +19,9 @@ content.list
 
 ## Research sandbox
 
-XX. sandbox: https://github.com/dushoff/ResearchSandbox.git
+XX. sandbox: https://github.com/dushoff/ResearchSandbox
+
+XX. collab: https://github.com/dushoff/collab
 
 ## Fiddle with other people's stuff (private)
 
