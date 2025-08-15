@@ -86,6 +86,7 @@ immuneExplore: https://github.com/dushoff/immuneExplore
 
 ######################################################################
 
+## Yuyang is working here 2025 Aug 15 (Fri)
 XX. plague_virulence: https://github.com/bbolker/plague_virulence
 * Work in support of Hendrik 2024 August
 
@@ -119,7 +120,7 @@ on_mptmb: https://github.com/wzmli/on_mptmb.git
 ## Explanations for Walker
 cohorts: https://github.com/dushoff/cohorts
 
-bbmisc: https://github.com/bbolker/bbmisc
+XX. bbmisc: https://github.com/bbolker/bbmisc
 
 XX. predictInterval: https://github.com/dushoff/predictInterval-vs-bootMer
 

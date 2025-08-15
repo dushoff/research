@@ -19,6 +19,13 @@ Ignore += *_files/
 
 ######################################################################
 
+Sources += $(wildcard metapop/*.R metapop/*.md)
+
+burnout5.Rout: metapop/burnout5.R
+	$(pipeR)
+
+######################################################################
+
 ### Makestuff
 
 ## Sources += $(wildcard *.mk)
@@ -32,6 +39,7 @@ makestuff/Makefile:
 	ln -s ../makestuff .
 	ls makestuff/Makefile
 
+-include makestuff/pipeR.mk
 -include makestuff/os.mk
 
 -include makestuff/git.mk
