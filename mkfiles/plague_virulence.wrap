@@ -19,6 +19,8 @@ Ignore += *_files/
 
 ######################################################################
 
+## metapop/README.md
+
 Sources += $(wildcard metapop/*.R metapop/*.md)
 
 burnout5.Rout: metapop/burnout5.R
