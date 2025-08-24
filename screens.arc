@@ -201,6 +201,9 @@ undercount: https://github.com/wzmli/undercount
 
 ######################################################################
 
+Emma's thesis
+coates: https://git@git.overleaf.com/6831e00105f65d70cefb64db
+
 Weitz 2024 summer grant with Roswell
 
 mpop: https://git.overleaf.com/66508900c720b8dcdf64aea0
