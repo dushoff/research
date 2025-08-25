@@ -1,0 +1,46 @@
+## This is a _linked_ WRAPPER makefile for …
+
+current: target
+-include target.mk
+
+vim_session:
+	bash -cl "vmt makefile"
+
+######################################################################
+
+## Don't use a wrapper makefile unless there is already a Makefile
+
+## The Makefile is too crazy for me; but must be included anyway?
+## Don't know why the bib doesn't work
+include Makefile
+
+draft.tex: SIRiaS.tex
+	$(copy)
+
+draft.pdf: %.pdf: %.aux phony
+	$(MAKE) -f $*.tex.mk -f Makefile $*.tex.deps
+	$(MAKE) $*.repeat
+
+## draft.pdf: SIRiaS.tex
+
+######################################################################
+
+### Makestuff
+
+## Sources += $(wildcard *.mk)
+## include $(wildcard *.mk)
+
+Ignore += makefile
+Ignore += makestuff
+msrepo = https://github.com/dushoff
+Makefile: makestuff/Makefile
+makestuff/Makefile:
+	ln -s ../makestuff .
+	ls makestuff/Makefile
+
+-include makestuff/os.mk
+
+-include makestuff/texj.mk
+
+-include makestuff/git.mk
+-include makestuff/visual.mk
