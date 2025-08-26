@@ -37,7 +37,7 @@ scratch: https://github.com/dushoff/scratch.git
 ## Spring 2025 CIHR project grant attempt
 XX. ariData: https://github.com/dushoff/ariData.git
 
-## Play with 
+## Play with RVDSS?
 XX. ariCanada: https://github.com/dushoff/ariCanada
 
 ######################################################################
@@ -201,9 +201,6 @@ undercount: https://github.com/wzmli/undercount
 
 ######################################################################
 
-Emma's thesis
-coates: https://git@git.overleaf.com/6831e00105f65d70cefb64db
-
 Weitz 2024 summer grant with Roswell
 
 mpop: https://git.overleaf.com/66508900c720b8dcdf64aea0
@@ -337,8 +334,6 @@ Other discretization:
 
 SIR fitting
 https://github.com/bbolker/fitode/
-
-sirias: https://github.com/toddlparsons/SIRiaS
 
 Fitting test positivity with beta distributions (and maybe other approaches)
 This is no longer just beta! 2024 Sep 26 (Thu)
@@ -587,6 +582,9 @@ recurrent: https://github.com/toddlparsons/fadeout-SIRS
 toddSize: https://github.com/toddlparsons/final-size 
 
 EarnOp: https://github.com/davidearn/OpEd.git ## NOALL
+
+## Covid no-burnout paper
+XX. sirias: https://github.com/toddlparsons/SIRiaS
 
 ######################################################################
 
