@@ -338,7 +338,7 @@ Other discretization:
 SIR fitting
 https://github.com/bbolker/fitode/
 
-sirias: https://github.com/toddlparsons/SIRiaS
+XX. sirias: https://github.com/toddlparsons/SIRiaS
 
 Fitting test positivity with beta distributions (and maybe other approaches)
 This is no longer just beta! 2024 Sep 26 (Thu)

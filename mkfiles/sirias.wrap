@@ -1,4 +1,4 @@
-## This is a _linked_ WRAPPER makefile for …
+## This is a _linked_ WRAPPER makefile for sirias (Todd and David's covid persistence)
 
 current: target
 -include target.mk
@@ -12,7 +12,12 @@ vim_session:
 
 ## The Makefile is too crazy for me; but must be included anyway?
 ## Don't know why the bib doesn't work
-include Makefile
+## include Makefile
+## Now using a “stealth” approach; seems to work better for bib?
+## Or maybe bib always worked but didn't chain well enough? What's going on?
+
+Ignore += draft.tex stealth.mk ## stealth is a link to a wrapfile!
+Sources += SIRiaS.tex Makefile
 
 draft.tex: SIRiaS.tex
 	$(copy)
