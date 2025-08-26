@@ -229,13 +229,10 @@ Weitz/Harris:
 * Follows on from Epidemics asymptomatic paper (Weitz et al.)
 * Changes through time with intervention
 * Then add age structure
+* archiving the many overleaf projects here now 2025 Aug 26 (Tue)
 
 ## Don't put a new repo in an old spot -- it introduces state-dependency
 harrisCode: https://github.com/Jeremy-D-Harris/Asymptomatic_Transmission_COVID.git
-harris8: https://git.overleaf.com/62582a90b1ccb334db127cc2
-harris7: https://git.overleaf.com/62582a90b1ccb334db127cc2
-harris6: https://github.com/dushoff/asymptomatic-spread-ms-revise-6.git
-harris5: https://git.overleaf.com/622a373c3c3682e6ab58afd6
 
 ######################################################################
 ## Paris 2022
