@@ -201,6 +201,8 @@ undercount: https://github.com/wzmli/undercount
 
 ######################################################################
 
+Overleaf cloning 
+
 Weitz 2024 summer grant with Roswell
 
 mpop: https://git.overleaf.com/66508900c720b8dcdf64aea0
@@ -214,7 +216,7 @@ plateaus: https://github.com/jsweitz/covid19-git-plateaus.git
 Epidemics paper referred to below (Park took over from Weitz? But it's on my org??)
 asymptime: https://github.com/mac-theobio/coronavirus_asymptomatic
 
-## Ugly overleaf problems (bad commands, eps figures not recognized somehow)
+## Ugly problems (bad commands, eps figures not recognized somehow)
 XX. harrisHeterogeneity: https://git.overleaf.com/62bf40f3ae952729f5916136 
 * https://www.overleaf.com/project/62bf40f3ae952729f5916136
 
@@ -619,19 +621,7 @@ oncovid: https://github.com/davidearn/oncovid.git
 
 oncovid/covid-age-master:
 
-## Thesis Development version Deprecated 2024 Sep 12 (Thu)
-stelmachThesis: https://git.overleaf.com/66620ce07ed69fe4a6db53ae
-* https://www.overleaf.com/6175474398vnbhbkhyjnwc
-
-## Thesis submission version (two different login methods); finished
-https://www.overleaf.com/5166392895whhxbdykgkvc#8e7548
-ssThesis: https://git.overleaf.com/66cf78116ff0562c2f393210
-ssOntario: https://git@git.overleaf.com/66cf78116ff0562c2f393210
-
-## First MS version, Deprecated 2024 Dec 16 (Mon)
-ssMS: https://git@git.overleaf.com/66fed91f515eb245a6dce913
-https://www.overleaf.com/5922153474pxhyvdrtrkrk
-
+## Older links deleted 2025 Aug 27 (Wed)
 ## Fancy (pay) MS version
 XX. ssFancy: https://git@git.overleaf.com/6760b9bbaf594837c3e4a147
 https://www.overleaf.com/project/6760b9bbaf594837c3e4a147
@@ -694,8 +684,8 @@ bump: https://github.com/BoltonL/BloodUsageModel.git
 Abbott/Park
 
 XX. truncation: https://git.overleaf.com/63d00636ca448b850dcc82cc
-* https://www.overleaf.com/project/63d00636ca448b850dcc82cc/detacher
-* https://www.overleaf.com/project/63d00636ca448b850dcc82cc/detached
+* .../detacher
+* .../detached
 
 ######################################################################
 
