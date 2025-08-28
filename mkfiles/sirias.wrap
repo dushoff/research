@@ -1,10 +1,11 @@
 ## This is a _linked_ WRAPPER makefile for sirias (Todd and David's covid persistence)
+## It is in fact the first stealth.mk; no pipeline implemented yet
 
 current: target
 -include target.mk
 
 vim_session:
-	bash -cl "vmt makefile"
+	bash -cl "vmt stealth.mk"
 
 ######################################################################
 
