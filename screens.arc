@@ -261,7 +261,7 @@ https://www.overleaf.com/1682588653jcxjjsxrrzcy#5012f2
 XX. SIR_simulations:  https://github.com/dushoff/SIR_simulations
 XX. roswell_Simulations:  https://github.com/mikeroswell/SIR_simulations
 
-XX. rwHeterogeneity: https://git.overleaf.com/6656039e718682018f3b43f2
+rwHeterogeneity: https://git.overleaf.com/6656039e718682018f3b43f2
 * Roswell's emergentHeterogeneity overleaf
 
 Todo list: probably obsolete (Roswell 2022 Nov 23 (Wed))
@@ -683,7 +683,7 @@ bump: https://github.com/BoltonL/BloodUsageModel.git
 
 Abbott/Park
 
-XX. truncation: https://git.overleaf.com/63d00636ca448b850dcc82cc
+truncation: https://git@git.overleaf.com/63d00636ca448b850dcc82cc
 * .../detacher
 * .../detached
 
