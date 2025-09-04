@@ -261,7 +261,8 @@ https://www.overleaf.com/1682588653jcxjjsxrrzcy#5012f2
 XX. SIR_simulations:  https://github.com/dushoff/SIR_simulations
 XX. roswell_Simulations:  https://github.com/mikeroswell/SIR_simulations
 
-rwHeterogeneity: https://git.overleaf.com/6656039e718682018f3b43f2
+XX. emergentHeterogeneity: https://git@git.overleaf.com/6656039e718682018f3b43f2
+
 * Roswell's emergentHeterogeneity overleaf
 
 Todo list: probably obsolete (Roswell 2022 Nov 23 (Wed))
