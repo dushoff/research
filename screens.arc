@@ -322,8 +322,8 @@ forkutzaThesis: https://github.com/GregForkutza/Thesis.git
 
 ## Stats with Bolker
 
-powerTargets.newrepo
-powerTargets: https://github.com/dushoff/powerTargets
+## powerTargets.newrepo
+## powerTargets: https://github.com/dushoff/powerTargets
 
 Multifactorial
 discretization: https://github.com/bbolker/discretization.git
