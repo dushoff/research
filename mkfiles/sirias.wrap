@@ -39,7 +39,7 @@ draft.pdf: %.pdf: %.aux phony
 Ignore += makefile
 Ignore += makestuff
 msrepo = https://github.com/dushoff
-Makefile: makestuff/Makefile
+makefile: makestuff/Makefile
 makestuff/Makefile:
 	ln -s ../makestuff .
 	ls makestuff/Makefile
