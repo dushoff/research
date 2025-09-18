@@ -588,6 +588,7 @@ EarnOp: https://github.com/davidearn/OpEd.git ## NOALL
 
 ## Covid no-burnout paper
 XX. sirias: https://github.com/toddlparsons/SIRiaS
+sirius: https://github.com/toddlparsons/SIRiaS
 
 ######################################################################
 
