@@ -469,6 +469,8 @@ Serengeti_vacc_impacts.vscreen
 ## This is the successor to Wise Monkey
 ct_cleaning: https://github.com/RabiesResearch/ct_cleaning
 
+dogRestriction: https://github.com/eaferguson/human_behaviour
+
 ######################################################################
 
 London school
