@@ -216,6 +216,24 @@ plateaus: https://github.com/jsweitz/covid19-git-plateaus.git
 Epidemics paper referred to below (Park took over from Weitz? But it's on my org??)
 asymptime: https://github.com/mac-theobio/coronavirus_asymptomatic
 
+## Don't put a new repo in an old spot -- it introduces state-dependency
+harrisCode: https://github.com/Jeremy-D-Harris/Asymptomatic_Transmission_COVID.git
+
+######################################################################
+## Paris 2022
+
+## Weitz overleaf
+apeak: https://git.overleaf.com/627b89d8c687175fcbfd0fbb
+
+## Park github
+avar: https://github.com/parksw3/asymptomaticvariant.git 
+
+Published
+
+######################################################################
+
+## Heterogeneity stuff with Weitz lab
+
 ## Ugly problems (bad commands, eps figures not recognized somehow)
 XX. harrisHeterogeneity: https://git.overleaf.com/62bf40f3ae952729f5916136 
 * https://www.overleaf.com/project/62bf40f3ae952729f5916136
@@ -233,29 +251,10 @@ Weitz/Harris:
 * Then add age structure
 * archiving the many overleaf projects here now 2025 Aug 26 (Tue)
 
-## Don't put a new repo in an old spot -- it introduces state-dependency
-harrisCode: https://github.com/Jeremy-D-Harris/Asymptomatic_Transmission_COVID.git
-
-######################################################################
-## Paris 2022
-
-## Weitz overleaf
-apeak: https://git.overleaf.com/627b89d8c687175fcbfd0fbb
-
-## Park github
-avar: https://github.com/parksw3/asymptomaticvariant.git 
-
-Published
-
-######################################################################
-
-## Roswell
-
-Heterogeneity stuff with Weitz lab
-
 XX. epiExplore: https://github.com/mikeroswell/epiExplore ## latex currently elsewhere
 https://www.overleaf.com/1682588653jcxjjsxrrzcy#5012f2
 
+## Roswell
 ## Also found for now in Talks; give this some thought
 ## I asked Roswell to fork this because there is talk stuff in the old one
 XX. SIR_simulations:  https://github.com/dushoff/SIR_simulations
@@ -267,6 +266,8 @@ XX. emergentHeterogeneity: https://git@git.overleaf.com/6656039e718682018f3b43f2
 
 Todo list: probably obsolete (Roswell 2022 Nov 23 (Wed))
 * https://docs.google.com/document/d/1cqjKMvk4qV1paSwkiRnCRZldU1fuPBvlmJlZQvlhDjo/edit?ts=60240871
+
+caseVariation: https://github.com/Aznlfr/VariationExploration
 
 Checkplots includes piano, snail, slug.
 
@@ -324,8 +325,6 @@ forkutzaThesis: https://github.com/GregForkutza/Thesis.git
 
 ## powerTargets.newrepo
 ## powerTargets: https://github.com/dushoff/powerTargets
-
-powertargets: https://github.com/bbolker/powertargets
 
 Multifactorial
 discretization: https://github.com/bbolker/discretization.git
@@ -468,8 +467,6 @@ Serengeti_vacc_impacts.vscreen
 
 ## This is the successor to Wise Monkey
 ct_cleaning: https://github.com/RabiesResearch/ct_cleaning
-
-dogRestriction: https://github.com/eaferguson/human_behaviour
 
 ######################################################################
 
