@@ -20,6 +20,7 @@ content.list
 ## Research sandbox
 
 XX. sandbox: https://github.com/dushoff/ResearchSandbox
+XX. scribble: https://github.com/dushoff/scribble
 
 XX. collab: https://github.com/dushoff/collab
 
