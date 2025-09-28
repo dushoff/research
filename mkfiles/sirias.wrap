@@ -11,13 +11,8 @@ Sources += stealth.MK
 
 ######################################################################
 
-## Don't use a wrapper makefile unless there is already a Makefile
-
-## The Makefile is too crazy for me; but must be included anyway?
-## Don't know why the bib doesn't work
-## include Makefile
-## Now using a “stealth” approach; seems to work better for bib?
-## Or maybe bib always worked but didn't chain well enough? What's going on?
+## Not positive why I preferred the stealth approach here particularly
+## It does seem transparent and good, though!
 
 Ignore += draft.tex stealth.mk ## stealth is a link to a wrapfile!
 Sources += SIRiaS.tex Makefile
