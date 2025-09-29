@@ -327,6 +327,8 @@ forkutzaThesis: https://github.com/GregForkutza/Thesis.git
 ## powerTargets.newrepo
 ## powerTargets: https://github.com/dushoff/powerTargets
 
+XX. powertargets: https://github.com/bbolker/powertargets
+
 Multifactorial
 discretization: https://github.com/bbolker/discretization.git
 * published in Entropy; we cuold consider following up)
