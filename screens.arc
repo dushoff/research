@@ -87,10 +87,10 @@ immuneExplore: https://github.com/dushoff/immuneExplore
 
 ######################################################################
 
+## Work in support of Hendrik 2024 August
 ## Yuyang is working here 2025 Aug 15 (Fri)
 ## There is a makefile, and Yuyang is working in metapop
 XX. plague_virulence: https://github.com/bbolker/plague_virulence
-* Work in support of Hendrik 2024 August
 
 ######################################################################
 
