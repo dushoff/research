@@ -268,7 +268,8 @@ XX. emergentHeterogeneity: https://git@git.overleaf.com/6656039e718682018f3b43f2
 Todo list: probably obsolete (Roswell 2022 Nov 23 (Wed))
 * https://docs.google.com/document/d/1cqjKMvk4qV1paSwkiRnCRZldU1fuPBvlmJlZQvlhDjo/edit?ts=60240871
 
-caseVariation: https://github.com/Aznlfr/VariationExploration
+## Azadeh repo
+XX. caseVariation: https://github.com/Aznlfr/VariationExploration
 
 Checkplots includes piano, snail, slug.
 
