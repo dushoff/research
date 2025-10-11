@@ -27,7 +27,7 @@ XX. collab: https://github.com/dushoff/collab
 ## Fiddle with other people's stuff (private)
 
 ## projects with Miriam (private!)
-XX. mmdcl: https://github.com/dushoff/mmdcl.git
+mmdcl: https://github.com/dushoff/mmdcl.git
 
 ## 2022 Oct 21 (Fri) Resurrecting because it has qbd stuff?
 ## 2025 Jan 23 (Thu) No idea what that meant!
@@ -124,11 +124,11 @@ cohorts: https://github.com/dushoff/cohorts
 
 XX. bbmisc: https://github.com/bbolker/bbmisc
 
-XX. predictInterval: https://github.com/dushoff/predictInterval-vs-bootMer
+predictInterval: https://github.com/dushoff/predictInterval-vs-bootMer
 
-XX. macEndemic: https://github.com/wzmli/macpan_endemic
+macEndemic: https://github.com/wzmli/macpan_endemic
 
-XX. macVax: https://github.com/wzmli/macpan2_vaccines_paper
+macVax: https://github.com/wzmli/macpan2_vaccines_paper
 
 ######################################################################
 
