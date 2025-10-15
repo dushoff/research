@@ -15,6 +15,11 @@ autopipeR = defined
 
 ######################################################################
 
+testData.Rout: testData.R
+	$(pipeR)
+
+######################################################################
+
 Sources += $(wildcard code/*.sh)
 make_trees: code/make_trees.sh
 	bash < $<
