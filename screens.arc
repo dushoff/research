@@ -96,7 +96,9 @@ XX. plague_virulence: https://github.com/bbolker/plague_virulence
 
 XX. macpan2: https://github.com/canmod/macpan2 ## NOALL
 
-XX. candid: https://github.com/canmod/iidda-ms
+XX. candid: https://github.com/canmod/candid
+
+candid_deprecated: https://github.com/canmod/iidda-ms
 
 cgHurford: https://github.com/wzmli/controllability-generalization
 
