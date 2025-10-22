@@ -15,7 +15,15 @@ autopipeR = defined
 
 ######################################################################
 
+## Example made quickly with Jonathan and supplement by BB
 testData.Rout: testData.R
+	$(pipeR)
+
+## Trying to understand and expand the above
+code_that_doesnt_work.Rout: code_that_doesnt_work.R
+	$(pipeR)
+
+code_that_really_doesnt_work.Rout: code_that_really_doesnt_work.R
 	$(pipeR)
 
 ######################################################################
