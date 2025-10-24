@@ -26,6 +26,15 @@ Sources += $(wildcard metapop/*.R metapop/*.md)
 burnout5.Rout: metapop/burnout5.R
 	$(pipeR)
 
+## metapop/stochastic/
+
+## Hastily because Ben is here
+## When opportunity arises, make a Makefile in metapop/stochastic
+## metapop/stochastic/Rplots.pdf: 
+## See alsometapop/stochastic/sim_batch1.R
+metapop/stochastic/sim_batch0.rds: metapop/stochastic/sim_batch0.R
+	cd $(dir $<) && R --vanilla < $(notdir $<)
+
 ######################################################################
 
 ### Makestuff
