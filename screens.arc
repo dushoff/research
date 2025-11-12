@@ -65,8 +65,8 @@ corona: https://github.com/wzmli/corona.git
 
 make eliminate_measles.vscreen
 XX. eliminate_measles: https://github.com/wzmli/eliminate_measles
-Older 
-* can_measles: https://github.com/wzmli/can_measles
+Older:
+can_measles: https://github.com/wzmli/can_measles
 
 ## For looking at seroprevalence data:
 XX. li_immune: https://github.com/wzmli/immunity.git
