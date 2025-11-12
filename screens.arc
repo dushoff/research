@@ -63,7 +63,10 @@ ukcovid: https://github.com/wzmli/ukcovid.git
 ## Something old! Mike accidentally thought he wanted it 2022 Jun 07 (Tue)
 corona: https://github.com/wzmli/corona.git 
 
-XX. can_measles: https://github.com/wzmli/can_measles
+make eliminate_measles.vscreen
+XX. eliminate_measles: https://github.com/wzmli/eliminate_measles
+Older 
+* can_measles: https://github.com/wzmli/can_measles
 
 ## For looking at seroprevalence data:
 XX. li_immune: https://github.com/wzmli/immunity.git
