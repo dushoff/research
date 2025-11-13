@@ -225,6 +225,9 @@ asymptime: https://github.com/mac-theobio/coronavirus_asymptomatic
 ## Don't put a new repo in an old spot -- it introduces state-dependency
 harrisCode: https://github.com/Jeremy-D-Harris/Asymptomatic_Transmission_COVID.git
 
+malloryBreakthrough: https://git@git.overleaf.com/68cdbc3402e2931634a500ac
+* https://www.overleaf.com/project/68cdbc3402e2931634a500ac
+
 ######################################################################
 ## Paris 2022
 
@@ -257,6 +260,7 @@ Weitz/Harris:
 * Then add age structure
 * archiving the many overleaf projects here now 2025 Aug 26 (Tue)
 
+Roswell conjecture proof is here, and maybe it's where I should extend it
 XX. epiExplore: https://github.com/mikeroswell/epiExplore ## latex currently elsewhere
 https://www.overleaf.com/1682588653jcxjjsxrrzcy#5012f2
 
@@ -275,7 +279,7 @@ Todo list: probably obsolete (Roswell 2022 Nov 23 (Wed))
 ## Azadeh repo
 XX. caseVariation: https://github.com/Aznlfr/VariationExploration
 
-Checkplots includes piano, snail, slug.
+######################################################################
 
 ## Going to be a package
 XX. checkPlots:  https://github.com/dushoff/checkPlots.git
