@@ -282,6 +282,11 @@ XX. caseVariation: https://github.com/Aznlfr/VariationExploration
 
 ######################################################################
 
+## Azadeh conformists
+XX. CNC: https://github.com/Aznlfr/CNC
+
+######################################################################
+
 ## Going to be a package
 XX. checkPlots:  https://github.com/dushoff/checkPlots.git
 
