@@ -286,7 +286,8 @@ XX. caseVariation: https://github.com/Aznlfr/VariationExploration
 
 #### New paradigm; do I keep any old repos??
 
-XX. kappaMS:  https://github.com/dushoff/kappaMS.git
+XX. kappaMS: https://github.com/dushoff/kappaMS
+XX. kappaCode: https://github.com/dushoff/kappaCode
 
 ######################################################################
 
