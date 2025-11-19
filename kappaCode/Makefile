@@ -15,10 +15,16 @@ vim_session:
 
 Sources += $(wildcard *.R)
 
-lsCurves.Rout: lsCurves.R
+lsCurves.Rout: lsCurves.R realAct.rda
 	$(pipeR)
 
-realAct.Rout: realAct.R
+realAct.Rout: realAct.R funs.rda
+	$(pipeR)
+
+funs.Rout: funs.R
+	$(pipeR)
+
+densHist.Rout: densHist.R
 	$(pipeR)
 
 ######################################################################

@@ -1,70 +1,65 @@
 # make Lloyd-Smith simple activity and realized distributions
+# copied from overleaf/codes/deadSimple.R 2025 Nov 19 (Wed)
 library(shellpipes)
 loadEnvironments()
 startGraphics()
 library(dplyr)
-## library(tidyr)
+library(purrr)
 
 # parms
-beta1 <- 1.5
-beta2 <- 8
-#beta3 <- 12
+beta <- c(1.5, 8)    # extend as needed
 gamm <- 1
 
-# how many slices?
+# slices
 n <- 300
 xmax <- 30.5
 
-act1 <- beta1/gamm
-act2 <- beta2/gamm
-#act3 <- beta3/gamm
+act <- beta / gamm
 
-actDist <- function(low = 0, high = 30, n = n, act){
-	x <- seq(low, high, length.out = n)
-	d <- dexp(x, rate = 1/act)
-	inpt_name <- paste0("act_", deparse(substitute(act)))
-		# d/sum(d)
-	return(data.frame(x, d,  distr = rep(inpt_name, length(x))))
+actDist <- function(low = 0, high = 30, n = n, act, label){
+    x <- seq(low, high, length.out = n)
+    d <- dexp(x, rate = 1/act)
+    return(
+        data.frame(x, d, distr = rep(label, length(x)))
+    )
 }
 
-# deviates to sample
-# n <- 15000
+secDist <- function(high = 30, act, label){
+    x <- 0:high
+    d <- dgeom(x, prob = odds2prob(1/act))
+    return(
+        data.frame(x, d, distr = rep(label, length(x)))
+    )
+}
 
 actHist <- function(n, act){
-	d <- rexp(n = n, rate = 1/act)
-	return(d)
-}
-
-secDist <- function(high = 30, act){
-	x <- 0:high
-	d <- dgeom(x, prob = makeP(1/act))
-	inpt_name <- paste0("scnd_", deparse(substitute(act)))
-	# d/sum(d)
-	# d*length(betaT)
-	return(data.frame(x, d, distr = rep(inpt_name, length(x))))
+    rexp(n = n, rate = 1/act)
 }
 
 secHist <- function(n, act){
-	d <- rgeom(n = n, prob = makeP(1/act))
-	return(d)
+    rgeom(n = n, prob = odds2prob(1/act))
 }
 
-deadDat <- bind_rows( actDist(low = 0, high = xmax, n = n, act = act1)
-		, actDist(low = 0, high = xmax, n = n, act = act2)
-		#	, actDist(low = 0, high = xmax, n = n, act = act3)
-		, secDist(high = xmax, act = act1)
-		, secDist(high = xmax, act = act2)
-		#	, secDist(high = xmax, act = act3)
-		)
+# Build distributions
+deadDat <- bind_rows(
+    map_dfr(seq_along(act)
+        , ~ actDist(low = 0, high = xmax, n = n, act = act[.x], label = paste0("act_", .x))
+    )
+    , map_dfr(seq_along(act)
+        , ~ secDist(high = xmax, act = act[.x], label = paste0("scnd_", .x))
+    )
+)
+
+# Histograms
 n <- 2e4
-histDat <- data.frame(ind = 1:n
-		, activity_1 = actHist(n, act1)
-		, activity_2 = actHist(n, act2)
-		#	, activity_3 = actHist(n, act3)
-		, secondary_1 = secHist(n, act1)
-		, secondary_2 = secHist(n, act2)
-		#	, secondary_3 = secHist(n, act3)
-	)
+histDat <- data.frame(ind = 1:n) |>
+    bind_cols(
+        map(setNames(seq_along(act), paste0("activity_", seq_along(act)))
+            , ~ actHist(n, act[.x])
+        )
+        , map(setNames(seq_along(act), paste0("secondary_", seq_along(act)))
+            , ~ secHist(n, act[.x])
+        )
+    )
 
 saveEnvironment()
-

@@ -1,4 +1,5 @@
-## 2025 Nov 19 (Wed) Copied from overleaf
+## 2025 Nov 19 (Wed) Copied from overleaf/codes/plotPMF_PDF_ineq.R
+## ls for Lloyd-Smith
 
 library(shellpipes)
 library(ggplot2)
@@ -20,11 +21,10 @@ fancyHist <- (deadDat
 		, if_else(x == 0, 2*d, d)
 	, d))
 )
-
-twoClass <- (cFracs
-	|> pivot_longer(cols = c("ideal", "real")
-	, names_to = "distType"
-	, values_to = "val")
-	|> mutate(distParms = model_description)
-	|> mutate(distr = paste(distType, distParms))
+print(fancyHist 
+	|> densHist(colorVar = "distParms"
+		, colorVals = c(1.5, 8) , colorLab = "R_0" , groupVar = "distr"
+	)
 )
+
+
