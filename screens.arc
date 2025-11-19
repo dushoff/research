@@ -254,6 +254,10 @@ Weitz heterogeneity two older papers
 * Downloads/WeitzOrder.pdf
 * Downloads/WeitzContagion.pdf
 
+######################################################################
+
+## Weitz heterogeneity; huge!
+
 Weitz/Harris:
 * Chains of transmission and age distributions
 * Follows on from Epidemics asymptomatic paper (Weitz et al.)
@@ -279,6 +283,10 @@ Todo list: probably obsolete (Roswell 2022 Nov 23 (Wed))
 
 ## Azadeh repo
 XX. caseVariation: https://github.com/Aznlfr/VariationExploration
+
+#### New paradigm; do I keep any old repos??
+
+XX. kappaMS:  https://github.com/dushoff/kappaMS.git
 
 ######################################################################
 
