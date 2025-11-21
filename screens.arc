@@ -288,6 +288,7 @@ XX. caseVariation: https://github.com/Aznlfr/VariationExploration
 
 XX. kappaMS: https://github.com/dushoff/kappaMS
 XX. kappaCode: https://github.com/dushoff/kappaCode
+XX. rcCode: https://github.com/dushoff/rcCode
 
 ######################################################################
 
