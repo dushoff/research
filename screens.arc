@@ -68,6 +68,10 @@ XX. eliminate_measles: https://github.com/wzmli/eliminate_measles
 Older:
 can_measles: https://github.com/wzmli/can_measles
 
+## Weitz/Mallory breakouts
+breakout: 1. https://git@git.overleaf.com/68cdbc3402e2931634a500ac
+* https://www.overleaf.com/project/68cdbc3402e2931634a500ac
+
 ## For looking at seroprevalence data:
 XX. li_immune: https://github.com/wzmli/immunity.git
 
