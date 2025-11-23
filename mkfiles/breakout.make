@@ -19,6 +19,12 @@ Sources += $(wildcard *.tex)
 
 ## 0new-main.pdf: 0new-main.tex jd.tex
 
+## 0new-main.tex.339504c.oldfile:
+
+## 0new-main.ld.pdf: 0new-main.ld.tex
+
+## jd1.pdf: jd1.tex
+
 ## main.pdf: main.tex
 
 ######################################################################
