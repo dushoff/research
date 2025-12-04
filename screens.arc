@@ -289,12 +289,9 @@ Todo list: probably obsolete (Roswell 2022 Nov 23 (Wed))
 XX. caseVariation: https://github.com/Aznlfr/VariationExploration
 
 #### New paradigm; do I keep any old repos??
-
 XX. kappaMS: https://github.com/dushoff/kappaMS
 XX. kappaCode: https://github.com/dushoff/kappaCode
-XX. rcCode: https://github.com/dushoff/rcCode
-
-## Spinning a stochastic simulator
+## New stochastic simulator (meant to replace epiExplore simulations)
 XX. ehSim: https://github.com/dushoff/ehSim
 
 ######################################################################
