@@ -16,6 +16,7 @@ autopipeR = defined
 ######################################################################
 
 Sources += $(wildcard *.tex)
+Ignore += *.pdf
 
 ## 0new-main.pdf: 0new-main.tex jd.tex
 
