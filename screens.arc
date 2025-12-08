@@ -27,16 +27,16 @@ XX. collab: https://github.com/dushoff/collab
 ## Fiddle with other people's stuff (private)
 
 ## projects with Miriam (private!)
-mmdcl: https://github.com/dushoff/mmdcl.git
+mmdcl: https://github.com/dushoff/mmdcl
 
 ## 2022 Oct 21 (Fri) Resurrecting because it has qbd stuff?
 ## 2025 Jan 23 (Thu) No idea what that meant!
-scratch: https://github.com/dushoff/scratch.git
+scratch: https://github.com/dushoff/scratch
 
 ######################################################################
 
 ## Spring 2025 CIHR project grant attempt
-XX. ariData: https://github.com/dushoff/ariData.git
+XX. ariData: https://github.com/dushoff/ariData
 
 ## Play with RVDSS?
 XX. ariCanada: https://github.com/dushoff/ariCanada
@@ -58,7 +58,7 @@ sacco: https://github.com/SACEMA/omicronSA ## NOALL
 
 tmbfits: https://github.com/wzmli/covid_2022
 
-ukcovid: https://github.com/wzmli/ukcovid.git
+ukcovid: https://github.com/wzmli/ukcovid
 
 ## Something old! Mike accidentally thought he wanted it 2022 Jun 07 (Tue)
 corona: https://github.com/wzmli/corona.git 
@@ -73,10 +73,10 @@ XX. breakout: https://git@git.overleaf.com/68cdbc3402e2931634a500ac
 * https://www.overleaf.com/project/68cdbc3402e2931634a500ac
 
 ## For looking at seroprevalence data:
-XX. li_immune: https://github.com/wzmli/immunity.git
+XX. li_immune: https://github.com/wzmli/immunity
 
 ## All the weird diagrams from late 2023
-li_cross: https://github.com/wzmli/cross_immunity_prod.git
+li_cross: https://github.com/wzmli/cross_immunity_prod
 
 ## Misc
 vaxsims: https://github.com/wzmli/vaxsims
@@ -115,19 +115,19 @@ cgHurford: https://github.com/wzmli/controllability-generalization
 XX. retro: https://github.com/papsti/macpan_retro
 
 ## This is ancient stuff; new repo is under canmod
-macpan:  https://github.com/bbolker/McMasterPandemic.git
+macpan:  https://github.com/bbolker/McMasterPandemic
 macpan/notes ## This is inaesthetic
 macpan/ontario ## 
 ## The two Dushoff subdirs each make their own cachestuff; also, what's the relationship with macpan_ontario?
 ## Something about public vs. secret data
 ## Refactor all of this or suppress before starting next computer
 
-macPlan: https://github.com/mac-theobio/macpan_planning.git
+macPlan: https://github.com/mac-theobio/macpan_planning
 
 state:  https://github.com/bbolker/NYScovid19.git ../coronavirus/state/
 
 TMB transition
-on_mptmb: https://github.com/wzmli/on_mptmb.git
+on_mptmb: https://github.com/wzmli/on_mptmb
 
 ## Explanations for Walker
 cohorts: https://github.com/dushoff/cohorts
@@ -144,7 +144,7 @@ macVax: https://github.com/wzmli/macpan2_vaccines_paper
 
 ## Covid data
 
-corrections: https://github.com/wzmli/correct_testing.git
+corrections: https://github.com/wzmli/correct_testing
 
 Canada:  https://github.com/wzmli/COVID19-Canada.git ../coronavirus/Canada/ Mike's Canadian data
 
@@ -153,21 +153,21 @@ table:  https://github.com/davidearn/OntarioModellingTable.git  ../coronavirus/t
 
 ## Current Manuscripts; working with Mike to build in a good way
 ## When did I say that??
-PHAC: https://github.com/mac-theobio/PHAC_covid.git
+PHAC: https://github.com/mac-theobio/PHAC_covid
 
 PHAC model spreadsheet
 * https://docs.google.com/spreadsheets/d/1P-2EKmYPlVwOz-Y20cIxqo8ZL8ZVj9yj5z6HjikTxp0/edit#gid=130126832
 
 ## Mike's macpan_canada
-guelph: https://github.com/wzmli/macpan_canada.git
+guelph: https://github.com/wzmli/macpan_canada
 
 MacPan paper and weird stuff from Mike
-XX. base: https://github.com/wzmli/macpan_base.git
+XX. base: https://github.com/wzmli/macpan_base
 
 ## 2021 Nov 19 (Fri) New Mike-bus workflow
-macflow: https://github.com/wzmli/macpan_flow.git
+macflow: https://github.com/wzmli/macpan_flow
 
-MacOMT: https://github.com/wzmli/MacOMT_report.git
+MacOMT: https://github.com/wzmli/MacOMT_report
 
 MacOMT/forecast_blog
 
@@ -220,7 +220,7 @@ mpop: https://git.overleaf.com/66508900c720b8dcdf64aea0
 * https://www.overleaf.com/project/66508900c720b8dcdf64aea0
 
 Weitz plateaus very Weitz-ish
-plateaus: https://github.com/jsweitz/covid19-git-plateaus.git
+plateaus: https://github.com/jsweitz/covid19-git-plateaus
 * 2020 May 21 (Thu): submitted to PNAS
 * https://docs.google.com/document/d/1SnvpniWc8wyMob1xWFxrShOAV6n7B_s1cYhR7Dih3r8/edit
 
@@ -228,7 +228,7 @@ Epidemics paper referred to below (Park took over from Weitz? But it's on my org
 asymptime: https://github.com/mac-theobio/coronavirus_asymptomatic
 
 ## Don't put a new repo in an old spot -- it introduces state-dependency
-harrisCode: https://github.com/Jeremy-D-Harris/Asymptomatic_Transmission_COVID.git
+harrisCode: https://github.com/Jeremy-D-Harris/Asymptomatic_Transmission_COVID
 
 malloryBreakthrough: https://git@git.overleaf.com/68cdbc3402e2931634a500ac
 * https://www.overleaf.com/project/68cdbc3402e2931634a500ac
@@ -302,7 +302,7 @@ XX. CNC: https://github.com/Aznlfr/CNC
 ######################################################################
 
 ## Going to be a package
-XX. checkPlots:  https://github.com/dushoff/checkPlots.git
+XX. checkPlots:  https://github.com/dushoff/checkPlots
 
 ## Going to be a MS
 XX. CheckDiv:  https://github.com/mikeroswell/CheckDiv.git 
@@ -310,7 +310,7 @@ XX. CheckDiv:  https://github.com/mikeroswell/CheckDiv.git
 ## This package is coming out with the OikosR1S2
 ## Should be submitted soon-ish to MEE or JSS ## re-upped 2023 Mar 28 (Tue)
 ## seesaws are also here
-rarity: https://github.com/mikeroswell/MeanRarity.git
+rarity: https://github.com/mikeroswell/MeanRarity
 
 God's estimator is here
 
@@ -321,10 +321,10 @@ God's estimator is here
 * checkPlots package
 * fancier packages with heavy-lifting stuff (both diversity-specific and not)
 
-XX. richness: https://github.com/mikeroswell/Richness_abundance_sampling.git
+XX. richness: https://github.com/mikeroswell/Richness_abundance_sampling
 
 ## Published
-Diversity_Guide: https://github.com/mikeroswell/Diversity_Guide.git
+Diversity_Guide: https://github.com/mikeroswell/Diversity_Guide
 MS:
 * https://docs.google.com/document/d/1JAMNZmy2OgUrLdng9L0888bAvKO6AabhtU0e_QSFRaw/edit
 * ~/Downloads/OikosR1.pdf
@@ -332,7 +332,7 @@ MS:
 * R2R
 * https://docs.google.com/document/d/10UEzTAe8rlAFHD7ojoPO0GGZPh00QKF6BKNmXeURwOk/edit
 
-XX. ratioScales: https://github.com/mikeroswell/ratioScales.git
+XX. ratioScales: https://github.com/mikeroswell/ratioScales
 
 ## Deprecated (do not clone; it's insanely huge)
 usedtobediversity:  https://github.com/dushoff/diversity_metrics.git  ../projects/diversity_metrics/ # NOALL
@@ -343,11 +343,11 @@ usedtobediversity:  https://github.com/dushoff/diversity_metrics.git  ../project
 
 ## JD projects
 
-stochInv: https://github.com/dushoff/stochInv.git
+stochInv: https://github.com/dushoff/stochInv
 
-predictions: https://github.com/dushoff/predictions.git
+predictions: https://github.com/dushoff/predictions
 
-forkutzaThesis: https://github.com/GregForkutza/Thesis.git
+forkutzaThesis: https://github.com/GregForkutza/Thesis
 
 ######################################################################
 
@@ -359,7 +359,7 @@ forkutzaThesis: https://github.com/GregForkutza/Thesis.git
 XX. powertargets: https://github.com/bbolker/powertargets
 
 Multifactorial
-discretization: https://github.com/bbolker/discretization.git
+discretization: https://github.com/bbolker/discretization
 * published in Entropy; we cuold consider following up)
 
 Other discretization:
@@ -384,7 +384,7 @@ dates: https://github.com/mac-theobio/dateProcessing.git ## NOALL
 ######################################################################
 
 ## ASU 2020 conference
-polarization:  https://github.com/dushoff/polarization.git
+polarization:  https://github.com/dushoff/polarization
 
 ######################################################################
 
@@ -409,11 +409,11 @@ exponential_framework:  https://github.com/parksw3/wuhan.git ../outbreak/park
 * Accepted 2020 Jun 29 (Mon)
 * https://royalsocietypublishing.org/doi/10.1098/rsif.2020.0144
 
-cereal: https://github.com/parksw3/serial2.git
+cereal: https://github.com/parksw3/serial2
 New drafty Rt stuff cloned 2020 Jul 01 (Wed) after a Lipsitch “scoop”
 
 ## R-Packaging some of the generation stufff
-rRlinks: https://github.com/mac-theobio/rRlinks.git
+rRlinks: https://github.com/mac-theobio/rRlinks
 
 ## Speed and strength
 ## OUT
@@ -426,18 +426,18 @@ Korea:  https://github.com/parksw3/Korea-analysis.git  ../outbreak/Korea/
 
 ## Serial data here
 ## Look at Table*xl* and serial*.R ## outdated? 2021 Jul 01 (Thu)
-interval_data: https://github.com/parksw3/serialdata.git
+interval_data: https://github.com/parksw3/serialdata
 
 ## Daniel and Sunky's individual/population speed/strength stuff
 ## Invite co-authors (David, Ben, Sunky, Bryan, Joshua, Jess?, Funk?)
 ## Submit to JRSI
 ## Reap rewards (Daniel calls this the Rt paper)
-XX. gamma: https://github.com/parksw3/individual_intervention.git
+XX. gamma: https://github.com/parksw3/individual_intervention
 
 ## Quick new variant stuff
 ## Rejected PRSB ⇒ JRSI $#@!ed up rejection, appeal
 ## IN review
-ssvariant: https://github.com/parksw3/newvariant.git
+ssvariant: https://github.com/parksw3/newvariant
 
 ## Rejected PNAS months ago 2024 Jan 19 (Fri)
 ## JRSI? Review 2024 March
@@ -453,7 +453,7 @@ figure directory
 rsv: https://github.com/parksw3/rsv-immunity
 
 ## Published
-omicron_gens: https://github.com/parksw3/omicron-generation.git
+omicron_gens: https://github.com/parksw3/omicron-generation
 
 ## Within- and between-group heterogeneity with Christophe Fraser et al.
 ## norepoyetshared
@@ -488,7 +488,7 @@ rabies_db_pipeline
 rabies_report
 * sds ~/gitroot/rabies_report ##
 
-tz_vaccine: https://github.com/wzmli/TZrabies_vaccine.git
+tz_vaccine: https://github.com/wzmli/TZrabies_vaccine
 
 rrNotes: https://github.com/mikeroswell/RabiesNotes
 
@@ -515,7 +515,7 @@ logScore.vscreen
 ## side projects?
 
 3SA.newrepo:
-3SA: https://github.com/dushoff/3SA.git
+3SA: https://github.com/dushoff/3SA
 
 ######################################################################
 
@@ -524,27 +524,27 @@ logScore.vscreen
 This was the github.io page, but C. may still be doing stuff here?
 websurvey:  https://github.com/covid19awareness/covid19awareness.github.io.git  ../coronavirus/websurvey/
 
-awareness: https://github.com/covid19awareness/Survey.git
+awareness: https://github.com/covid19awareness/Survey
 
-youtube: https://github.com/covid19awareness/YouTube.git
+youtube: https://github.com/covid19awareness/YouTube
 youtube/rfigs:
 youtube/drive_loading/
 
 misinformation: https://github.com/covid19awareness/misinformation
 
-Google_News: https://github.com/covid19awareness/Google_News.git
+Google_News: https://github.com/covid19awareness/Google_News
 
 comms_proposal: (spring 2020):  https://github.com/cfshi/coronavirus.git  ../outbreak/ccall/
 
-awareness_proposal: https://github.com/covid19awareness/CIHR_call.git
+awareness_proposal: https://github.com/covid19awareness/CIHR_call
 
 ### pre-covid
 
 Don't go to fgc_data, run it from fgc
-XX. fgc: https://github.com/fishforwish/fgc.git
-fgc_data: https://github.com/dushoff/fgc_data.git
+XX. fgc: https://github.com/fishforwish/fgc
+fgc_data: https://github.com/dushoff/fgc_data
 
-DO NOT USE https://github.com/cfshi/fgc.git
+DO NOT USE https://github.com/cfshi/fgc
 
 ######################################################################
 
@@ -589,7 +589,7 @@ https://github.com/davidearn/eeid2024
 
 earnAlliance: https://github.com/davidearn/NSERC_Alliance
 
-covidgrowthfit: https://github.com/davidearn/covidgrowthfit.git
+covidgrowthfit: https://github.com/davidearn/covidgrowthfit
 * Patterns of little r
 
 Age distributions (Papst)
@@ -597,9 +597,9 @@ ON_age:  https://github.com/davidearn/covid_age.git ## private
 On_ageBMC: https://github.com/papsti/covid-age ## NOALL
 
 ## Plague
-plague_growth: https://github.com/davidearn/plague_growth.git
+plague_growth: https://github.com/davidearn/plague_growth
 plague: https://github.com/davidearn/plague.git ## NOALL; Old, messy repo
-louseplague: https://github.com/bbolker/louseplague.git
+louseplague: https://github.com/bbolker/louseplague
 	* In the wind, Daniel might be interested? 2024 Sep 05 (Thu)
 	* Jason Pekos's Masters project shows that Li et al. moment matching breaks down outside a narrow window
 
@@ -607,7 +607,7 @@ louseplague: https://github.com/bbolker/louseplague.git
 epigrowthfit: https://github.com/davidearn/epigrowthfit.git ## NOALL
 
 ## Mikael canmod app
-egf_extra: https://github.com/dushoff/egf_extra.git
+egf_extra: https://github.com/dushoff/egf_extra
 
 ## Fadeouts (Old invasion project) Parsons-led now
 fadeouts: https://github.com/davidearn/fadeout-heuristic ## MS
@@ -624,7 +624,7 @@ XX. sirias: https://github.com/toddlparsons/SIRiaS
 
 ######################################################################
 
-XX. cmProduct: https://github.com/canmod/productModel.git
+XX. cmProduct: https://github.com/canmod/productModel
 
 ######################################################################
 
@@ -633,7 +633,7 @@ mothResist: https://git.overleaf.com/62669e328223bb2f4dbcf663
 
 ######################################################################
 
-gos: https://github.com/mac-theobio/GOS_NMF.git
+gos: https://github.com/mac-theobio/GOS_NMF
 
 ######################################################################
 
@@ -648,7 +648,7 @@ intermittent.tmp
 ## Stelmach Sophie
 
 ## Survey project
-sophie: https://github.com/davidearn/SophieStelmach.git
+sophie: https://github.com/davidearn/SophieStelmach
 macSurvey: https://git.overleaf.com/63234b917bd9e40887d0d291
 https://www.overleaf.com/1129955835kzxmjtwmgmvz
 Sophie to report back about this; then David and Jonathan decide what to do.
@@ -667,7 +667,7 @@ https://www.overleaf.com/project/6760b9bbaf594837c3e4a147
 
 ## Grant support
 
-dime: https://github.com/davidearn/EIDM_platforms.git
+dime: https://github.com/davidearn/EIDM_platforms
 
 walker: https://github.com/davidearn/SteveWalker
 
@@ -681,13 +681,13 @@ intermittent: ##  NOALL
 ## WHO AFRO
 afroData: https://github.com/SACEMA/afroData.git ../coronavirus/afroData/
 
-afroFitting: https://github.com/SACEMA/afroFitting.git
+afroFitting: https://github.com/SACEMA/afroFitting
 
 afroReports: https://github.com/SACEMA/afroReports
 
-afroRegional: https://github.com/SACEMA/afroRegional.git
+afroRegional: https://github.com/SACEMA/afroRegional
 
-afroCalib: https://github.com/SACEMA/afroRegionCalib.git
+afroCalib: https://github.com/SACEMA/afroRegionCalib
 
 Documentation Google drive
 * https://drive.google.com/drive/folders/14W3suVM4EWzxTRtVoEBobEP3_zzmB74q
@@ -714,7 +714,7 @@ public_reinf: https://github.com/jrcpulliam/reinfections ## NOALL
 
 Larisse Bolton
 
-bump: https://github.com/BoltonL/BloodUsageModel.git
+bump: https://github.com/BoltonL/BloodUsageModel
 
 ######################################################################
 
@@ -727,11 +727,11 @@ truncation: https://git@git.overleaf.com/63d00636ca448b850dcc82cc
 ######################################################################
 
 # PNAS response letter
-goldstein: https://github.com/Outbreak-analysis/VaccinationLetter.git
+goldstein: https://github.com/Outbreak-analysis/VaccinationLetter
 
 ## Tech stuff from elsewhere
 
-packagemaker: https://github.com/ComputationalProteomicsUnit/maker.git
+packagemaker: https://github.com/ComputationalProteomicsUnit/maker
 
 ######################################################################
 
@@ -750,13 +750,13 @@ nxOE3: https://git.overleaf.com/66268f28e03157f92bd95391  ## NOALL
 
 ## Ali
 
-SIRtest: https://github.com/aligharouni/SIRmodel.git
+SIRtest: https://github.com/aligharouni/SIRmodel
 
-SIRpublic: https://github.com/mac-theobio/SIR_testing_model.git
+SIRpublic: https://github.com/mac-theobio/SIR_testing_model
 
-epi_cohort: https://github.com/aligharouni/epi_cohort.git
+epi_cohort: https://github.com/aligharouni/epi_cohort
 
-fish_connect: https://github.com/aligharouni/connectivity.git
+fish_connect: https://github.com/aligharouni/connectivity
 make fish_connect/makefile  ##
 make fish_connect.all  ##
 
@@ -770,7 +770,7 @@ leisure: https://github.com/dushoff/LeisurelyStatistics
 
 Archivy stuff
 
-stochChapter: https://github.com/dushoff/Stochasticity_chapter.git
+stochChapter: https://github.com/dushoff/Stochasticity_chapter
 
 ######################################################################
 
@@ -805,7 +805,7 @@ test_positivity:  https://github.com/GeethaJey/COVID-TPR.git ./test_positivity
 
 ## Michelle Huynh
 
-huynh: https://github.com/huynhm7/MDD-Thesis.git
+huynh: https://github.com/huynhm7/MDD-Thesis
 
 ######################################################################
 
