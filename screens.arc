@@ -41,7 +41,7 @@ XX. ariData: https://github.com/dushoff/ariData.git
 ## Play with RVDSS?
 XX. ariCanada: https://github.com/dushoff/ariCanada
 
-######################################################################
+######################################################################1. 
 
 XX. covid_sero: https://github.com/wzmli/covid_sero
 
@@ -69,7 +69,7 @@ Older:
 can_measles: https://github.com/wzmli/can_measles
 
 ## Weitz/Mallory breakouts
-breakout: 1. https://git@git.overleaf.com/68cdbc3402e2931634a500ac
+XX. breakout: https://git@git.overleaf.com/68cdbc3402e2931634a500ac
 * https://www.overleaf.com/project/68cdbc3402e2931634a500ac
 
 ## For looking at seroprevalence data:

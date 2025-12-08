@@ -20,11 +20,19 @@ Sources += $(wildcard *.tex)
 ## 0new-main.pdf: 0new-main.tex jd.tex
 
 ## 0new-main.tex.339504c.oldfile:
+## 0new-main.tex.24599a14.oldfile:
 
-## 0new-main.ld.pdf: 0new-main.ld.tex
+## This can't be an implicit rule because it will crush older files
+## when you commit!
+## There is some sort of weird churning going on as well.
+## jd2.pdf: jd2.tex
+jdXX.tex: 0new-main.ld.tex
+	$(move)
 
+## Dushoff diffs
 ## jd1.pdf: jd1.tex
 
+### OUTDATED
 ## main.pdf: main.tex
 
 ######################################################################
