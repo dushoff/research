@@ -41,6 +41,9 @@ XX. ariData: https://github.com/dushoff/ariData
 ## Play with RVDSS?
 XX. ariCanada: https://github.com/dushoff/ariCanada
 
+## Delete this soon 2026 Jan 14 (Wed)
+albertaFlu: https://git@git.overleaf.com/696454c7a6d4db3e679809a3
+
 ######################################################################1. 
 
 XX. covid_sero: https://github.com/wzmli/covid_sero
