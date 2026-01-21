@@ -18,23 +18,12 @@ autopipeR = defined
 Sources += $(wildcard *.tex)
 Ignore += *.pdf
 
-## 0new-main.pdf: 0new-main.tex jd.tex
 
-## 0new-main.tex.339504c.oldfile:
-## 0new-main.tex.24599a14.oldfile:
+## Weird history, back to using main apparently
 
-## This can't be an implicit rule because it will crush older files
-## when you commit!
-## There is some sort of weird churning going on as well.
-## jd2.pdf: jd2.tex
-jdXX.tex: 0new-main.ld.tex
-	$(move)
+## main.force.pdf: main.tex supp.tex
 
-## Dushoff diffs
-## jd1.pdf: jd1.tex
-
-### OUTDATED
-## main.pdf: main.tex
+## latexdiff pre.tex jd.tex > diff.tex ##
 
 ######################################################################
 

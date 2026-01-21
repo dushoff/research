@@ -41,9 +41,6 @@ XX. ariData: https://github.com/dushoff/ariData
 ## Play with RVDSS?
 XX. ariCanada: https://github.com/dushoff/ariCanada
 
-## Delete this soon 2026 Jan 14 (Wed)
-albertaFlu: https://git@git.overleaf.com/696454c7a6d4db3e679809a3
-
 ######################################################################1. 
 
 XX. covid_sero: https://github.com/wzmli/covid_sero
@@ -288,12 +285,17 @@ emergentHeterogeneity: https://git@git.overleaf.com/6656039e718682018f3b43f2
 Todo list: probably obsolete (Roswell 2022 Nov 23 (Wed))
 * https://docs.google.com/document/d/1cqjKMvk4qV1paSwkiRnCRZldU1fuPBvlmJlZQvlhDjo/edit?ts=60240871
 
-## Azadeh repo
+######################################################################
+
+## Emergent heterogeneity and the case-variation
+
+## Azadeh repo # Thoughts about MS #2 and the math
 XX. caseVariation: https://github.com/Aznlfr/VariationExploration
 
-#### New paradigm; do I keep any old repos??
+## These two are supposed to work together to make MS #1
 XX. kappaMS: https://github.com/dushoff/kappaMS
 XX. kappaCode: https://github.com/dushoff/kappaCode
+
 ## New stochastic simulator (meant to replace epiExplore simulations)
 XX. ehSim: https://github.com/dushoff/ehSim
 
@@ -308,7 +310,7 @@ XX. CNC: https://github.com/Aznlfr/CNC
 XX. checkPlots:  https://github.com/dushoff/checkPlots
 
 ## Going to be a MS
-XX. CheckDiv:  https://github.com/mikeroswell/CheckDiv.git 
+XX. CheckDiv:  https://github.com/mikeroswell/CheckDiv
 
 ## This package is coming out with the OikosR1S2
 ## Should be submitted soon-ish to MEE or JSS ## re-upped 2023 Mar 28 (Tue)
