@@ -41,6 +41,9 @@ XX. ariData: https://github.com/dushoff/ariData
 ## Play with RVDSS?
 XX. ariCanada: https://github.com/dushoff/ariCanada
 
+XX. ariHamilton: https://github.com/dushoff/ariHamilton
+ariHamilton.newrepo
+
 ######################################################################1. 
 
 XX. covid_sero: https://github.com/wzmli/covid_sero
