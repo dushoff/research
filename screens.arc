@@ -203,6 +203,12 @@ XX. tec: https://github.com/wzmli/tec_effs
 
 ######################################################################
 
+Xingyuan Su 
+
+learn_popgen: https://github.com/sux21/learn_popgen
+
+######################################################################
+
 ## POX
 
 poxli: https://github.com/wzmli/macpan_mpx
