@@ -308,6 +308,8 @@ XX. kappaCode: https://github.com/dushoff/kappaCode
 ## New stochastic simulator (meant to replace epiExplore simulations)
 XX. ehSim: https://github.com/dushoff/ehSim
 
+XX. behavior: https://github.com/Aznlfr/BehaviorModeling
+
 ######################################################################
 
 ## Azadeh conformists
