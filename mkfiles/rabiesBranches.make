@@ -11,19 +11,12 @@ vim_session:
 ######################################################################
 
 Sources += $(wildcard *.R *.md *.rmd)
+Sources += $(wildcard code/*.R)
 autopipeR = defined
 
 ######################################################################
 
-## Example made quickly with Jonathan and supplement by BB
-testData.Rout: testData.R
-	$(pipeR)
-
-## Trying to understand and expand the above
-code_that_doesnt_work.Rout: code_that_doesnt_work.R
-	$(pipeR)
-
-code_that_really_doesnt_work.Rout: code_that_really_doesnt_work.R
+tree_lengths_doesnt_work.Rout: code/tree_lengths_doesnt_work.R
 	$(pipeR)
 
 ######################################################################
