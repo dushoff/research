@@ -485,6 +485,8 @@ Milo and Sender (the Rons)
 
 rabiesBias: https://github.com/RowanDurrant/rabies-codon-bias
 XX. rabiesBranches: https://github.com/RowanDurrant/branch_lengths ## NOALL
+outbreak-size estimation (prose)
+proseOutbreaks: https://github.com/RowanDurrant/prose
 
 Epidemics, BMC Public Health? PLoS NTDs
 * Ask Ben; talk to Mike
