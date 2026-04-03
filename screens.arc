@@ -84,7 +84,7 @@ li_cross: https://github.com/wzmli/cross_immunity_prod
 ## Misc
 vaxsims: https://github.com/wzmli/vaxsims
 
-XX. liMeasles: https://github.com/wzmli/macpan2_measles
+liMeasles: https://github.com/wzmli/macpan2_measles
 
 mpWorkshop: https://github.com/canmod/macpan-workshop
 
