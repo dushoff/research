@@ -21,7 +21,7 @@ Ignore += *.pdf
 
 ## Weird history, back to using main apparently
 
-## main.force.pdf: main.tex supp.tex
+## main.force.pdf: main.tex supp.tex main.log
 
 ## latexdiff pre.tex jd.tex > diff.tex ##
 
