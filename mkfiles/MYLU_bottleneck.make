@@ -1,4 +1,4 @@
-## This is a _linked_ (mkfile) Makefile for …
+## This is a _linked_ (mkfile) Makefile for Xingyuan's bat bottlenecks
 
 current: target
 -include target.mk
